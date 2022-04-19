@@ -2,11 +2,32 @@
 sort: 1
 ---
 
-image:images/Logo-Red_Hat-OpenShift-A-Red-RGB.png[]
-
 # OpenShift
 
+image:images/Logo-Red_Hat-OpenShift-A-Red-RGB.png[]
+
 ## 01. 製品説明資料
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>ドキュメント名</th> <th>リンク先</th>　<th>確認日</th>
+  </tr>
+
+  <tr><!-- 行2 -->
+    <td>データシート</td>
+    <td>[Link](https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf)</td>
+    <td>2022/04/19</td>
+  </tr>
+
+  <tr><!-- 行3 -->
+    <td>レモン</td> <td>酸っぱい</td>
+  </tr>
+
+  <tr><!-- 行4 -->
+    <td>ぶどう</td> <td>甘酸っぱい</td>
+  </tr>
+</table>
+
 
 ### 01-01. 製品概要
 
