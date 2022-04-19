@@ -1,43 +1,12 @@
 ---
-sort: 1
+sort: 2
 ---
 
-# Red Hat OpenShift Container Platform
+# Red Hat Ansible Automation Platform
 
-<img src="images/Logo-Red_Hat-OpenShift-A-Red-RGB.png" alt="openshift_logo" title="OpenShiftあ">
+<img src="images/Logo-Red_Hat-Ansible_Automation_Platform-A-Red-RGB" alt="ansible_logo" title="ansible" width=”640″>
 
 ## 01. 製品説明資料
-
-<table>
-  <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th>　<th>確認日</th>
-  </tr>
-
-  <tr><!-- 行2 -->
-    <td>データシート</td>
-    <td>
-    <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
-    </td>
-    <td>2022/04/19</td>
-  </tr>
-
-  <tr><!-- 行3 -->
-    <td>データシート</td>
-    <td>
-    <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
-    </td>
-    <td>2022/04/19</td>
-  </tr>
-
-  <tr><!-- 行4 -->
-    <td>データシート</td>
-    <td>
-    <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
-    </td>
-    <td>2022/04/19</td>
-  </tr>
-</table>
-
 
 ### 01-01. 製品概要
 
