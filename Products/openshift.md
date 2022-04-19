@@ -4,7 +4,7 @@ sort: 1
 
 # OpenShift
 
-image:images/Logo-Red_Hat-OpenShift-A-Red-RGB.png[]
+<img src="images/Logo-Red_Hat-OpenShift-A-Red-RGB.png" alt="openshift_logo" title="OpenShiftあ">
 
 ## 01. 製品説明資料
 
@@ -15,16 +15,22 @@ image:images/Logo-Red_Hat-OpenShift-A-Red-RGB.png[]
 
   <tr><!-- 行2 -->
     <td>データシート</td>
-    <td>[Link](https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf)</td>
+    <td>
+    <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">データシート</a> 
+    </td>
     <td>2022/04/19</td>
   </tr>
 
   <tr><!-- 行3 -->
-    <td>レモン</td> <td>酸っぱい</td>
+    <td>データシート</td>
+    <td>[Link](https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf)</td>
+    <td>2022/04/19</td>
   </tr>
 
   <tr><!-- 行4 -->
-    <td>ぶどう</td> <td>甘酸っぱい</td>
+    <td>データシート</td>
+    <td>[Link](https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf)</td>
+    <td>2022/04/19</td>
   </tr>
 </table>
 
