@@ -2,9 +2,7 @@
 sort: 1
 ---
 
-image:images/Logo-Red_Hat-OpenShift-A-Red-RGB.png[]
-
-# OpenShift
+image:images/Logo-Red_Hat-OpenShift-A-Red-RGB.png[OpenShift]
 
 ## 01. 製品説明資料
 
