@@ -1,3 +1,3 @@
 # 製品別情報配置
 
-製品別の情報を置いていきます
+{% include list.liquid all=true %}
