@@ -2,8 +2,7 @@
 sort: 1
 ---
 
-.OpenShift Data FoundationのPersistent Storageダッシュボード
-image:images/Logo-Red_Hat-OpenShift-A-Red-RGB.png[OpenShift]
+<img src="images/Logo-Red_Hat-OpenShift-A-Red-RGB.png" alt="OpenShift">
 
 ## 01. 製品説明資料
 
