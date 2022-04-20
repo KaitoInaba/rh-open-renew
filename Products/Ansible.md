@@ -4,7 +4,9 @@ sort: 2
 
 # Red Hat Ansible Automation Platform
 
-<img src="images/Logo-Red_Hat-Ansible_Automation_Platform-A-Red-RGB" alt="ansible_logo" title="ansible" width=”640″>
+<div style="text-align: center">
+  <img src="images/Logo-Red_Hat-Ansible_Automation_Platform-A-Red-RGB" alt="ansible_logo" title="ansible" width=”640″>
+</div>
 
 ## 01. 製品説明資料
 

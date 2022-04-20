@@ -4,40 +4,11 @@ sort: 1
 
 # Red Hat OpenShift Container Platform
 
-<img src="images/Logo-Red_Hat-OpenShift-A-Red-RGB.png" alt="openshift_logo" title="OpenShiftあ">
+<div style="text-align: center">
+  <img src="images/Logo-Red_Hat-OpenShift-A-Red-RGB.png" alt="openshift_logo" title="OpenShift" width=”640″>
+</div>
 
 ## 01. 製品説明資料
-
-<table>
-  <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th>　<th>確認日</th>
-  </tr>
-
-  <tr><!-- 行2 -->
-    <td>データシート</td>
-    <td>
-    <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
-    </td>
-    <td>2022/04/19</td>
-  </tr>
-
-  <tr><!-- 行3 -->
-    <td>データシート</td>
-    <td>
-    <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
-    </td>
-    <td>2022/04/19</td>
-  </tr>
-
-  <tr><!-- 行4 -->
-    <td>データシート</td>
-    <td>
-    <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
-    </td>
-    <td>2022/04/19</td>
-  </tr>
-</table>
-
 
 ### 01-01. 製品概要
 
@@ -266,3 +237,33 @@ sort: 1
 </table>
 
 ## 03. 学習リソース
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>ドキュメント名</th> <th>リンク先</th>　<th>確認日</th>
+  </tr>
+
+  <tr><!-- 行2 -->
+    <td>データシート</td>
+    <td>
+    <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
+    </td>
+    <td>2022/04/19</td>
+  </tr>
+
+  <tr><!-- 行3 -->
+    <td>データシート</td>
+    <td>
+    <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
+    </td>
+    <td>2022/04/19</td>
+  </tr>
+
+  <tr><!-- 行4 -->
+    <td>データシート</td>
+    <td>
+    <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
+    </td>
+    <td>2022/04/19</td>
+  </tr>
+</table>
