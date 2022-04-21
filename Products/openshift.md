@@ -4,10 +4,7 @@ sort: 1
 
 # Red Hat OpenShift Container Platform
 
-<div style="text-align: center">
-  <img src="images/Logo-Red_Hat-OpenShift-A-Red-RGB.png" alt="openshift_logo" title="OpenShift" width=”640″>
-</div>
-
+<img src="images/Logo-Red_Hat-OpenShift-A-Red-RGB.png" alt="openshift_logo" title="OpenShift" width=”640″>
 
 資料のリンク切れなどは<a href="https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform">こちら</a>のフォームからお問合せください。
 
