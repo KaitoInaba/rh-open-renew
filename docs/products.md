@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# レッドハット製品情報
+# （Renew後削除）レッドハット製品情報
 
 Red Hatの製品情報などポートフォリオ全体に関する資料をまとめています。
 
@@ -90,7 +90,3 @@ Red Hatの製品情報などポートフォリオ全体に関する資料をま�
 | --------------- | -------------- | ---- |
 |1|[Red Hat Customer Success Slide Deck](https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.0#1)|Red Hat事例集です。国内・国外企業様の事例をご紹介しています。|
 |2|[Red Hat Customer Success Story](https://www.redhat.com/ja/explore/customer-success-story)|レッドハットが提供するソリューションを活用した国内事例をご紹介します。導入の目的と、課題解決のストーリーから、企業が解決すべき課題の答えが見つかるはずです。|
-
-
-
-
