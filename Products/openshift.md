@@ -6,6 +6,7 @@ sort: 1
 
 <img src="images/Logo-Red_Hat-OpenShift-A-Red-RGB.png" alt="openshift_logo" title="OpenShift" width=”640″>
 
+
 資料のリンク切れなどは<a href="https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform">こちら</a>のフォームからお問合せください。
 
 ## 01. 製品説明資料
@@ -31,7 +32,7 @@ sort: 1
     <td>
     <a href="https://docs.google.com/presentation/d/1IdLpIV5-QKKDg4p9e0pDGNqKh6l4LAMw/edit?usp=sharing&ouid=116214710648103817049&rtpof=true&sd=true">Link</a>
     </td>
-    <td>Red Hat OpenShiftの製品紹介にご利用いただける、プレゼンテーション資料です。</td>
+    <td>Red Hat OpenShiftの製品紹介にご利用いただけるプレゼンテーション資料です。</td>
     <td>全バージョン</td>
   </tr>
 
@@ -40,7 +41,7 @@ sort: 1
     <td>
     <a href="https://www.youtube.com/watch?v=oWWMEfz4VNQ&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=1">Link</a>
     </td>
-    <td>Red Hat OpenShiftの紹介を行った説明動画です。</td>
+    <td>Red Hat OpenShiftの紹介動画です。</td>
     <td>全バージョン</td>
   </tr>
 </table>
