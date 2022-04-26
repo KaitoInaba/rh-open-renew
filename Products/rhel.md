@@ -20,73 +20,73 @@ sort: 1
   </tr>
 
   <tr>
-    <td><!--> ドキュメント名 <-->
+    <td><!--  ドキュメント名  -->
       Red Hat Enterprise Linux 8 ご紹介
     </td>
-    <td><!--> リンク先 <-->
+    <td><!--  リンク先  -->
       <a href="https://redhat-partner.highspot.com/items/5d162a9d429d7b2d9300ddf7?lfrm=srp.43">Link</a>
     </td>
-    <td><!--> 概要 <-->
+    <td><!--  概要  -->
       Red Hat Enterprise Linux 8 の概要を知りたい人むけに、RHEL8 リリースノート Overviewをおおむねカバーする程度の情報と関連リンクをまとめた資料です。
     </td>
-    <td><!--> 対象バージョン <-->
+    <td><!--  対象バージョン  -->
       Version 8.x
     </td>
-    <td><!--> 記載確認日 <-->
+    <td><!--  記載確認日  -->
       2022/04/21
     </td>
   </tr>
 
   <tr>
-    <td><!--> ドキュメント名 <-->
+    <td><!--  ドキュメント名  -->
       先進的なツールとテクニックで Linux 環境を管理する
     </td>
-    <td><!--> リンク先 <-->
+    <td><!--  リンク先  -->
       <a href="https://redhat-partner.highspot.com/items/60087aa9bf6c94371080e0f0">Link</a>
     </td>
-    <td><!--> 概要 <-->
+    <td><!--  概要  -->
       Red Hat によるこの e ブックでは、Linux システム管理ツールとベストプラクティスを使用して、費用対効果の高い大規模環境を構築およびサポートする方法を学びます。
     </td>
-    <td><!--> 対象バージョン <-->
+    <td><!--  対象バージョン  -->
       -
     </td>
-    <td><!--> 記載確認日 <-->
+    <td><!--  記載確認日  -->
       2022/04/21
     </td>
   </tr>
 
   <tr>
-    <td><!--> ドキュメント名 <-->
+    <td><!--  ドキュメント名  -->
       SAP ワークロードに Red Hat を選ぶ 10 の理由
     </td>
-    <td><!--> リンク先 <-->
+    <td><!--  リンク先  -->
       <a href="https://redhat-partner.highspot.com/items/60f0497fe430166258ffd5a1">Link</a>
     </td>
-    <td><!--> 概要 <-->
+    <td><!--  概要  -->
       SAP ワークロードのエンドツーエンドのビジネスプロセスを、実行、開発、単純化、拡張するために、Red Hat を選ぶ 10 の理由をご覧ください。
     </td>
-    <td><!--> 対象バージョン <-->
+    <td><!--  対象バージョン  -->
       -
     </td>
-    <td><!--> 記載確認日 <-->
+    <td><!--  記載確認日  -->
       2022/04/21
     </td>
   </tr>
 
   <tr>
-    <td><!--> ドキュメント名 <-->
+    <td><!--  ドキュメント名  -->
       Red Hat Enterprise Linux for SAP Solutions
     </td>
-    <td><!--> リンク先 <-->
+    <td><!--  リンク先  -->
       <a href="https://redhat-partner.highspot.com/items/5aa1ef99f216761ee83ca786?lfrm=srp.34#1">Link</a>
     </td>
-    <td><!--> 概要 <-->
+    <td><!--  概要  -->
       Red Hat のソフトウェアスタックで IT インフラストラクチャを標準化すると、SAP 環境を最適化しながら、将来に向けて備えることができます。
     </td>
-    <td><!--> 対象バージョン <-->
+    <td><!--  対象バージョン  -->
       -
     </td>
-    <td><!--> 記載確認日 <-->
+    <td><!--  記載確認日  -->
       2022/04/21
     </td>
   </tr>
@@ -101,19 +101,19 @@ sort: 1
   </tr>
 
   <tr>
-    <td><!--> ドキュメント名 <-->
+    <td><!--  ドキュメント名  -->
       JAPAN CUSTOMER SUCCESS SLIDES DECK
     </td>
-    <td><!--> リンク先 <-->
+    <td><!--  リンク先  -->
       <a href="https://docs.google.com/presentation/d/19nxYPw4TUjakWafj4rHYPwwqh-VADmbQTILnuOx4V7g/edit#slide=id.gb5e365882c_2_4066">Link</a>
     </td>
-    <td><!--> 概要 <-->
+    <td><!--  概要  -->
       Red Hat製品の事例を集約したプレゼンテーション資料です。
     </td>
-    <td><!--> 対象バージョン <-->
+    <td><!--  対象バージョン  -->
       -
     </td>
-    <td><!--> 記載確認日 <-->
+    <td><!--  記載確認日  -->
       2022/04/21
     </td>
   </tr>
@@ -128,37 +128,37 @@ sort: 1
   </tr>
 
   <tr>
-    <td><!--> ドキュメント名 <-->
+    <td><!--  ドキュメント名  -->
       Red Hat Enterprise Linux サブスクリプションガイド
     </td>
-    <td><!--> リンク先 <-->
+    <td><!--  リンク先  -->
       <a href="https://redhat-partner.highspot.com/items/5940c02bf216763a68730b44?lfrm=srp.3">Link</a>
     </td>
-    <td><!--> 概要 <-->
+    <td><!--  概要  -->
     Red Hat Enterprise Linuxの適切なサブスクリプションを選び、管理し、最大限に活用する方法を説明します。
     </td>
-    <td><!--> 対象バージョン <-->
+    <td><!--  対象バージョン  -->
       -
     </td>
-    <td><!--> 記載確認日 <-->
+    <td><!--  記載確認日  -->
       2022/04/21
     </td>
   </tr>
 
   <tr>
-    <td><!--> ドキュメント名 <-->
+    <td><!--  ドキュメント名  -->
       RHELのサブスクリプション管理
     </td>
-    <td><!--> リンク先 <-->
+    <td><!--  リンク先  -->
       <a href="https://moriwaka.github.io/Presentation/RHEL/beginner/rhel-subscription.pdf">Link</a>
     </td>
-    <td><!--> 概要 <-->
+    <td><!--  概要  -->
     Red Hat Enterprise Linuxのサブスクリプション管理に関連する技術や概念について、概要と関連資料を紹介するプレゼンテーション資料です。
     </td>
-    <td><!--> 対象バージョン <-->
+    <td><!--  対象バージョン  -->
       -
     </td>
-    <td><!--> 記載確認日 <-->
+    <td><!--  記載確認日  -->
       2022/04/21
     </td>
   </tr>
@@ -173,19 +173,19 @@ sort: 1
   </tr>
 
   <tr>
-    <td><!--> ドキュメント名 <-->
+    <td><!--  ドキュメント名  -->
       Red Hat Enterprise Linuxのライフサイクル
     </td>
-    <td><!--> リンク先 <-->
+    <td><!--  リンク先  -->
       <a href="https://access.redhat.com/ja/support/policy/updates/errata">Link</a>
     </td>
-    <td><!--> 概要 <-->
+    <td><!--  概要  -->
       Red Hat Enterprise Linuxの製品ライフサイクルポリシー、及びサポート終了日を明示します。
     </td>
-    <td><!--> 対象バージョン <-->
+    <td><!--  対象バージョン  -->
       -
     </td>
-    <td><!--> 記載確認日 <-->
+    <td><!--  記載確認日  -->
       2022/04/21
     </td>
   </tr>
@@ -201,19 +201,19 @@ sort: 1
   </tr>
 
   <tr>
-    <td><!--> ドキュメント名 <-->
+    <td><!--  ドキュメント名  -->
       Red Hat Enterprise Linux Ecosystem
     </td>
-    <td><!--> リンク先 <-->
+    <td><!--  リンク先  -->
       <a href="https://catalog.redhat.com/platform/red-hat-enterprise-linux/software">Link</a>
     </td>
-    <td><!--> 概要 <-->
+    <td><!--  概要  -->
       Red Hat Enterprise Linuxと互換性の確認された3rd Party SW、HWおよびCloud Platformを参照いただけます。
     </td>
-    <td><!--> 対象バージョン <-->
+    <td><!--  対象バージョン  -->
       -
     </td>
-    <td><!--> 記載確認日 <-->
+    <td><!--  記載確認日  -->
       2022/04/21
     </td>
   </tr>
@@ -230,37 +230,37 @@ sort: 1
   </tr>
 
   <tr>
-    <td><!--> ドキュメント名 <-->
+    <td><!--  ドキュメント名  -->
     Red Hat Enterprise Linux を使う前に読む資料
     </td>
-    <td><!--> リンク先 <-->
+    <td><!--  リンク先  -->
       <a href="https://moriwaka.github.io/Presentation/bootcamp/rhel-tt.pdf">Link</a>
     </td>
-    <td><!--> 概要 <-->
+    <td><!--  概要  -->
       Red Hat Enterprise Linuxを使用する前に知るべき情報を集約したプレゼンテーション資料です。
     </td>
-    <td><!--> 対象バージョン <-->
+    <td><!--  対象バージョン  -->
       -
     </td>
-    <td><!--> 記載確認日 <-->
+    <td><!--  記載確認日  -->
       2022/04/21
     </td>
   </tr>
 
   <tr>
-    <td><!--> ドキュメント名 <-->
+    <td><!--  ドキュメント名  -->
       RHEL資料おきば
     </td>
-    <td><!--> リンク先 <-->
+    <td><!--  リンク先  -->
       <a href="https://moriwaka.github.io/">Link</a>
     </td>
-    <td><!--> 概要 <-->
+    <td><!--  概要  -->
       RHELに関するビギナー向け資料から、RHEL8の紹介、個別機能、セキュリティに関する資料のまとめサイトです。
     </td>
-    <td><!--> 対象バージョン <-->
+    <td><!--  対象バージョン  -->
       Version 8.x
     </td>
-    <td><!--> 記載確認日 <-->
+    <td><!--  記載確認日  -->
       2022/04/21
     </td>
   </tr>
@@ -275,19 +275,19 @@ sort: 1
   </tr>
 
   <tr>
-    <td><!--> ドキュメント名 <-->
+    <td><!--  ドキュメント名  -->
       Red Hat Enterpries Linux 8.3最新情報
     </td>
-    <td><!--> リンク先 <-->
+    <td><!--  リンク先  -->
       <a href="https://moriwaka.github.io/Presentation/RHEL8/RHEL%208.3%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1.pdf">Link</a>
     </td>
-    <td><!--> 概要 <-->
+    <td><!--  概要  -->
       Red Hat Enterprise Linux 8.3における更新情報を説明したプレゼンテーション資料です。
     </td>
-    <td><!--> 対象バージョン <-->
+    <td><!--  対象バージョン  -->
       Version 8.3
     </td>
-    <td><!--> 記載確認日 <-->
+    <td><!--  記載確認日  -->
       2022/04/21
     </td>
   </tr>
@@ -302,19 +302,19 @@ sort: 1
   </tr>
 
   <tr>
-    <td><!--> ドキュメント名 <-->
+    <td><!--  ドキュメント名  -->
       Red Hat Enterprise Linuxトレイルマップ
     </td>
-    <td><!--> リンク先 <-->
+    <td><!--  リンク先  -->
       <a href="https://www.redhat.com/rhdc/managed-files/tr-certified-engineer-skills-path-infographic-f25471-202009-ja.pdf">Link</a>
     </td>
-    <td><!--> 概要 <-->
+    <td><!--  概要  -->
       Red Hat Enterprise Linuxを学習いただくためのラーニングパスをロール毎に明示します。
     </td>
-    <td><!--> 対象バージョン <-->
+    <td><!--  対象バージョン  -->
       -
     </td>
-    <td><!--> 記載確認日 <-->
+    <td><!--  記載確認日  -->
       2022/04/21
     </td>
   </tr>
