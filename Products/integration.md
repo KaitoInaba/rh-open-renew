@@ -4,10 +4,10 @@ sort: 4
 
 # Red Hat Integration
 
-<img src="https://github.com/KaitoInaba/rh-open-renew/blob/main/Products/images/Logo-Red_Hat-Integration-A-Red-RGB.png?raw=true" alt="openshift_logo" title="OpenShift">
+<img src="https://github.com/KaitoInaba/rh-open-renew/blob/main/Products/images/Logo-Red_Hat-Integration-A-Red-RGB.png?raw=true" alt="integration_logo" title="Integration">
 
 
-資料のリンク切れなどは<a href="https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform">こちら</a>のフォームからお問合せください。
+掲載資料へのお問合せ、資料のリンク切れなどは<a href="https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform">こちら</a>のフォームからお問合せください。
 
 ## 01. 製品説明資料
 
@@ -15,7 +15,7 @@ sort: 4
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象製品バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr><!-- 行2 -->
@@ -53,7 +53,7 @@ sort: 4
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象製品バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr><!-- 行2 -->
@@ -71,7 +71,7 @@ sort: 4
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象製品バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr><!-- 行2 -->
@@ -88,7 +88,7 @@ sort: 4
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象製品バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr><!-- 行2 -->
@@ -107,7 +107,7 @@ sort: 4
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象製品バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr><!-- 行2 -->
@@ -137,7 +137,7 @@ sort: 4
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象製品バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr><!-- 行2 -->
@@ -155,7 +155,7 @@ sort: 4
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象製品バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr><!-- 行2 -->
@@ -173,7 +173,7 @@ sort: 4
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象製品バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr><!-- 行2 -->
