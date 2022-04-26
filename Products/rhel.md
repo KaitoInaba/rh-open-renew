@@ -1,10 +1,10 @@
 ---
-sort: 3
+sort: 1
 ---
 
-# Red Hat OpenShift Container Platform
+# Red Hat Enterprise Linux
 
-<img src="https://github.com/KaitoInaba/rh-open-renew/blob/main/Products/images/Logo-Red_Hat-OpenShift-A-Red-RGB.png?raw=true" alt="openshift_logo" title="OpenShift">
+<img src="https://github.com/KaitoInaba/rh-open-renew/blob/main/Products/images/Logo-Red_Hat-Enterprise_Linux-A-Standard-RGB.png?raw=true" alt="openshift_logo" title="OpenShift">
 
 
 資料のリンク切れなどは<a href="https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform">こちら</a>のフォームからお問合せください。
