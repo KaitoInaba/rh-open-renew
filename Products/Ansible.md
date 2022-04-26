@@ -18,35 +18,42 @@ sort: 2
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
-  <tr><!-- 行2 -->
-    <td>Red Hat OpenShift Container Platformデータシート</td>
-    <td>
-    <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Ansible Automation Platform 2.1 説明資料(SD)
     </td>
-    <td>Red Hat OpenShiftの機能・特徴を簡易に記載したデータシートです。</td>
-    <td>全バージョン</td>
-    <td>2022/04/21</td>
+    <td><!--  リンク先  -->
+      <a href="https://bit.ly/3JXmYCF">Link</a>
+    </td>
+    <td><!--  概要  -->
+      システムの自動化における課題と導入ポイントと、自動化におけるAnshible Automation Platformの価値を説明したプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.1
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
 
-  <tr><!-- 行3 -->
-    <td>OpenShift Core Value</td>
-    <td>
-    <a href="https://docs.google.com/presentation/d/1IdLpIV5-QKKDg4p9e0pDGNqKh6l4LAMw/edit?usp=sharing&ouid=116214710648103817049&rtpof=true&sd=true">Link</a>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat が考える自動化2.0の世界観と実現のポイント（機械化音声）  
     </td>
-    <td>Red Hat OpenShiftの製品紹介にご利用いただけるプレゼンテーション資料です。</td>
-    <td>全バージョン</td>
-    <td>2022/04/21</td>
+    <td><!--  リンク先  -->
+      <a href="https://www.youtube.com/watch?v=sHuGxzpONpw&list=PL4IvAXW0drR20WVybcHwm8nns-RrQ5wWX&index=1&t=6s">Link</a>
+    </td>
+    <td><!--  概要  -->
+      Red Hatの考える自動化2.0の世界観と実現のポイントを説明した動画です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
 
-  <tr><!-- 行4 -->
-    <td>コンテナプラットフォーム Red Hat OpenShiftのご紹介</td>
-    <td>
-    <a href="https://www.youtube.com/watch?v=oWWMEfz4VNQ&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=1">Link</a>
-    </td>
-    <td>Red Hat OpenShiftの紹介動画です。</td>
-    <td>全バージョン</td>
-    <td>2022/04/21</td>
-  </tr>
 </table>
 
 ### 01-02. ソリューション・製品事例
@@ -56,15 +63,24 @@ sort: 2
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
-  <tr><!-- 行2 -->
-    <td>JAPAN CUSTOMER SUCCESS SLIDES DECK</td>
-    <td>
-    <a href="https://docs.google.com/presentation/d/19nxYPw4TUjakWafj4rHYPwwqh-VADmbQTILnuOx4V7g/edit#slide=id.gb5e365882c_2_4066">Link</a>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      JAPAN CUSTOMER SUCCESS SLIDES DECK
     </td>
-    <td>Red Hat製品の事例を集約したプレゼンテーション資料です。</td>
-    <td>全バージョン</td>
-    <td>2022/04/21</td>
+    <td><!--  リンク先  -->
+      <a href="https://docs.google.com/presentation/d/19nxYPw4TUjakWafj4rHYPwwqh-VADmbQTILnuOx4V7g/edit#slide=id.gb5e365882c_2_4066">Link</a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat製品の事例を集約したプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
+
 </table>
 
 ### 01-03. 提供形態
@@ -77,10 +93,10 @@ sort: 2
   <tr><!-- 行2 -->
     <td>サイジング・サブスクリプションガイド</td>
     <td>
-    <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-sizing-guide-detail-f26601wg-202012-a4-ja.pdf">Link</a>
+    <a href="https://docs.ansible.com/automation-controller/latest/html/userguide/license-support.html#node-counting-in-licenses">Link</a>
     </td>
-    <td>Red Hat OpenShiftのサブスクリプションモデルの説明、OpenShiftの環境サイズを見積もるための手順を紹介します。</td>
-    <td>全バージョン</td>
+    <td>Red Hat Ansible Automation Platformのサブスクリプションモデルの説明、環境サイズを見積もるための手順を紹介します。</td>
+    <td>-</td>
   </tr>
 </table>
 
@@ -97,7 +113,7 @@ sort: 2
     <a href="https://access.redhat.com/ja/support/policy/updates/openshift">Link</a>
     </td>
     <td>Red Hat OpenShiftのバージョン毎のサポートポリシー及びサポート期間を明記します。</td>
-    <td>全バージョン</td>
+    <td>-</td>
     <td>2022/04/21</td>
   </tr>
 </table>
@@ -116,7 +132,7 @@ sort: 2
     <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
     </td>
     <td>Red Hat OpenShiftとの互換性が確認されたソフトウェア、及びクラウドサービスのリストを提供します。</td>
-    <td>全バージョン</td>
+    <td>-</td>
     <td>2022/04/21</td>
   </tr>
 
@@ -146,7 +162,7 @@ sort: 2
     <a href="https://docs.google.com/presentation/d/1tExofRn5KU2KrqUHP2eg-WnhzSy6Tjam/edit?usp=sharing&ouid=116214710648103817049&rtpof=true&sd=true">Link</a>
     </td>
     <td>Red Hat OpenShiftのアーキテクチャを解説したプレゼンテーション資料です。</td>
-    <td>全バージョン</td>
+    <td>-</td>
     <td>2022/04/21</td>
   </tr>
 </table>
@@ -182,7 +198,7 @@ sort: 2
     <a href="https://drive.google.com/file/d/1bsAFs1ihhi9GTWLESWnMZjOMqVsGa_sN/view">Link</a>
     </td>
     <td>Red Hat OpenShiftを学習いただくためのラーニングパスをロール毎に明示します。</td>
-    <td>全バージョン</td>
+    <td>-</td>
     <td>2022/04/21</td>
   </tr>
 </table>
