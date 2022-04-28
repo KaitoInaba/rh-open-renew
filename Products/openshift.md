@@ -4,7 +4,7 @@ sort: 3
 
 # Red Hat OpenShift Container Platform
 
-<img src="https://github.com/KaitoInaba/rh-open-renew/blob/main/Products/images/Logo-Red_Hat-OpenShift-A-Red-RGB.png?raw=true" alt="openshift_logo" title="OpenShift">
+<img src="https://github.com/KaitoInaba/rh-open-renew/blob/main/Products/images/Logo-Red_Hat-OpenShift-A-Standard-RGB.png?raw=true" alt="openshift_logo" title="OpenShift">
 
 
 
@@ -17,24 +17,6 @@ sort: 3
 <table>
   <tr>
     <th>ドキュメント名</th><th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat OpenShift Container Platformデータシート
-    </td>
-    <td><!--  リンク先  -->
-      <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShift は、革新的なアプリケーションの作成と移行を行う企業が、卓越したエクスペリエンスを顧客に提供するための支援を提供します。その詳細をご確認ください。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td><!--  記載確認日  -->
-      2022/04/21
-    </td>
   </tr>
 
   <tr>
@@ -51,6 +33,24 @@ sort: 3
       -
     </td>
     <td>
+      2022/04/21
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat OpenShift Container Platformデータシート
+    </td>
+    <td><!--  リンク先  -->
+      <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShift は、革新的なアプリケーションの作成と移行を行う企業が、卓越したエクスペリエンスを顧客に提供するための支援を提供します。その詳細をご確認ください。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
       2022/04/21
     </td>
   </tr>
@@ -126,8 +126,27 @@ sort: 3
   </tr>
 
   <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat OpenShift サブスクリプション説明資料
+    </td>
+    <td><!--  リンク先  -->
+      （作成中。Content Hub配置後リンク修正）
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShift のサブスクリプションについて、販売体系と算出方法を説明したプレゼンテーション資料です。
+      下記のサブスクリプションガイドの補助資料としてご利用いただけます。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
+  </tr>
+
+  <tr>
     <td>
-      サイジング・サブスクリプションガイド
+      Red Hat OpenShift サイジングおよびサブスクリプションガイド
     </td>
     <td>
       <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-sizing-guide-detail-f26601wg-202012-a4-ja.pdf">Link</a>
@@ -291,7 +310,7 @@ sort: 3
       Red Hat OpenShiftラーニングパス
     </td>
     <td>
-      <a href="https://drive.google.com/file/d/1bsAFs1ihhi9GTWLESWnMZjOMqVsGa_sN/view">Link</a>
+      （作成中。Content Hub配置後に置き換え）
     </td>
     <td>
       Red Hat OpenShiftを学習いただくための学習教材とラーニングパスをロール毎に明示します。

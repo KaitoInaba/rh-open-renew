@@ -4,7 +4,7 @@ sort: 2
 
 # Red Hat Ansible Automation Platform
 
-<img src="https://github.com/KaitoInaba/rh-open-renew/blob/main/Products/images/Logo-Red_Hat-Ansible_Automation_Platform-A-Red-RGB.png?raw=true" alt="ansible_logo" title="ansible">
+<img src="https://github.com/KaitoInaba/rh-open-renew/blob/main/Products/images/Logo-Red_Hat-Ansible_Automation_Platform-A-Standard-RGB.png?raw=true" alt="ansible_logo" title="ansible">
 
 
 掲載資料へのお問合せ、資料のリンク切れなどは<a href="https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform">こちら</a>のフォームからお問合せください。
@@ -38,13 +38,49 @@ sort: 2
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat が考える自動化2.0の世界観と実現のポイント（機械化音声）  
+      Red Hat が考える自動化2.0の世界観と実現のポイント
     </td>
     <td><!--  リンク先  -->
       <a href="https://www.youtube.com/watch?v=sHuGxzpONpw&list=PL4IvAXW0drR20WVybcHwm8nns-RrQ5wWX&index=1&t=6s">Link</a>
     </td>
     <td><!--  概要  -->
       Red Hatの考える自動化2.0の世界観と実現のポイントを説明した動画です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      ITインフラの自動化を成功させるAnsibleのプラクティス『自動化2.0』
+    </td>
+    <td><!--  リンク先  -->
+      <a href="https://redhat.lookbookhq.com/c/jow0lohgy08?x=8XYa3o&lx=t84IoG">Link</a>
+    </td>
+    <td><!--  概要  -->
+      2019年5月に実施した「ITインフラの自動化を成功させるAnsibleのプラクティス『自動化2.0』」ウェビナー動画です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Ansible Automation Platform でイノベーションを加速する 3 つの方法
+    </td>
+    <td><!--  リンク先  -->
+      <a href="https://redhat-partner.highspot.com/items/5f932c886a3b1148dd300c74?lfrm=srp.43#1">Link</a>
+    </td>
+    <td><!--  概要  -->
+      中規模組織がプロセスを改善し、デジタル関連の取り組みを実施するうえで、Red Hat Ansible Automation Platform がどのように役立つかをご紹介します。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -88,6 +124,25 @@ sort: 2
 <table>
   <tr><!-- 行1（見出し）-->
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Ansible Automation Platform サブスクリプション説明資料
+    </td>
+    <td><!--  リンク先  -->
+      （作成中。Content Hub配置後リンク修正）
+    </td>
+    <td><!--  概要  -->
+      Red Hat Ansible Automation Platformのサブスクリプションについて、販売体系と算出方法を説明したプレゼンテーション資料です。
+      下記のサブスクリプションガイドの補助資料としてご利用いただけます。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
 
   <tr><!-- 行2 -->
@@ -251,7 +306,7 @@ sort: 2
       Red Hat Anshible Automation Platform ラーニングパス
     </td>
     <td><!--  リンク先  -->
-      （作成資料に置き換え）
+      （作成中。Content Hub配置後に置き換え）
     </td>
     <td><!--  概要  -->
       Red Hat Anshible Automation Platformを学習いただくための学習教材とラーニングパスをロール毎に明示します。

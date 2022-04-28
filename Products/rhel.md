@@ -4,7 +4,7 @@ sort: 1
 
 # Red Hat Enterprise Linux
 
-<img src="https://github.com/KaitoInaba/rh-open-renew/blob/main/Products/images/Logo-Red_Hat-Enterprise_Linux-A-Standard-RGB.png?raw=true" alt="rhel_logo" title="RHEL">
+<img src="https://github.com/KaitoInaba/rh-open-renew/blob/main/Products/images/Logo-Red_Hat-Enterprise_Linux-B-Standard-RGB.png?raw=true" alt="rhel_logo" title="RHEL">
 
 
 
@@ -125,6 +125,25 @@ sort: 1
 <table>
   <tr>
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Enterprise Linux サブスクリプション説明資料
+    </td>
+    <td><!--  リンク先  -->
+      （作成中。Content Hub配置後リンク修正）
+    </td>
+    <td><!--  概要  -->
+      Red Hat Enterprise Linuxのサブスクリプションについて、販売体系と算出方法を説明したプレゼンテーション資料です。
+      下記のサブスクリプションガイドの補助資料としてご利用いただけます。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
 
   <tr>
@@ -306,7 +325,7 @@ sort: 1
       Red Hat Enterprise Linuxラーニングパス
     </td>
     <td><!--  リンク先  -->
-      <a href="https://www.redhat.com/rhdc/managed-files/tr-certified-engineer-skills-path-infographic-f25471-202009-ja.pdf">Link</a>
+      （作成中。Content Hub配置後に置き換え）
     </td>
     <td><!--  概要  -->
       Red Hat Enterprise Linuxを学習いただくための学習教材とラーニングパスをロール毎に明示します。
