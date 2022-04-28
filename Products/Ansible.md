@@ -20,7 +20,7 @@ sort: 2
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Ansible Automation Platform 2.1 説明資料(SD)
+      Red Hat Ansible Automation Platform 2.1 製品説明資料（技術編）
     </td>
     <td><!--  リンク先  -->
       <a href="https://bit.ly/3JXmYCF">Link</a>
@@ -68,7 +68,7 @@ sort: 2
       JAPAN CUSTOMER SUCCESS SLIDES DECK
     </td>
     <td><!--  リンク先  -->
-      <a href="https://docs.google.com/presentation/d/19nxYPw4TUjakWafj4rHYPwwqh-VADmbQTILnuOx4V7g/edit#slide=id.gb5e365882c_2_4066">Link</a>
+      （Content Hub配置後にリンク修正）
     </td>
     <td><!--  概要  -->
       Red Hat製品の事例を集約したプレゼンテーション資料です。
@@ -91,13 +91,41 @@ sort: 2
   </tr>
 
   <tr><!-- 行2 -->
-    <td>サイジング・サブスクリプションガイド</td>
-    <td>
-    <a href="https://docs.ansible.com/automation-controller/latest/html/userguide/license-support.html#node-counting-in-licenses">Link</a>
+    <td><!--  ドキュメント名  -->
+      Red Hat Ansible Automation Platform controller Licensing, Updates, and Support
     </td>
-    <td>Red Hat Ansible Automation Platformのサブスクリプションモデルの説明、環境サイズを見積もるための手順を紹介します。</td>
-    <td>-</td>
+    <td><!--  リンク先  -->
+      <a href="https://docs.ansible.com/automation-controller/latest/html/userguide/license-support.html#node-counting-in-licenses">Link</a>
+    </td>
+    <td><!--  概要  -->
+    Red Hat Ansible Automation Platformのライセンスについて種別と適用方法を説明します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      How are "managed nodes" defined as part of the Red Hat Ansible Automation Platform offering?
+    </td>
+    <td><!--  リンク先  -->
+      <a href="https://docs.ansible.com/automation-controller/latest/html/userguide/license-support.html#node-counting-in-licenses">Link</a>
+    </td>
+    <td><!--  概要  -->
+      ネットワーク分離環境におけるRed Hat Ansible Automation Platformのライセンスカウント方法について説明します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
+  </tr>
+
 </table>
 
 ### 01-04. ライフサイクル
@@ -107,15 +135,24 @@ sort: 2
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
-  <tr><!-- 行2 -->
-    <td>Red Hat OpenShift Container Platformのライフサイクルポリシー</td>
-    <td>
-    <a href="https://access.redhat.com/ja/support/policy/updates/openshift">Link</a>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Ansible Automation Platform のライフサイクル
     </td>
-    <td>Red Hat OpenShiftのバージョン毎のサポートポリシー及びサポート期間を明記します。</td>
-    <td>-</td>
-    <td>2022/04/21</td>
+    <td><!--  リンク先  -->
+      <a href="https://docs.ansible.com/automation-controller/latest/html/userguide/license-support.html#node-counting-in-licenses">Link</a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Ansible Automation Platformの製品ライフサイクルポリシー、及びサポート終了日を明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
+
 </table>
 
 
@@ -126,25 +163,24 @@ sort: 2
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
-  <tr><!-- 行2 -->
-    <td>Red Hat OpenShift Ecosystem</td>
-    <td>
-    <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Ansible Automation Platform のリファレンスアーキテクチャ
     </td>
-    <td>Red Hat OpenShiftとの互換性が確認されたソフトウェア、及びクラウドサービスのリストを提供します。</td>
-    <td>-</td>
-    <td>2022/04/21</td>
+    <td><!--  リンク先  -->
+      <a href="https://access.redhat.com/documentation/en-us/reference_architectures/2021/html-single/deploying_ansible_automation_platform_2.1/index">Link</a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Ansible Automation Platformの導入におけるリファレンスアーキテクチャを明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
 
-  <tr><!-- 行3 -->
-    <td>OPENSHIFT CONTAINER PLATFORM クラスターでサポートされるプラットフォーム</td>
-    <td>
-    <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
-    </td>
-    <td>Red Hat OpenShiftの稼働をサポートするプラットフォーム条件を明示します。</td>
-    <td>Version 4.10</td>
-    <td>2022/04/21</td>
-  </tr>
 </table>
 
 ## 02. 製品技術資料
@@ -156,15 +192,24 @@ sort: 2
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
-  <tr><!-- 行2 -->
-    <td>エンタープライズコンテナプラットフォームRed Hat OpenShift技術解説</td>
-    <td>
-    <a href="https://docs.google.com/presentation/d/1tExofRn5KU2KrqUHP2eg-WnhzSy6Tjam/edit?usp=sharing&ouid=116214710648103817049&rtpof=true&sd=true">Link</a>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Ansible Automation Platform 2.1 製品説明資料（技術編）
     </td>
-    <td>Red Hat OpenShiftのアーキテクチャを解説したプレゼンテーション資料です。</td>
-    <td>-</td>
-    <td>2022/04/21</td>
+    <td><!--  リンク先  -->
+      <a href="https://bit.ly/3JXmYCF">Link</a>
+    </td>
+    <td><!--  概要  -->
+      システムの自動化における課題と導入ポイントと、自動化におけるAnshible Automation Platformの価値を説明したプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.1
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
+
 </table>
 
 ### 02-02. 更新情報
@@ -174,15 +219,24 @@ sort: 2
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
-  <tr><!-- 行2 -->
-    <td>What's new in OpenShift 4.9-4.10</td>
-    <td>
-    <a href="https://docs.google.com/presentation/d/1dr_JFiz5wO9chz9RDWuYVeNfFf1IoPL5/edit?usp=sharing&ouid=116214710648103817049&rtpof=true&sd=true">Link</a>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Ansible Automation Platform 2.1 製品説明資料（技術編）
     </td>
-    <td>Red Hat OpenShift 4.10における更新内容を説明したプレゼンテーション資料です。</td>
-    <td>Version 4.10</td>
-    <td>2022/04/21</td>
+    <td><!--  リンク先  -->
+      <a href="https://bit.ly/3JXmYCF">Link</a>
+    </td>
+    <td><!--  概要  -->
+      システムの自動化における課題と導入ポイントと、自動化におけるAnshible Automation Platformの価値を説明したプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.1
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
+
 </table>
 
 ## 03. 学習リソース
@@ -192,13 +246,22 @@ sort: 2
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
-  <tr><!-- 行2 -->
-    <td>OpenShiftトレイルマップ</td>
-    <td>
-    <a href="https://drive.google.com/file/d/1bsAFs1ihhi9GTWLESWnMZjOMqVsGa_sN/view">Link</a>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Anshible Automation Platform ラーニングパス
     </td>
-    <td>Red Hat OpenShiftを学習いただくためのラーニングパスをロール毎に明示します。</td>
-    <td>-</td>
-    <td>2022/04/21</td>
+    <td><!--  リンク先  -->
+      （作成資料に置き換え）
+    </td>
+    <td><!--  概要  -->
+      Red Hat Anshible Automation Platformを学習いただくための学習教材とラーニングパスをロール毎に明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
+
 </table>

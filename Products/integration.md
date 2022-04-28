@@ -14,121 +14,209 @@ sort: 4
 ### 01-01. 製品概要
 
 <table>
-  <tr><!-- 行1（見出し）-->
+  <tr>
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
-  <tr><!-- 行2 -->
-    <td>Red Hat OpenShift Container Platformデータシート</td>
-    <td>
-    <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Agile API Integration 紹介資料
     </td>
-    <td>Red Hat OpenShiftの機能・特徴を簡易に記載したデータシートです。</td>
-    <td>全バージョン</td>
-    <td>2022/04/21</td>
+    <td><!--  リンク先  -->
+      （SSA作成資料。Content Hub配置後にリンク修正）
+    </td>
+    <td><!--  概要  -->
+      Red Hat Enterprise Linux 8 の概要を知りたい人むけに、RHEL8 リリースノート Overviewをおおむねカバーする程度の情報と関連リンクをまとめた資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 8.x
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
 
-  <tr><!-- 行3 -->
-    <td>OpenShift Core Value</td>
-    <td>
-    <a href="https://docs.google.com/presentation/d/1IdLpIV5-QKKDg4p9e0pDGNqKh6l4LAMw/edit?usp=sharing&ouid=116214710648103817049&rtpof=true&sd=true">Link</a>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      先進的なツールとテクニックで Linux 環境を管理する
     </td>
-    <td>Red Hat OpenShiftの製品紹介にご利用いただけるプレゼンテーション資料です。</td>
-    <td>全バージョン</td>
-    <td>2022/04/21</td>
+    <td><!--  リンク先  -->
+      <a href="https://redhat-partner.highspot.com/items/60087aa9bf6c94371080e0f0">Link</a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat によるこの e ブックでは、Linux システム管理ツールとベストプラクティスを使用して、費用対効果の高い大規模環境を構築およびサポートする方法を学びます。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
 
-  <tr><!-- 行4 -->
-    <td>コンテナプラットフォーム Red Hat OpenShiftのご紹介</td>
-    <td>
-    <a href="https://www.youtube.com/watch?v=oWWMEfz4VNQ&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=1">Link</a>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      SAP ワークロードに Red Hat を選ぶ 10 の理由
     </td>
-    <td>Red Hat OpenShiftの紹介動画です。</td>
-    <td>全バージョン</td>
-    <td>2022/04/21</td>
+    <td><!--  リンク先  -->
+      <a href="https://redhat-partner.highspot.com/items/60f0497fe430166258ffd5a1">Link</a>
+    </td>
+    <td><!--  概要  -->
+      SAP ワークロードのエンドツーエンドのビジネスプロセスを、実行、開発、単純化、拡張するために、Red Hat を選ぶ 10 の理由をご覧ください。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Enterprise Linux for SAP Solutions
+    </td>
+    <td><!--  リンク先  -->
+      <a href="https://redhat-partner.highspot.com/items/5aa1ef99f216761ee83ca786?lfrm=srp.34#1">Link</a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat のソフトウェアスタックで IT インフラストラクチャを標準化すると、SAP 環境を最適化しながら、将来に向けて備えることができます。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
+  </tr>
+
 </table>
 
 ### 01-02. ソリューション・製品事例
 
 <table>
-  <tr><!-- 行1（見出し）-->
+  <tr>
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
-  <tr><!-- 行2 -->
-    <td>JAPAN CUSTOMER SUCCESS SLIDES DECK</td>
-    <td>
-    <a href="https://docs.google.com/presentation/d/19nxYPw4TUjakWafj4rHYPwwqh-VADmbQTILnuOx4V7g/edit#slide=id.gb5e365882c_2_4066">Link</a>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      JAPAN CUSTOMER SUCCESS SLIDES DECK
     </td>
-    <td>Red Hat製品の事例を集約したプレゼンテーション資料です。</td>
-    <td>全バージョン</td>
-    <td>2022/04/21</td>
+    <td><!--  リンク先  -->
+      （Content Hub配置後にリンク修正）
+    </td>
+    <td><!--  概要  -->
+      Red Hat製品の事例を集約したプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
+
 </table>
 
 ### 01-03. 提供形態
 
 <table>
-  <tr><!-- 行1（見出し）-->
+  <tr>
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
-  <tr><!-- 行2 -->
-    <td>サイジング・サブスクリプションガイド</td>
-    <td>
-    <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-sizing-guide-detail-f26601wg-202012-a4-ja.pdf">Link</a>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Enterprise Linux サブスクリプションガイド
     </td>
-    <td>Red Hat OpenShiftのサブスクリプションモデルの説明、OpenShiftの環境サイズを見積もるための手順を紹介します。</td>
-    <td>全バージョン</td>
+    <td><!--  リンク先  -->
+      <a href="https://redhat-partner.highspot.com/items/5940c02bf216763a68730b44?lfrm=srp.3">Link</a>
+    </td>
+    <td><!--  概要  -->
+    Red Hat Enterprise Linuxの適切なサブスクリプションを選び、管理し、最大限に活用する方法を説明します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      RHELのサブスクリプション管理
+    </td>
+    <td><!--  リンク先  -->
+      <a href="https://moriwaka.github.io/Presentation/RHEL/beginner/rhel-subscription.pdf">Link</a>
+    </td>
+    <td><!--  概要  -->
+    Red Hat Enterprise Linuxのサブスクリプション管理に関連する技術や概念について、概要と関連資料を紹介するプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
+  </tr>
+
 </table>
 
 ### 01-04. ライフサイクル
 
 <table>
-  <tr><!-- 行1（見出し）-->
+  <tr>
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
-  <tr><!-- 行2 -->
-    <td>Red Hat OpenShift Container Platformのライフサイクルポリシー</td>
-    <td>
-    <a href="https://access.redhat.com/ja/support/policy/updates/openshift">Link</a>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Enterprise Linuxのライフサイクル
     </td>
-    <td>Red Hat OpenShiftのバージョン毎のサポートポリシー及びサポート期間を明記します。</td>
-    <td>全バージョン</td>
-    <td>2022/04/21</td>
+    <td><!--  リンク先  -->
+      <a href="https://access.redhat.com/ja/support/policy/updates/errata">Link</a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Enterprise Linuxの製品ライフサイクルポリシー、及びサポート終了日を明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
+
 </table>
 
 
 ### 01-05. 互換性情報
 
 <table>
-  <tr><!-- 行1（見出し）-->
+  <tr>
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
-  <tr><!-- 行2 -->
-    <td>Red Hat OpenShift Ecosystem</td>
-    <td>
-    <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Enterprise Linux Ecosystem
     </td>
-    <td>Red Hat OpenShiftとの互換性が確認されたソフトウェア、及びクラウドサービスのリストを提供します。</td>
-    <td>全バージョン</td>
-    <td>2022/04/21</td>
+    <td><!--  リンク先  -->
+      <a href="https://catalog.redhat.com/platform/red-hat-enterprise-linux/software">Link</a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Enterprise Linuxと互換性の確認された3rd Party SW、HWおよびCloud Platformを参照いただけます。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
 
-  <tr><!-- 行3 -->
-    <td>OPENSHIFT CONTAINER PLATFORM クラスターでサポートされるプラットフォーム</td>
-    <td>
-    <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
-    </td>
-    <td>Red Hat OpenShiftの稼働をサポートするプラットフォーム条件を明示します。</td>
-    <td>Version 4.10</td>
-    <td>2022/04/21</td>
-  </tr>
 </table>
 
 ## 02. 製品技術資料
@@ -136,53 +224,98 @@ sort: 4
 ### 02-01. アーキテクチャ
 
 <table>
-  <tr><!-- 行1（見出し）-->
+  <tr>
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
-  <tr><!-- 行2 -->
-    <td>エンタープライズコンテナプラットフォームRed Hat OpenShift技術解説</td>
-    <td>
-    <a href="https://docs.google.com/presentation/d/1tExofRn5KU2KrqUHP2eg-WnhzSy6Tjam/edit?usp=sharing&ouid=116214710648103817049&rtpof=true&sd=true">Link</a>
+  <tr>
+    <td><!--  ドキュメント名  -->
+    Red Hat Enterprise Linux を使う前に読む資料
     </td>
-    <td>Red Hat OpenShiftのアーキテクチャを解説したプレゼンテーション資料です。</td>
-    <td>全バージョン</td>
-    <td>2022/04/21</td>
+    <td><!--  リンク先  -->
+      <a href="https://moriwaka.github.io/Presentation/bootcamp/rhel-tt.pdf">Link</a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Enterprise Linuxを使用する前に知るべき情報を集約したプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      RHEL資料おきば
+    </td>
+    <td><!--  リンク先  -->
+      <a href="https://moriwaka.github.io/">Link</a>
+    </td>
+    <td><!--  概要  -->
+      RHELに関するビギナー向け資料から、RHEL8の紹介、個別機能、セキュリティに関する資料のまとめサイトです。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 8.x
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
+  </tr>
+
 </table>
 
 ### 02-02. 更新情報
 
 <table>
-  <tr><!-- 行1（見出し）-->
+  <tr>
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
-  <tr><!-- 行2 -->
-    <td>What's new in OpenShift 4.9-4.10</td>
-    <td>
-    <a href="https://docs.google.com/presentation/d/1dr_JFiz5wO9chz9RDWuYVeNfFf1IoPL5/edit?usp=sharing&ouid=116214710648103817049&rtpof=true&sd=true">Link</a>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Enterpries Linux 8.3最新情報
     </td>
-    <td>Red Hat OpenShift 4.10における更新内容を説明したプレゼンテーション資料です。</td>
-    <td>Version 4.10</td>
-    <td>2022/04/21</td>
+    <td><!--  リンク先  -->
+      <a href="https://moriwaka.github.io/Presentation/RHEL8/RHEL%208.3%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1.pdf">Link</a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Enterprise Linux 8.3における更新情報を説明したプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 8.3
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
+
 </table>
 
 ## 03. 学習リソース
 
 <table>
-  <tr><!-- 行1（見出し）-->
+  <tr>
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
-  <tr><!-- 行2 -->
-    <td>OpenShiftトレイルマップ</td>
-    <td>
-    <a href="https://drive.google.com/file/d/1bsAFs1ihhi9GTWLESWnMZjOMqVsGa_sN/view">Link</a>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Enterprise Linuxラーニングパス
     </td>
-    <td>Red Hat OpenShiftを学習いただくためのラーニングパスをロール毎に明示します。</td>
-    <td>全バージョン</td>
-    <td>2022/04/21</td>
+    <td><!--  リンク先  -->
+      <a href="https://www.redhat.com/rhdc/managed-files/tr-certified-engineer-skills-path-infographic-f25471-202009-ja.pdf">Link</a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Enterprise Linuxを学習いただくための学習教材とラーニングパスをロール毎に明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
+
 </table>

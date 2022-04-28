@@ -42,7 +42,7 @@ sort: 3
       OpenShift Core Value
     </td>
     <td>
-      <a href="https://docs.google.com/presentation/d/1IdLpIV5-QKKDg4p9e0pDGNqKh6l4LAMw/edit?usp=sharing&ouid=116214710648103817049&rtpof=true&sd=true">Link</a>
+      （SSA作成資料。Content Hub配置後にリンク修正）
     </td>
     <td>
       Red Hat OpenShiftの製品紹介にご利用いただけるプレゼンテーション資料です。
@@ -104,7 +104,7 @@ sort: 3
       JAPAN CUSTOMER SUCCESS SLIDES DECK
     </td>
     <td>
-      <a href="https://docs.google.com/presentation/d/19nxYPw4TUjakWafj4rHYPwwqh-VADmbQTILnuOx4V7g/edit#slide=id.gb5e365882c_2_4066">Link</a>
+      （Content Hub配置後にリンク修正）
     </td>
     <td>
       Red Hat製品の事例を集約したプレゼンテーション資料です。
@@ -222,7 +222,7 @@ sort: 3
       OpenShift　Basics
     </td>
     <td>
-      <a href="https://docs.google.com/presentation/d/1tExofRn5KU2KrqUHP2eg-WnhzSy6Tjam/edit?usp=sharing&ouid=116214710648103817049&rtpof=true&sd=true">Link</a>
+      （SSA作成資料。Content Hub配置後にリンク修正）
     </td>
     <td>
       Red Hat OpenShiftのアーキテクチャを解説したプレゼンテーション資料です。
@@ -288,13 +288,13 @@ sort: 3
 
   <tr>
     <td>
-      OpenShiftトレイルマップ
+      Red Hat OpenShiftラーニングパス
     </td>
     <td>
       <a href="https://drive.google.com/file/d/1bsAFs1ihhi9GTWLESWnMZjOMqVsGa_sN/view">Link</a>
     </td>
     <td>
-      Red Hat OpenShiftを学習いただくためのラーニングパスをロール毎に明示します。
+      Red Hat OpenShiftを学習いただくための学習教材とラーニングパスをロール毎に明示します。
     </td>
     <td>
       -

@@ -105,7 +105,7 @@ sort: 1
       JAPAN CUSTOMER SUCCESS SLIDES DECK
     </td>
     <td><!--  リンク先  -->
-      <a href="https://docs.google.com/presentation/d/19nxYPw4TUjakWafj4rHYPwwqh-VADmbQTILnuOx4V7g/edit#slide=id.gb5e365882c_2_4066">Link</a>
+      （Content Hub配置後にリンク修正）
     </td>
     <td><!--  概要  -->
       Red Hat製品の事例を集約したプレゼンテーション資料です。
@@ -303,13 +303,13 @@ sort: 1
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat Enterprise Linuxトレイルマップ
+      Red Hat Enterprise Linuxラーニングパス
     </td>
     <td><!--  リンク先  -->
       <a href="https://www.redhat.com/rhdc/managed-files/tr-certified-engineer-skills-path-infographic-f25471-202009-ja.pdf">Link</a>
     </td>
     <td><!--  概要  -->
-      Red Hat Enterprise Linuxを学習いただくためのラーニングパスをロール毎に明示します。
+      Red Hat Enterprise Linuxを学習いただくための学習教材とラーニングパスをロール毎に明示します。
     </td>
     <td><!--  対象バージョン  -->
       -
