@@ -157,6 +157,9 @@ sort: 3
     <td>
       -
     </td>
+    <td><!--  記載確認日  -->
+      2022/04/21
+    </td>
   </tr>
 </table>
 
@@ -238,7 +241,7 @@ sort: 3
 
   <tr>
     <td>
-      OpenShift　Basics
+      OpenShift Basics
     </td>
     <td>
       （SSA作成資料。Content Hub配置後にリンク修正）

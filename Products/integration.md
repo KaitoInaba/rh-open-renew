@@ -270,7 +270,7 @@ sort: 4
     Red Hat Integration 製品概要
     </td>
     <td><!--  リンク先  -->
-      https://redhat-partner.highspot.com/items/6065d0a7998ae4317f393f18?lfrm=srp.2
+      <a href="https://redhat-partner.highspot.com/items/6065d0a7998ae4317f393f18?lfrm=srp.2">Link</a>
     </td>
     <td><!--  概要  -->
       Red Hat Integrationに含まれる製品群(Fuse, 3Scale, AMQ) について概要を記載したプレゼンテーション資料です。
@@ -288,7 +288,9 @@ sort: 4
     Red Hat Integration - 技術概要
     </td>
     <td><!--  リンク先  -->
-      （SSA作成資料。Contenthub配置後更新 ※2021年版はContentHubに配置されてました）
+      （SSA作成資料。Contenthub配置後更新
+
+      ※2021年版はContentHubに配置されてました）
     </td>
     <td><!--  概要  -->
       Red Hat Integrationに含まれる製品群(Fuse, 3Scale, AMQ) について製品のアーキテクチャを記載したプレゼンテーション資料です。
@@ -319,7 +321,7 @@ sort: 4
       Red Hat Integration ラーニングパス
     </td>
     <td><!--  リンク先  -->
-      （作成中。作成資料に置き換え）
+      （作成中。Content Hub配置後に置き換え）
     </td>
     <td><!--  概要  -->
       Red Hat Integrationを学習いただくための学習教材とラーニングパスをロール毎に明示します。
