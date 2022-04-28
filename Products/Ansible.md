@@ -26,7 +26,8 @@ sort: 2
       <a href="https://bit.ly/3JXmYCF">Link</a>
     </td>
     <td><!--  概要  -->
-      システムの自動化における課題と導入ポイント、自動化におけるAnshible Automation Platformの価値を説明したプレゼンテーション資料です。
+      Red Hat Ansible Automation Platform 2.1の製品紹介プレゼンテーション資料です。
+      システムの自動化における課題と導入ポイント、自動化におけるAnshible Automation Platformの価値が記載されています。
     </td>
     <td><!--  対象バージョン  -->
       Version 2.1
@@ -255,7 +256,8 @@ sort: 2
       <a href="https://bit.ly/3JXmYCF">Link</a>
     </td>
     <td><!--  概要  -->
-      システムの自動化における課題と導入ポイントと、自動化におけるAnshible Automation Platformの価値を説明したプレゼンテーション資料です。
+      Red Hat Ansible Automation Platform 2.1の製品紹介プレゼンテーション資料です。
+      Version2.1における製品アーキテクチャの説明が記載されています。
     </td>
     <td><!--  対象バージョン  -->
       Version 2.1
@@ -282,7 +284,8 @@ sort: 2
       <a href="https://bit.ly/3JXmYCF">Link</a>
     </td>
     <td><!--  概要  -->
-      システムの自動化における課題と導入ポイントと、自動化におけるAnshible Automation Platformの価値を説明したプレゼンテーション資料です。
+    Red Hat Ansible Automation Platform 2.1の製品紹介プレゼンテーション資料です。
+    Version2.1における更新内容が記載されています。
     </td>
     <td><!--  対象バージョン  -->
       Version 2.1
