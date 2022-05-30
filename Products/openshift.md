@@ -21,10 +21,10 @@ sort: 3
 
   <tr>
     <td>
-      OpenShift Core Value
+      Red Hat OpenShift -- Innovation without limitation
     </td>
     <td>
-      <a href="https://redhat-partner.highspot.com/items/5d8531e5429d7b1a7c702222?lfrm=srp.1#4">Link</a>
+      <a href="https://redhat-partner.highspot.com/items/5b6866ddf21676088b8534b7?lfrm=srp.0#1">Link</a>
     </td>
     <td>
       Red Hat OpenShiftの製品紹介にご利用いただけるプレゼンテーション資料です。
@@ -104,7 +104,7 @@ sort: 3
       CUSTOMER SUCCESS SLIDES DECK
     </td>
     <td><!--  リンク先  -->
-      <a href="https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#28">Link</a>
+      <a href="https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#1">Link</a>
     </td>
     <td><!--  概要  -->
       Red Hat製品の事例を集約したプレゼンテーション資料です。
@@ -236,6 +236,23 @@ sort: 3
 
 <table>
 
+  <tr>
+    <td>
+      OpenShift 4 Technical Deep Dive
+    </td>
+    <td>
+      <a href="https://redhat-partner.highspot.com/items/5d8531e5429d7b1a7c702222?lfrm=srp.1#1">Link</a>
+    </td>
+    <td>
+      Red Hat OpenShiftのアーキテクチャを説明した、テクニカルディープダイブ資料です。
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      2022/05/30
+    </td>
+  </tr>
 
   <tr>
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>

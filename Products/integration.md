@@ -68,7 +68,7 @@ sort: 4
       CUSTOMER SUCCESS SLIDES DECK
     </td>
     <td><!--  リンク先  -->
-      <a href="https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#28">Link</a>
+      <a href="https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#1">Link</a>
     </td>
     <td><!--  概要  -->
       Red Hat製品の事例を集約したプレゼンテーション資料です。
