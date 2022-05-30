@@ -24,7 +24,7 @@ sort: 3
       OpenShift Core Value
     </td>
     <td>
-      （SSA作成資料。Content Hub配置後にリンク修正）
+      <a href="https://redhat-partner.highspot.com/items/5d8531e5429d7b1a7c702222?lfrm=srp.1#4">Link</a>
     </td>
     <td>
       Red Hat OpenShiftの製品紹介にご利用いただけるプレゼンテーション資料です。
@@ -33,7 +33,7 @@ sort: 3
       -
     </td>
     <td>
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -51,7 +51,7 @@ sort: 3
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -69,7 +69,7 @@ sort: 3
       -
     </td>
     <td>
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -87,7 +87,7 @@ sort: 3
       -
     </td>
     <td>
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 </table>
@@ -95,25 +95,25 @@ sort: 3
 ### 01-02. ソリューション・製品事例
 
 <table>
-  <tr>
+  <tr><!-- 行1（見出し）-->
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td>
-      JAPAN CUSTOMER SUCCESS SLIDES DECK
+    <td><!--  ドキュメント名  -->
+      CUSTOMER SUCCESS SLIDES DECK
     </td>
-    <td>
-      （Content Hub配置後にリンク修正）
+    <td><!--  リンク先  -->
+      <a href="https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#28">Link</a>
     </td>
-    <td>
+    <td><!--  概要  -->
       Red Hat製品の事例を集約したプレゼンテーション資料です。
     </td>
-    <td>
+    <td><!--  対象バージョン  -->
       -
     </td>
-    <td>
-      2022/04/21
+    <td><!--  記載確認日  -->
+      2022/05/30
     </td>
   </tr>
 </table>
@@ -130,17 +130,17 @@ sort: 3
       Red Hat OpenShift サブスクリプション説明資料
     </td>
     <td><!--  リンク先  -->
-      （作成中。Content Hub配置後リンク修正）
+      <a href="https://app.highspot.com/items/6291112b31b7d5adc25542f9">Link</a>
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift のサブスクリプションについて、販売体系と算出方法を説明したプレゼンテーション資料です。
+      Red Hat OpenShift のサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
       下記のサブスクリプションガイドの補助資料としてご利用いただけます。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -158,7 +158,7 @@ sort: 3
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 </table>
@@ -181,7 +181,7 @@ sort: 3
       Red Hat OpenShiftの製品ライフサイクルポリシー、及びサポート終了日を明示します。
     </td>
     <td>-</td>
-    <td>2022/04/21</td>
+    <td>2022/05/30</td>
   </tr>
 </table>
 
@@ -207,7 +207,7 @@ sort: 3
       -
     </td>
     <td>
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -225,7 +225,7 @@ sort: 3
       Version 4.10
     </td>
     <td>
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 </table>
@@ -235,24 +235,10 @@ sort: 3
 ### 02-01. アーキテクチャ
 
 <table>
-  <tr>
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
-  </tr>
+
 
   <tr>
-    <td>
-      OpenShift Basics
-    </td>
-    <td>
-      （SSA作成資料。Content Hub配置後にリンク修正）
-    </td>
-    <td>
-      Red Hat OpenShiftのアーキテクチャを解説したプレゼンテーション資料です。
-    </td>
-    <td>
-      -
-    </td>
-    <td>2022/04/21</td>
+    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
@@ -269,7 +255,7 @@ sort: 3
       -
     </td>
     <td>
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -296,7 +282,7 @@ sort: 3
       Version 4.10
     </td>
     <td>
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 </table>
@@ -313,7 +299,7 @@ sort: 3
       Red Hat OpenShiftラーニングパス
     </td>
     <td>
-      （作成中。Content Hub配置後に置き換え）
+      <a href="https://app.highspot.com/items/629102e0990b7e3a0fc52adc">Link</a>
     </td>
     <td>
       Red Hat OpenShiftを学習いただくための学習教材とラーニングパスをロール毎に明示します。
@@ -322,7 +308,7 @@ sort: 3
       -
     </td>
     <td>
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 </table>

@@ -23,7 +23,7 @@ sort: 4
       Red Hat Agile API Integration 紹介資料
     </td>
     <td><!--  リンク先  -->
-      （SSA作成資料。Content Hub配置後にリンク修正）
+      <a href="https://redhat.dam.aprimo.com/dam/contentitems/15caf9187e3446f5ab0aadfe017e603b">Link</a>
     </td>
     <td><!--  概要  -->
       Red Hat Agile Integrationの解決するビジネス課題と製品の概要を紹介するプレゼンテーション資料です。
@@ -32,7 +32,7 @@ sort: 4
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -41,7 +41,7 @@ sort: 4
       Red Hat Agile API Integration (3Scale, Fuse) 紹介動画
     </td>
     <td><!--  リンク先  -->
-      https://youtu.be/3ydCD0wckOI
+      <a href="https://youtu.be/3ydCD0wckOI">Link</a>
     </td>
     <td><!--  概要  -->
       Red Hat Agile API Integration (3Scale, Fuse) の製品概要の紹介動画です。
@@ -50,7 +50,7 @@ sort: 4
       Version 8.x
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -59,16 +59,16 @@ sort: 4
 ### 01-02. ソリューション・製品事例
 
 <table>
-  <tr>
+  <tr><!-- 行1（見出し）-->
     <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
     <td><!--  ドキュメント名  -->
-      JAPAN CUSTOMER SUCCESS SLIDES DECK
+      CUSTOMER SUCCESS SLIDES DECK
     </td>
     <td><!--  リンク先  -->
-      （Content Hub配置後にリンク修正）
+      <a href="https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#28">Link</a>
     </td>
     <td><!--  概要  -->
       Red Hat製品の事例を集約したプレゼンテーション資料です。
@@ -77,10 +77,9 @@ sort: 4
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
-
 </table>
 
 ### 01-03. 提供形態
@@ -95,17 +94,17 @@ sort: 4
       Red Hat Agile Integration サブスクリプション説明資料
     </td>
     <td><!--  リンク先  -->
-      （作成中。Content Hub配置後リンク修正）
+      <a href="https://app.highspot.com/items/62910c7c052a903cff453167">Link</a>
     </td>
     <td><!--  概要  -->
-      Red Hat Enterprise Linuxのサブスクリプションについて、販売体系と算出方法を説明したプレゼンテーション資料です。
-      下記のサブスクリプションガイドの補助資料としてご利用
+      Red Hat Integration のサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
+      下記の製品マニュアルの補助資料としてご利用いただけます。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -123,7 +122,7 @@ sort: 4
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -150,7 +149,7 @@ sort: 4
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -178,7 +177,7 @@ sort: 4
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -196,7 +195,7 @@ sort: 4
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -214,7 +213,7 @@ sort: 4
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -232,7 +231,7 @@ sort: 4
       Version 7
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -250,7 +249,7 @@ sort: 4
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -279,7 +278,7 @@ sort: 4
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -288,9 +287,7 @@ sort: 4
     Red Hat Integration - 技術概要
     </td>
     <td><!--  リンク先  -->
-      （SSA作成資料。Contenthub配置後更新
-
-      ※2021年版はContentHubに配置されてました）
+     <a href="https://redhat.dam.aprimo.com/dam/contentitems/493b08d729754d5b9bcfadfe017e54a8">Link</a>
     </td>
     <td><!--  概要  -->
       Red Hat Integrationに含まれる製品群(Fuse, 3Scale, AMQ) について製品のアーキテクチャを記載したプレゼンテーション資料です。
@@ -299,7 +296,7 @@ sort: 4
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -321,7 +318,7 @@ sort: 4
       Red Hat Integration ラーニングパス
     </td>
     <td><!--  リンク先  -->
-      （作成中。Content Hub配置後に置き換え）
+      <a href="https://app.highspot.com/items/629104c10266493b97d07cac">Link</a>
     </td>
     <td><!--  概要  -->
       Red Hat Integrationを学習いただくための学習教材とラーニングパスをロール毎に明示します。
@@ -330,7 +327,7 @@ sort: 4
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 

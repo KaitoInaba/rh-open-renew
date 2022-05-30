@@ -33,7 +33,7 @@ sort: 2
       Version 2.1
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -51,7 +51,7 @@ sort: 2
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -69,7 +69,7 @@ sort: 2
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -87,7 +87,7 @@ sort: 2
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -102,10 +102,10 @@ sort: 2
 
   <tr>
     <td><!--  ドキュメント名  -->
-      JAPAN CUSTOMER SUCCESS SLIDES DECK
+      CUSTOMER SUCCESS SLIDES DECK
     </td>
     <td><!--  リンク先  -->
-      （Content Hub配置後にリンク修正）
+      <a href="https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#28">Link</a>
     </td>
     <td><!--  概要  -->
       Red Hat製品の事例を集約したプレゼンテーション資料です。
@@ -114,7 +114,7 @@ sort: 2
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -132,17 +132,17 @@ sort: 2
       Red Hat Ansible Automation Platform サブスクリプション説明資料
     </td>
     <td><!--  リンク先  -->
-      （作成中。Content Hub配置後リンク修正）
+      <a href="https://app.highspot.com/items/62910ed437fefb35422c3dcd">Link</a>
     </td>
     <td><!--  概要  -->
-      Red Hat Ansible Automation Platformのサブスクリプションについて、販売体系と算出方法を説明したプレゼンテーション資料です。
+      Red Hat Ansible Automation Platformのサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
       下記の製品マニュアルの補助資料としてご利用いただけます。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -160,7 +160,7 @@ sort: 2
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -178,7 +178,7 @@ sort: 2
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -205,7 +205,7 @@ sort: 2
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -233,7 +233,7 @@ sort: 2
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -263,7 +263,7 @@ sort: 2
       Version 2.1
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -291,7 +291,7 @@ sort: 2
       Version 2.1
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
@@ -309,7 +309,7 @@ sort: 2
       Red Hat Anshible Automation Platform ラーニングパス
     </td>
     <td><!--  リンク先  -->
-      （作成中。Content Hub配置後に置き換え）
+      <a href="https://app.highspot.com/items/629106dcf96784553406af86">Link</a>
     </td>
     <td><!--  概要  -->
       Red Hat Anshible Automation Platformを学習いただくための学習教材とラーニングパスをロール毎に明示します。
@@ -318,7 +318,7 @@ sort: 2
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/04/21
+      2022/05/30
     </td>
   </tr>
 
