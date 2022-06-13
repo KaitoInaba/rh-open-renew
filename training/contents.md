@@ -4,6 +4,12 @@ sort: 1
 
 # Red Hatのトレーニングコンテンツ
 
+Red Hatではパートナー様のRed Hat製品習得促進のため、以下のトレーニングコンテンツを提供しております。
+
+ご利用方法などについての質問は、Red Hat担当営業にお問合せいただくか、下記のお問合せフォームよりご連絡下さい。
+
+[お問合せフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform)
+
 ## Red Hat Partner Training Portal（旧名OPEN）
 
 RedHat Partner Training Portalとは、パートナー様のみ利用できるハンズオン型トレーニングの無償コンテンツです。パートナープログラムの一つで、e-learningとオンラインによるラボを提供しています。
@@ -31,7 +37,7 @@ LinuxやOpenShiftのトレーニングだけでなく、DevOps の認定資格�
 
 ・[Red Hat トレーニングと認定資格：学びの道のり](https://www.redhat.com/ja/services/training-and-certification)
 
-##Interactive Learning Portal
+## Interactive Learning Portal
 
 Interactive Learning Portalとは、ブラウザ上でOpenShift、Red Hat Enterprise Linux 8に関するハンズオンが実行できるセルフトレーニングサービスです。 (Katacodaを利用しています)
 
@@ -43,7 +49,7 @@ Interactive Learning Portalとは、ブラウザ上でOpenShift、Red Hat Enterp
 
 ※ 日本語版コンテンツは英語版より少し遅れて提供されます。最新版での学習が必要な場合は、英語オリジナルサイトをご利用ください。
 
-##Red Hat Product Demo System （RHPDS）
+## Red Hat Product Demo System （RHPDS）
 
 Red Hat製品デモシステムでは、パートナー様が、ご自身のお客様へすぐにRed Hat製品を体験いただきたい場合に利用できる、フルスクリプトのワークショップデモ環境です。コンテンツはレッドハットの技術者によって作成・提供されており、様々な製品・ユースケースをベースにしたデモを実施することができます。
 
