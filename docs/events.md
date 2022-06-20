@@ -11,7 +11,7 @@ sort: 3
 
   <tr>
     <td><!--  イベント名/リンク  -->
-      <a href="https://redhat-forum.jp/summit/>Red Hat Summit 2022</a>
+      <a href="https://redhat-forum.jp/summit/">Red Hat Summit 2022</a>
     </td>
     <td><!--  開催日 -->
       2022/5/10, 11
@@ -47,7 +47,7 @@ sort: 3
 
   <tr>
     <td><!--  イベント名/リンク  -->
-      Red Hat Forum APAC ハイライトセミナー 2020.Oct</a>
+      Red Hat Forum APAC ハイライトセミナー 2020.Oct
     </td>
     <td><!--  開催日 -->
       2020/11/20
@@ -55,7 +55,7 @@ sort: 3
     <td><!--  概要 -->
       OpenShift、Ansible、RHEL をなぜ導入し、どのようなメリットが得られたのか、特別対談、エンドユーザ様のプレゼンテーションを通じて、DXを実現するオープンソース活用をまとめたイベントです。
 
-      ※ イベントサイトは公開終了済みです。講演資料は[こちら](https://redhat.lookbookhq.com/l/redhatforum2020)。
+      ※ イベントサイトは公開終了済みです。講演資料は<a href="https://redhat.lookbookhq.com/l/redhatforum2020)">こちら</a>。
     </td>
   </tr>
 
