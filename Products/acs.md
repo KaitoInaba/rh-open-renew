@@ -6,7 +6,7 @@ sort: 6
 
 <img src="https://github.com/KaitoInaba/rh-open-renew/blob/main/Products/images/Logo-Red_Hat-Adv_Cluster_Security_for_Kube-B-Standard-RGB.png?raw=true" alt="acs_logo" title="acs">
 
-Red Hat Advanced Cluster Security for Kubernetes は、Kubernetes ネイティブのセキュリティ・プラットフォームのパイオニア的存在で、クラウドネイティブ・アプリケーションの構築、デプロイ、実行をより安全にあらゆる場所で行えるようにします。このソリューションの Kubernetes ネイティブのアプローチは、ソフトウェア開発ライフサイクル全体にわたる組み込みのセキュリティを備えており、運用コストの削減、運用リスクの緩和、開発者の生産性向上を実現します。
+[Red Hat Advanced Cluster Security for Kubernetes](https://www.redhat.com/ja/technologies/cloud-computing/openshift/advanced-cluster-security-kubernetes) は、Kubernetes ネイティブのセキュリティ・プラットフォームのパイオニア的存在で、クラウドネイティブ・アプリケーションの構築、デプロイ、実行をより安全にあらゆる場所で行えるようにします。このソリューションの Kubernetes ネイティブのアプローチは、ソフトウェア開発ライフサイクル全体にわたる組み込みのセキュリティを備えており、運用コストの削減、運用リスクの緩和、開発者の生産性向上を実現します。
 
 ```note
 本ページに記載のリンクの一部は、参照に[Red Hat Partner Content Hub](https://redhat-partner.highspot.com/)へのログインが必要です。
@@ -76,7 +76,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/06/30
     </td>
   </tr>
-
 </table>
 
 ### 01-03. 提供形態
@@ -178,11 +177,10 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th>>th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
-
     <td>
       <a href="
         <!--  リンク先  -->
@@ -209,7 +207,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
@@ -239,7 +237,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>

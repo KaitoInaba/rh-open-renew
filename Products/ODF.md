@@ -6,30 +6,32 @@ sort: 7
 
 <img src="https://github.com/KaitoInaba/rh-open-renew/blob/main/Products/images/Logo-Red_Hat-OpenShift-Data_Foundation-A-Standard-RGB.png?raw=true" alt="odf_logo" title="odf">
 
-Red Hat® Advanced Cluster Management for Kubernetes は、セキュリティポリシーを組み込んだ単一のコンソールで、クラスタとアプリケーションを制御します。アプリケーションをデプロイして複数のクラスタを管理し、複数のクラスタへポリシーを広範囲に適用することで、Red Hat OpenShift® の価値を拡大します。
+[Red Hat OpenShift Data Foundation](https://www.redhat.com/ja/technologies/cloud-computing/openshift-container-storage) (旧 Red Hat OpenShift Container Storage) は、コンテナ用ソフトウェア・デファインド・ストレージです。Red Hat OpenShift のデータおよびストレージサービス・プラットフォームとして設計された Red Hat OpenShift Data Foundation は、クラウド全体でアプリケーションを迅速かつ効率的に開発し、デプロイするのに役立ちます。
 
-本ページに記載のリンクの一部は、参照に<a href="https://redhat-partner.highspot.com/">Red Hat Partner Content Hub</a>
-へのログインが必要です。
-Partner Content Hubへのログインアカウントをお持ちでない場合、
-<a href="https://rh-open.github.io/training/registration.html">Red Hat Partner Training Portalの登録方法</a>を参照しPartner Connectへの登録をご実施ください。
+```note
+本ページに記載のリンクの一部は、参照に[Red Hat Partner Content Hub](https://redhat-partner.highspot.com/)へのログインが必要です。
+Partner Content Hubのログインアカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
 
-掲載資料へのお問合せ、資料のリンク切れなどは<a href="https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform">こちら</a>のフォームからお問合せください。
-
+掲載資料へのお問合せ、資料のリンク切れなどは
+[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform)
+のフォームからお問合せください。
+```
 ## 01. 製品説明資料
 
 ### 01-01. 製品概要
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat OpenShift Data Foundation(ODF)の紹介動画
-    </td>
-    <td><!--  リンク先  -->
-      <a href="https://www.youtube.com/watch?v=JiigIwraDmE&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=6&t=567s">Link</a>
+    <td>
+      <a href="
+        <!--  リンク先  -->
+        https://www.youtube.com/watch?v=JiigIwraDmE&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=6&t=567s
+      ">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Data Foundation(ODF)の紹介動画
+      </a>
     </td>
     <td><!--  概要  -->
       Red Hat OpenShift Data Foundationの紹介動画です。
@@ -48,15 +50,16 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      CUSTOMER SUCCESS SLIDES DECK
-    </td>
-    <td><!--  リンク先  -->
-      <a href="https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#1">Link</a>
+    <td>
+      <a href="
+        <!--  リンク先  -->
+        https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#1
+      ">
+        <!--  ドキュメント名  -->
+        CUSTOMER SUCCESS SLIDES DECK
+      </a>
     </td>
     <td><!--  概要  -->
       Red Hat製品の事例を集約したプレゼンテーション資料です。
@@ -75,15 +78,18 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat OpenShift Data Foundation サブスクリプション説明資料
-    </td>
-    <td><!--  リンク先  -->
-      <a href="https://app.highspot.com/items/62910ed437fefb35422c3dcd">Link</a> <!-- 要修正-->
+    <td>
+      <a href="
+        <!--  リンク先  -->
+        https://app.highspot.com/items/62910ed437fefb35422c3dcd <!-- 要修正-->
+      ">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Data Foundation サブスクリプション説明資料
+      </a>
     </td>
     <td><!--  概要  -->
       Red Hat OpenShift Data Foundationのサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
@@ -101,15 +107,18 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat OpenShift Container Platform のライフサイクルポリシー
-    </td>
-    <td><!--  リンク先  -->
-      <a href="https://access.redhat.com/ja/support/policy/updates/openshift#odf">Link</a>
+    <td>
+      <a href="
+        <!--  リンク先  -->
+        https://access.redhat.com/ja/support/policy/updates/openshift#odf
+      ">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Container Platform のライフサイクルポリシー
+      </a>
     </td>
     <td><!--  概要  -->
       Red Hat OpenShift Data Foundationを含むOpenShift関連製品のライフサイクルポリシー、及びサポート終了日を明示します。
@@ -129,15 +138,16 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat OpenShift Data Foundation(previously known as OpenShift Container Storage) Supportability and Interoperability Guide
-    </td>
-    <td><!--  リンク先  -->
-      <a href="https://access.redhat.com/articles/4731161">Link</a>
+    <td>
+      <a href="
+        <!--  リンク先  -->
+        https://access.redhat.com/articles/4731161
+      ">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Data Foundation(previously known as OpenShift Container Storage) Supportability and Interoperability Guide
+      </a>
     </td>
     <td><!--  概要  -->
       Red Hat OpenShift Data Foundationの動作をサポートするHypervisor、クラウドプラットフォームのリストを提供します。
@@ -158,15 +168,18 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
-      What's New in Red Hat OpenShift Data Foundation
-    </td>
-    <td><!--  リンク先  -->
-      <a href="https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44898270">Link</a>
+    <td>
+      <a href="
+        <!--  リンク先  -->
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44898270
+      ">
+        <!--  ドキュメント名  -->
+        Enterprise Kubernetes Storage with Red Hat OpenShift Data Foundation (DO370)
+      </a>
     </td>
     <td><!--  概要  -->
       Red Hat OpenShift Data Foundationのアーキテクチャの詳細が学べ、製品のハンズオンラボを提供するRed Hat Partner Training Portalのコンテンツです。
@@ -185,15 +198,18 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
-      What's New in Red Hat OpenShift Data Foundation
-    </td>
-    <td><!--  リンク先  -->
-      <a href="https://redhat-partner.highspot.com/items/610c03126672da2b59167ff9?lfrm=srp.12">Link</a>
+    <td>
+      <a href="
+        <!--  リンク先  -->
+        https://redhat-partner.highspot.com/items/610c03126672da2b59167ff9?lfrm=srp.12
+      ">
+        <!--  ドキュメント名  -->
+        What's New in Red Hat OpenShift Data Foundation
+      </a>
     </td>
     <td><!--  概要  -->
       Red Hat OpenShift Data Foundationの機能紹介、およびVersion 4.8における更新内容を記載したプレゼンテーション資料です。
@@ -212,15 +228,18 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat OpenShift Data Foundation ラーニングパス
-    </td>
-    <td><!--  リンク先  -->
-      <a href="https://app.highspot.com/items/629106dcf96784553406af86">Link</a>  <!-- 要修正-->
+    <td>
+      <a href="
+        <!--  リンク先  -->
+        https://app.highspot.com/items/629106dcf96784553406af86
+      ">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Data Foundation ラーニングパス
+      </a>
     </td>
     <td><!--  概要  -->
       Red Hat OpenShift Data Foundationを学習いただくための学習教材をロール毎に明示します。
