@@ -23,7 +23,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr>
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
@@ -52,7 +52,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
@@ -81,7 +81,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr>
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
@@ -154,7 +154,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr>
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
@@ -185,7 +185,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr>
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
@@ -217,7 +217,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr>
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
@@ -247,7 +247,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr>
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
@@ -277,7 +277,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr>
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
