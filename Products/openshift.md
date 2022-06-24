@@ -6,7 +6,7 @@ sort: 3
 
 <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/Logo-Red_Hat-OpenShift-A-Standard-RGB.png?raw=true" alt="openshift_logo" title="OpenShift">
 
-[Red Hat OpenShift](https://www.redhat.com/ja/technologies/cloud-computing/openshift) はエンタープライズ Kubernetes プラットフォームのリーダーであり、1 デプロイ先がどこであっても、クラウドのようなエクスペリエンスを実現します。クラウドでも、オンプレミスでも、エッジでも、Red Hat OpenShift を使用すると、一貫したエクスペリエンスを通じてアプリケーションを構築、デプロイ、実行する場所を選択できます。Red Hat OpenShift のフルスタックの自動運用と開発者向けのセルフサービス・プロビジョニングにより、複数のチームが連携して、開発からプロダクションへとアイデアを効率的に展開できます。
+[Red Hat OpenShift](https://www.redhat.com/ja/technologies/cloud-computing/openshift) はエンタープライズ Kubernetes プラットフォームのリーダーであり、デプロイ先がどこであっても、クラウドのようなエクスペリエンスを実現します。クラウドでも、オンプレミスでも、エッジでも、Red Hat OpenShift を使用すると、一貫したエクスペリエンスを通じてアプリケーションを構築、デプロイ、実行する場所を選択できます。Red Hat OpenShift のフルスタックの自動運用と開発者向けのセルフサービス・プロビジョニングにより、複数のチームが連携して、開発からプロダクションへとアイデアを効率的に展開できます。
 
 ```note
 本ページに記載のリンクの一部は、参照に[Red Hat Partner Content Hub](https://redhat-partner.highspot.com/)へのログインが必要です。
@@ -79,7 +79,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>  
     <td><!--  概要  -->
-      Red Hat OpenShift は、革新的なアプリケーションの作成と移行を行う企業が、卓越したエクスペリエンスを顧客に提供するための支援を提供します。その詳細をご確認ください。
+      Red Hat OpenShiftの特徴と機能の概要を記載したデータシートです。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -257,7 +257,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 <table>
 
 <tr>
-  <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+  <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
 </tr>
 
   <tr>

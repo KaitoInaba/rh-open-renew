@@ -6,7 +6,7 @@ sort: 1
 
 <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/Logo-Red_Hat-Enterprise_Linux-B-Standard-RGB.png?raw=true" alt="rhel_logo" title="RHEL">
 
-[Red Hat Enterprise Linux](https://www.redhat.com/ja/technologies/linux-platforms/enterprise-linux) は、数百のクラウドと数千のハードウェアベンダーおよびソフトウェアベンダーで認定された、世界有数のエンタープライズ向け Linux プラットフォーム* です。Red Hat Enterprise Linux は、エッジコンピューティングや SAP ワークロードなどの特定のユースケースに対応するために購入されることもありますが、すべてのサブスクリプションに次のような核となるメリットがあります。
+[Red Hat Enterprise Linux](https://www.redhat.com/ja/technologies/linux-platforms/enterprise-linux) は、数百のクラウドと数千のハードウェアベンダーおよびソフトウェアベンダーで認定された、世界有数のエンタープライズ向け Linux プラットフォームです。Red Hat Enterprise Linux は、エッジコンピューティングや SAP ワークロードなどの特定のユースケースに対応するために購入されることもありますが、すべてのサブスクリプションに次のような核となるメリットがあります。
 
 ```note
 本ページに記載のリンクの一部は、参照に[Red Hat Partner Content Hub](https://redhat-partner.highspot.com/)へのログインが必要です。
@@ -361,9 +361,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         <!--  ドキュメント名  -->
         SAP ワークロードに Red Hat を選ぶ 10 の理由
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat によるこの e ブックでは、Linux システム管理ツールとベストプラクティスを使用して、費用対効果の高い大規模環境を構築およびサポートする方法を学びます。
     </td>
     <td><!--  概要  -->
       SAP ワークロードのエンドツーエンドのビジネスプロセスを、実行、開発、単純化、拡張するために、Red Hat を選ぶ 10 の理由をご覧ください。
