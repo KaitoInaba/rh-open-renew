@@ -89,10 +89,10 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/62910ed437fefb35422c3dcd <!-- 要修正-->
+        https://app.highspot.com/items/62910ed437fefb35422c3dcd
       ">
         <!--  ドキュメント名  -->
-        Red Hat OpenShift Data Foundation サブスクリプション説明資料
+        <ContentHubアップロード後修正>Red Hat OpenShift Data Foundation サブスクリプション説明資料
       </a>
     </td>
     <td><!--  概要  -->
@@ -214,10 +214,11 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://redhat-partner.highspot.com/items/610c03126672da2b59167ff9?lfrm=srp.12
       ">
         <!--  ドキュメント名  -->
-        What's New in Red Hat OpenShift Data Foundation
+        <ContentHubアップロード後修正>What's New in Red Hat OpenShift Data Foundation 4.8 ~ 機械翻訳版 ~
       </a>
     </td>
     <td><!--  概要  -->
+      英語にて提供されている資料<a href="https://redhat-partner.highspot.com/items/610c03126672da2b59167ff9?lfrm=srp.12">What's New in Red Hat OpenShift Data Foundation 4.8</a>の日本語機械翻訳版です。
       Red Hat OpenShift Data Foundationの機能紹介、およびVersion 4.8における更新内容を記載したプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
@@ -244,7 +245,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://app.highspot.com/items/629106dcf96784553406af86
       ">
         <!--  ドキュメント名  -->
-        Red Hat OpenShift Data Foundation ラーニングパス
+        <ContentHubアップロード後修正>Red Hat OpenShift Data Foundation ラーニングパス
       </a>
     </td>
     <td><!--  概要  -->

@@ -37,8 +37,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat Advanced Cluster Security for Kubernetesの製品データシートです。
-      Red Hat Advanced Cluster Security for Kubernetesの特徴および機能を紹介しています。
+      Red Hat Advanced Cluster Security for Kubernetesの特徴および機能を紹介した製品データシートです。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -92,12 +91,12 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://app.highspot.com/items/62910ed437fefb35422c3dcd
       ">
         <!--  ドキュメント名  -->
+        <ContentHubアップロード後修正>
         Red Hat Advanced Cluster Security for Kubernetes サブスクリプション説明資料
       </a>
     </td>
     <td><!--  概要  -->
       Red Hat Advanced Cluster Security for Kubernetesのサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
-      下記の製品マニュアルの補助資料としてご利用いただけます。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -126,9 +125,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat Advanced Cluster Security for Kubernetesのライフサイクルポリシーを明示します。
-
-      ※ "Life Cycle"章をご確認ください
+      Red Hat Advanced Cluster Security for Kubernetesのライフサイクルポリシーを明示します。"Life Cycle"章をご確認ください
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -247,6 +244,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://app.highspot.com/items/629106dcf96784553406af86
       ">
         <!--  ドキュメント名  -->
+        <ContentHubアップロード後修正>
         Red Hat Advanced Cluster Security for Kubernetes ラーニングパス
       </a>
     </td>
