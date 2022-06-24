@@ -227,7 +227,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://moriwaka.github.io/Presentation/bootcamp/rhel-tt.pdf
       ">
         <!--  ドキュメント名  -->
-        Red Hat Enterprise Linuxを使用する前に知るべき情報を集約したプレゼンテーション資料です。
+        Red Hat Enterprise Linux を使う前に読む資料
       </a>
     </td>
     <td><!--  概要  -->

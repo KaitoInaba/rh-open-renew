@@ -91,7 +91,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://app.highspot.com/items/62910ed437fefb35422c3dcd
       ">
         <!--  ドキュメント名  -->
-        <ContentHubアップロード後修正>
+        【ContentHubアップロード後修正】
         Red Hat Advanced Cluster Security for Kubernetes サブスクリプション説明資料
       </a>
     </td>
@@ -244,7 +244,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://app.highspot.com/items/629106dcf96784553406af86
       ">
         <!--  ドキュメント名  -->
-        <ContentHubアップロード後修正>
+        【ContentHubアップロード後修正】
         Red Hat Advanced Cluster Security for Kubernetes ラーニングパス
       </a>
     </td>

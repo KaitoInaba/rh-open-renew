@@ -35,7 +35,7 @@ Latest Version : Version 2.5
         https://www.youtube.com/watch?v=JiigIwraDmE&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=6&t=567s
       ">
         <!--  ドキュメント名  -->
-        <ContentHubアップロード後修正>
+        【ContentHubアップロード後修正】
         Red Hat Advanced Cluster Management for Kubernetes ~ 機械翻訳版 ~
       </a>
     </td>
@@ -94,7 +94,7 @@ Latest Version : Version 2.5
         https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#1 <!-- 要修正-->
       ">
         <!--  ドキュメント名  -->
-        <ContentHubアップロード後修正>
+        【ContentHubアップロード後修正】
         Red Hat Advanced Cluster Management for Kubernetes サブスクリプション説明資料
       </a>
     </td>
@@ -353,7 +353,7 @@ Latest Version : Version 2.5
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44165705
       ">
         <!--  ドキュメント名  -->
-        <ContentHubアップロード後修正>
+        【ContentHubアップロード後修正】
         Red Hat Advanced Cluster Management ラーニングパス
       </a>
     </td>

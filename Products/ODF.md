@@ -92,7 +92,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://app.highspot.com/items/62910ed437fefb35422c3dcd
       ">
         <!--  ドキュメント名  -->
-        <ContentHubアップロード後修正>Red Hat OpenShift Data Foundation サブスクリプション説明資料
+        【ContentHubアップロード後修正】Red Hat OpenShift Data Foundation サブスクリプション説明資料
       </a>
     </td>
     <td><!--  概要  -->
@@ -214,7 +214,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://redhat-partner.highspot.com/items/610c03126672da2b59167ff9?lfrm=srp.12
       ">
         <!--  ドキュメント名  -->
-        <ContentHubアップロード後修正>What's New in Red Hat OpenShift Data Foundation 4.8 ~ 機械翻訳版 ~
+        【ContentHubアップロード後修正】What's New in Red Hat OpenShift Data Foundation 4.8 ~ 機械翻訳版 ~
       </a>
     </td>
     <td><!--  概要  -->
@@ -245,7 +245,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://app.highspot.com/items/629106dcf96784553406af86
       ">
         <!--  ドキュメント名  -->
-        <ContentHubアップロード後修正>Red Hat OpenShift Data Foundation ラーニングパス
+        【ContentHubアップロード後修正】Red Hat OpenShift Data Foundation ラーニングパス
       </a>
     </td>
     <td><!--  概要  -->
