@@ -198,7 +198,7 @@ sort: 3
       Red Hat OpenShift Ecosystem
     </td>
     <td>
-      <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
+      <a href="https://catalog.redhat.com/platform/red-hat-openshift/software">Link</a>
     </td>
     <td>
       Red Hat OpenShiftとの互換性が確認されたソフトウェア、及びクラウドサービスのリストを提供します。
@@ -216,7 +216,7 @@ sort: 3
       OPENSHIFT CONTAINER PLATFORM クラスターでサポートされるプラットフォーム
     </td>
     <td>
-      <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
+      <a href="https://access.redhat.com/documentation/ja-jp/openshift_container_platform/4.10/html/installing/supported-platforms-for-openshift-clusters_ocp-installation-overview">Link</a>
     </td>
     <td>
       Red Hat OpenShiftの稼働をサポートするプラットフォーム条件を明示します。
@@ -236,6 +236,10 @@ sort: 3
 
 <table>
 
+<tr>
+  <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+</tr>
+
   <tr>
     <td>
       OpenShift 4 Technical Deep Dive
@@ -252,10 +256,6 @@ sort: 3
     <td>
       2022/05/30
     </td>
-  </tr>
-
-  <tr>
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
@@ -287,19 +287,19 @@ sort: 3
 
   <tr>
     <td>
-      What's new in OpenShift 4.9-4.10
+      What's new in OpenShift
     </td>
     <td>
-      <a href="https://docs.google.com/presentation/d/1dr_JFiz5wO9chz9RDWuYVeNfFf1IoPL5/edit?usp=sharing&ouid=116214710648103817049&rtpof=true&sd=true">Link</a>
+      <a href="https://www.redhat.com/en/whats-new-red-hat-openshift">Link</a>
     </td>
     <td>
-      Red Hat OpenShift 4.10における更新内容を説明したプレゼンテーション資料です。
+      Red Hat OpenShiftの更新について、各バージョンにおける更新情報をまとめたプレゼンテーション資料の掲載サイトです。
     </td>
     <td>
-      Version 4.10
+      -
     </td>
     <td>
-      2022/05/30
+      2022/06/02
     </td>
   </tr>
 </table>

@@ -17,8 +17,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 のフォームからお問合せください。
 ```
 
-Latest Version : Version 2.5(2022/6/8~)
-
 ## 01. 製品説明資料
 
 ### 01-01. 製品概要
@@ -39,7 +37,7 @@ Latest Version : Version 2.5(2022/6/8~)
       </a>
     </td>
     <td><!--  概要  -->
-      英語にて提供されている<a href="https://redhat-partner.highspot.com/items/5fa5690abf6c9449faa6cb0d?lfrm=srp.2">Red Hat Advanced Cluster Management for Kubernetesの紹介プレゼンテーション資料</a>の日本語機械翻訳版です。
+      英語にて提供されている資料<a href="https://redhat-partner.highspot.com/items/5fa5690abf6c9449faa6cb0d?lfrm=srp.2">Red Hat Advanced Cluster Management for Kubernetes</a>の日本語機械翻訳版です。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -48,28 +46,6 @@ Latest Version : Version 2.5(2022/6/8~)
       2022/06/30
     </td>
   </tr>
-
-  <tr>
-    <td>
-      <a href="
-        <!--  リンク先  -->
-        https://redhat-partner.highspot.com/items/5fa5690abf6c9449faa6cb0d?lfrm=srp.2!-- 要修正-->
-      ">
-        <!--  ドキュメント名  -->
-        Red Hat Advanced Cluster Management for Kubernetes
-      </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat Advanced Cluster Management for Kubernetesの紹介プレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td><!--  記載確認日  -->
-      2022/06/30
-    </td>
-  </tr>
-
 </table>
 
 ### 01-02. ソリューション・製品事例
@@ -345,9 +321,6 @@ Latest Version : Version 2.5(2022/6/8~)
         <!--  ドキュメント名  -->
         What's New in Red Hat Advanced Cluster Management 2.2
       </a>
-    </td>
-    <td><!--  概要  -->
-      Advanced Cluster Management 2.3における更新情報を学べる、Red Hat Partner Training Portalのコンテンツです。
     </td>
     <td><!--  概要  -->
       Advanced Cluster Management 2.3における更新情報を学べる、Red Hat Partner Training Portalのコンテンツです。

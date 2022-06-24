@@ -24,9 +24,11 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   <tr><!-- 行1（見出し）-->
     <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
+
+  <tr>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://www.youtube.com/watch?v=JiigIwraDmE&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=6&t=567s
       ">
         <!--  ドキュメント名  -->
@@ -52,9 +54,11 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   <tr><!-- 行1（見出し）-->
     <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
+
+  <tr>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#1
       ">
         <!--  ドキュメント名  -->
@@ -83,8 +87,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://app.highspot.com/items/62910ed437fefb35422c3dcd <!-- 要修正-->
       ">
         <!--  ドキュメント名  -->
@@ -112,8 +116,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td>
-      <a href="
-        <!--  リンク先  -->
+      <!--  リンク先  -->
+      <a href="  
         https://access.redhat.com/ja/support/policy/updates/openshift#odf
       ">
         <!--  ドキュメント名  -->
@@ -140,6 +144,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   <tr><!-- 行1（見出し）-->
     <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
+
+  <tr>
     <td>
       <a href="
         <!--  リンク先  -->
@@ -173,8 +179,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44898270
       ">
         <!--  ドキュメント名  -->
@@ -182,7 +188,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift Data Foundationのアーキテクチャの詳細が学べ、製品のハンズオンラボを提供するRed Hat Partner Training Portalのコンテンツです。
+      Red Hat OpenShift Data Foundationのアーキテクチャの詳細の学習、および製品のハンズオンラボを実施できるRed Hat Partner Training Portalのコンテンツです。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -203,8 +209,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td>
-      <a href="
-        <!--  リンク先  -->
+      <!--  リンク先  -->
+      <a href="  
         https://redhat-partner.highspot.com/items/610c03126672da2b59167ff9?lfrm=srp.12
       ">
         <!--  ドキュメント名  -->
@@ -233,8 +239,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://app.highspot.com/items/629106dcf96784553406af86
       ">
         <!--  ドキュメント名  -->
