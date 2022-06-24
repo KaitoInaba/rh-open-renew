@@ -251,7 +251,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift Data Foundationを学習いただくための学習教材をロール毎に明示します。
+      Red Hat Partner Training Portalを使用し、Red Hat OpenShift Data Foundationを学習いただくための学習教材をロール毎に明示します。
     </td>
     <td><!--  対象バージョン  -->
       -

@@ -318,9 +318,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         Red Hat Anshible Automation Platform ラーニングパス
       </a>
     </td>
-
     <td><!--  概要  -->
-      Red Hat Anshible Automation Platformを学習いただくための学習教材とラーニングパスをロール毎に明示します。
+      Red Hat Partner Training Portalを使用し、Red Hat Anshible Automation Platformを学習いただくための学習教材とラーニングパスをロール毎に明示します。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -329,6 +328,29 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/05/30
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://redhat-partner.highspot.com/items/5bee108f429d7b2a286c3b14?lfrm=srp.1
+      ">
+        <!--  ドキュメント名  -->
+        Red Hat Ansibleスキルパス
+      </a>
+    </td>
+    <td><!--  概要  -->
+      このインフォグラフィックでは、AnsibleのRed Hat 認定エンジニア (RHCE) 認定取得までのラーニングパスをご紹介します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/05/30
+    </td>
+  </tr>
+
+
 </table>
 
 ## 04. 関連情報

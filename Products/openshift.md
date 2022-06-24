@@ -360,6 +360,28 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/05/30
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/resources/openshift-skill-paths-brief
+      ">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift のスキルパス
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Partner Training Portalを使用し、OpenShiftのRed Hat 認定エンジニア (RHCE) 認定取得までのラーニングパスをご紹介します。ご自分に合ったルートを見つけるのにお役立てください。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/05/30
+    </td>
+  </tr>
+
 </table>
 
 ## 04. 関連情報

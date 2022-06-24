@@ -291,7 +291,28 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat Enterprise Linuxを学習いただくための学習教材とラーニングパスをロール毎に明示します。
+      Red Hat Partner Training Portalを使用し、Red Hat Enterprise Linuxを学習いただくための学習教材とラーニングパスをロール毎に明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/05/30
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://redhat-partner.highspot.com/items/5df7906f429d7b345d7b8ec0?lfrm=srp.0
+      ">
+        <!--  ドキュメント名  -->
+        Red Hat 認定エンジニア向けスキルパス
+      </a>
+    </td>
+    <td><!--  概要  -->
+      このインフォグラフィックでは、Red Hat 認定エンジニア (RHCE) 認定取得までのラーニングパスをご紹介します。ご自分に合ったルートを見つけるのにお役立てください。
     </td>
     <td><!--  対象バージョン  -->
       -

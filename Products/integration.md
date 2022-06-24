@@ -350,9 +350,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         Red Hat Integration ラーニングパス
       </a>
     </td>
-
     <td><!--  概要  -->
-      Red Hat Integrationを学習いただくための学習教材とラーニングパスをロール毎に明示します。
+      Red Hat Partner Training Portalを使用し、Red Hat Integrationを学習いただくための学習教材とラーニングパスをロール毎に明示します。
     </td>
     <td><!--  対象バージョン  -->
       -
