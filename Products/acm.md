@@ -4,7 +4,7 @@ sort: 5
 
 # Red Hat Advanced Cluster Management for Kubernetes
 
-<img src="https://github.com/KaitoInaba/rh-open-renew/blob/main/Products/images/Logo-Red_Hat-Adv_Cluster_Management_For_Kube-A-Standard-RGB.png?raw=true" alt="acm_logo" title="acm">
+<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/Logo-Red_Hat-Adv_Cluster_Management_For_Kube-A-Standard-RGB.png?raw=true" alt="acm_logo" title="acm">
 
 [Red Hat® Advanced Cluster Management for Kubernetes](https://www.redhat.com/ja/technologies/management/advanced-cluster-management)は、セキュリティポリシーを組み込んだ単一のコンソールで、クラスタとアプリケーションを制御します。アプリケーションをデプロイして複数のクラスタを管理し、複数のクラスタへポリシーを広範囲に適用することで、Red Hat OpenShift® の価値を拡大します。
 
@@ -28,8 +28,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://www.youtube.com/watch?v=JiigIwraDmE&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=6&t=567s<!-- 要修正-->
       ">
         <!--  ドキュメント名  -->
@@ -57,9 +57,9 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td>
-      <a href="
-        <!--  リンク先  -->
-        https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#1
+      <!--  リンク先  -->
+      <a href="        
+        https://redhat-partner.highspot.com/items/6215778d4446c96ef769c2ad?lfrm=srp.0
       ">
         <!--  ドキュメント名  -->
         CUSTOMER SUCCESS SLIDES DECK
@@ -86,8 +86,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#1 <!-- 要修正-->
       ">
         <!--  ドキュメント名  -->
@@ -115,8 +115,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://access.redhat.com/support/policy/updates/advanced-cluster-manager
       ">
         <!--  ドキュメント名  -->
@@ -146,8 +146,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://access.redhat.com/articles/6663461
       ">
         <!--  ドキュメント名  -->
@@ -167,8 +167,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://access.redhat.com/articles/6218901
       ">
         <!--  ドキュメント名  -->
@@ -188,8 +188,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://access.redhat.com/articles/5900521
       ">
         <!--  ドキュメント名  -->
@@ -209,8 +209,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://access.redhat.com/articles/5799561
       ">
         <!--  ドキュメント名  -->
@@ -241,8 +241,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670
       ">
         <!--  ドキュメント名  -->
@@ -272,8 +272,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44694648
       ">
         <!--  ドキュメント名  -->
@@ -293,8 +293,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44516837
       ">
         <!--  ドキュメント名  -->
@@ -314,8 +314,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44165705
       ">
         <!--  ドキュメント名  -->
@@ -344,8 +344,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44165705<!-- 要修正-->
       ">
         <!--  ドキュメント名  -->

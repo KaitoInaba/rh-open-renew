@@ -4,7 +4,7 @@ sort: 7
 
 # Red Hat OpenShift Data Foundation
 
-<img src="https://github.com/KaitoInaba/rh-open-renew/blob/main/Products/images/Logo-Red_Hat-OpenShift-Data_Foundation-A-Standard-RGB.png?raw=true" alt="odf_logo" title="odf">
+<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/Logo-Red_Hat-OpenShift-Data_Foundation-A-Standard-RGB.png?raw=true" alt="odf_logo" title="odf">
 
 [Red Hat OpenShift Data Foundation](https://www.redhat.com/ja/technologies/cloud-computing/openshift-container-storage) (旧 Red Hat OpenShift Container Storage) は、コンテナ用ソフトウェア・デファインド・ストレージです。Red Hat OpenShift のデータおよびストレージサービス・プラットフォームとして設計された Red Hat OpenShift Data Foundation は、クラウド全体でアプリケーションを迅速かつ効率的に開発し、デプロイするのに役立ちます。
 
@@ -59,7 +59,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#1
+        https://redhat-partner.highspot.com/items/6215778d4446c96ef769c2ad?lfrm=srp.0
       ">
         <!--  ドキュメント名  -->
         CUSTOMER SUCCESS SLIDES DECK
@@ -75,7 +75,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/06/30
     </td>
   </tr>
-
 </table>
 
 ### 01-03. 提供形態

@@ -4,7 +4,7 @@ sort: 6
 
 # Red Hat Advanced Cluster Security for Kubernetes
 
-<img src="https://github.com/KaitoInaba/rh-open-renew/blob/main/Products/images/Logo-Red_Hat-Adv_Cluster_Security_for_Kube-B-Standard-RGB.png?raw=true" alt="acs_logo" title="acs">
+<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/Logo-Red_Hat-Adv_Cluster_Security_for_Kube-B-Standard-RGB.png?raw=true" alt="acs_logo" title="acs">
 
 [Red Hat Advanced Cluster Security for Kubernetes](https://www.redhat.com/ja/technologies/cloud-computing/openshift/advanced-cluster-security-kubernetes) は、Kubernetes ネイティブのセキュリティ・プラットフォームのパイオニア的存在で、クラウドネイティブ・アプリケーションの構築、デプロイ、実行をより安全にあらゆる場所で行えるようにします。このソリューションの Kubernetes ネイティブのアプローチは、ソフトウェア開発ライフサイクル全体にわたる組み込みのセキュリティを備えており、運用コストの削減、運用リスクの緩和、開発者の生産性向上を実現します。
 
@@ -60,7 +60,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <a href="
         <!--  リンク先  -->
-        https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#1
+        https://redhat-partner.highspot.com/items/6215778d4446c96ef769c2ad?lfrm=srp.0
       ">
         <!--  ドキュメント名  -->
         CUSTOMER SUCCESS SLIDES DECK

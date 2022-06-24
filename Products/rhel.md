@@ -4,7 +4,7 @@ sort: 1
 
 # Red Hat Enterprise Linux
 
-<img src="https://github.com/KaitoInaba/rh-open-renew/blob/main/Products/images/Logo-Red_Hat-Enterprise_Linux-B-Standard-RGB.png?raw=true" alt="rhel_logo" title="RHEL">
+<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/Logo-Red_Hat-Enterprise_Linux-B-Standard-RGB.png?raw=true" alt="rhel_logo" title="RHEL">
 
 
 
