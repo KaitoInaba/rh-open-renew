@@ -105,6 +105,28 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/06/30
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://access.redhat.com/articles/6932811
+      ">
+        <!--  ドキュメント名  -->
+        OpenShift Data Foundation Subscription Guide
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShift Data Foundationのサブスクリプションモデルの説明およびサブスクリプションの種類と種別を見積もるための手順を紹介します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/06/30
+    </td>
+  </tr>
+
 </table>
 
 ### 01-04. ライフサイクル
