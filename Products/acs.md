@@ -9,18 +9,13 @@ sort: 6
 Red Hat Advanced Cluster Security for Kubernetes は、Kubernetes ネイティブのセキュリティ・プラットフォームのパイオニア的存在で、クラウドネイティブ・アプリケーションの構築、デプロイ、実行をより安全にあらゆる場所で行えるようにします。このソリューションの Kubernetes ネイティブのアプローチは、ソフトウェア開発ライフサイクル全体にわたる組み込みのセキュリティを備えており、運用コストの削減、運用リスクの緩和、開発者の生産性向上を実現します。
 
 ```note
-本ページに記載のリンクの一部は、参照に<a href="https://redhat-partner.highspot.com/">Red Hat Partner Content Hub</a>
-へのログインが必要です。
-Partner Content Hubへのログインアカウントをお持ちでない場合、
-<a href="https://rh-open.github.io/training/registration.html">Red Hat Partner Training Portalの登録方法</a>を参照しPartner Connectへの登録をご実施ください。
+本ページに記載のリンクの一部は、参照に[Red Hat Partner Content Hub](https://redhat-partner.highspot.com/)へのログインが必要です。
+Partner Content Hubのログインアカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
 
-掲載資料へのお問合せ、資料のリンク切れなどは<a href="https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform">こちら</a>のフォームからお問合せください。
+掲載資料へのお問合せ、資料のリンク切れなどは
+[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform)
+のフォームからお問合せください。
 ```
-
-<b>
-最新バージョン　：　3.69
-
-</b>
 
 ## 01. 製品説明資料
 
@@ -58,15 +53,18 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
-      CUSTOMER SUCCESS SLIDES DECK
-    </td>
-    <td><!--  リンク先  -->
-      <a href="https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#1">Link</a>
+    <td>
+      <a href="
+        <!--  リンク先  -->
+        https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#1
+      ">
+        <!--  ドキュメント名  -->
+        CUSTOMER SUCCESS SLIDES DECK
+      </a>
     </td>
     <td><!--  概要  -->
       Red Hat製品の事例を集約したプレゼンテーション資料です。
@@ -85,15 +83,18 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat Advanced Cluster Security for Kubernetes サブスクリプション説明資料
-    </td>
-    <td><!--  リンク先  -->
-      <a href="https://app.highspot.com/items/62910ed437fefb35422c3dcd">Link</a> <!-- 要修正-->
+    <td>
+      <a href="
+        <!--  リンク先  -->
+        https://app.highspot.com/items/62910ed437fefb35422c3dcd
+      ">
+        <!--  ドキュメント名  -->
+        Red Hat Advanced Cluster Security for Kubernetes サブスクリプション説明資料
+      </a>
     </td>
     <td><!--  概要  -->
       Red Hat Advanced Cluster Security for Kubernetesのサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
@@ -112,15 +113,18 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat Advanced Cluster Security for Kubernetes Support Policy
-    </td>
-    <td><!--  リンク先  -->
-      <a href="https://access.redhat.com/node/5822721">Link</a>
+    <td>
+      <a href="
+        <!--  リンク先  -->
+        https://access.redhat.com/node/5822721
+      ">
+        <!--  ドキュメント名  -->
+        Red Hat Advanced Cluster Security for Kubernetes Support Policy
+      </a>
     </td>
     <td><!--  概要  -->
       Red Hat Advanced Cluster Security for Kubernetesのライフサイクルポリシーを明示します。
@@ -142,15 +146,18 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat Advanced Cluster Security for Kubernetes Support Policy
-    </td>
-    <td><!--  リンク先  -->
-      <a href="https://access.redhat.com/node/5822721">Link</a>
+    <td>
+      <a href="
+        <!--  リンク先  -->
+        https://access.redhat.com/node/5822721
+      ">
+        <!--  ドキュメント名  -->
+        Red Hat Advanced Cluster Security for Kubernetes Support Policy
+      </a>
     </td>
     <td><!--  概要  -->
       Red Hat Advanced Cluster Security for Kubernetes Support Policyの動作をサポートするHypervisor、クラウドプラットフォームのリストを提供します。
@@ -171,15 +178,19 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th>>th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
-      Hands-On with Red Hat Advanced Cluster Security for Kubernetes
-    </td>
-    <td><!--  リンク先  -->
-      <a href="https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44914286">Link</a>
+
+    <td>
+      <a href="
+        <!--  リンク先  -->
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44914286
+      ">
+        <!--  ドキュメント名  -->
+        Hands-On with Red Hat Advanced Cluster Security for Kubernetes
+      </a>
     </td>
     <td><!--  概要  -->
     Red Hat Advanced Cluster Security for Kubernetesの技術概要とVersion 3.8における新機能の紹介とハンズオンを実施できるRed Hat Partner Training Portalのコンテンツです。
@@ -202,11 +213,14 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat Advanced Cluster Security for Kubernetes 3.69
-    </td>
-    <td><!--  リンク先  -->
-      <a href="https://docs.openshift.com/acs/3.69/release_notes/369-release-notes.html">Link</a>
+    <td>
+      <a href="
+        <!--  リンク先  -->
+        https://docs.openshift.com/acs/3.69/release_notes/369-release-notes.html
+      ">
+        <!--  ドキュメント名  -->
+        Red Hat Advanced Cluster Security for Kubernetes 3.69
+      </a>
     </td>
     <td><!--  概要  -->
     Red Hat Advanced Cluster Security for Kubernetes 3.69の更新情報を明示します。
@@ -229,11 +243,14 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat Advanced Cluster Security for Kubernetes ラーニングパス
-    </td>
-    <td><!--  リンク先  -->
-      <a href="https://app.highspot.com/items/629106dcf96784553406af86">Link</a>  <!-- 要修正-->
+    <td>
+      <a href="
+        <!--  リンク先  -->
+        https://app.highspot.com/items/629106dcf96784553406af86
+      ">
+        <!--  ドキュメント名  -->
+        Red Hat Advanced Cluster Security for Kubernetes ラーニングパス
+      </a>
     </td>
     <td><!--  概要  -->
       Red Hat OpenShift Data Foundationを学習いただくための学習教材をロール毎に明示します。
