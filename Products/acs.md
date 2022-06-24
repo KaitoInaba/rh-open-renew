@@ -1,12 +1,12 @@
 ---
-sort: 7
+sort: 6
 ---
 
-# Red Hat OpenShift Data Foundation
+# Red Hat Advanced Cluster Security for Kubernetes
 
-<img src="https://github.com/KaitoInaba/rh-open-renew/blob/main/Products/images/Logo-Red_Hat-OpenShift-Data_Foundation-A-Standard-RGB.png?raw=true" alt="odf_logo" title="odf">
+<img src="https://github.com/KaitoInaba/rh-open-renew/blob/main/Products/images/Logo-Red_Hat-Adv_Cluster_Security_for_Kube-B-Standard-RGB.png?raw=true" alt="acs_logo" title="acs">
 
-Red Hat® Advanced Cluster Management for Kubernetes は、セキュリティポリシーを組み込んだ単一のコンソールで、クラスタとアプリケーションを制御します。アプリケーションをデプロイして複数のクラスタを管理し、複数のクラスタへポリシーを広範囲に適用することで、Red Hat OpenShift® の価値を拡大します。
+Red Hat Advanced Cluster Security for Kubernetes は、Kubernetes ネイティブのセキュリティ・プラットフォームのパイオニア的存在で、クラウドネイティブ・アプリケーションの構築、デプロイ、実行をより安全にあらゆる場所で行えるようにします。このソリューションの Kubernetes ネイティブのアプローチは、ソフトウェア開発ライフサイクル全体にわたる組み込みのセキュリティを備えており、運用コストの削減、運用リスクの緩和、開発者の生産性向上を実現します。
 
 本ページに記載のリンクの一部は、参照に<a href="https://redhat-partner.highspot.com/">Red Hat Partner Content Hub</a>
 へのログインが必要です。
@@ -26,14 +26,14 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat OpenShift Data Foundation(ODF)の紹介動画
+      Red Hat Advanced Cluster Security for Kubernetes
     </td>
     <td><!--  リンク先  -->
-      <a href="https://www.youtube.com/watch?v=JiigIwraDmE&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=6&t=567s">Link</a>
+      <a href="https://redhat-partner.highspot.com/items/60369f48bf6c947b443f56b8?lfrm=srp.0#3">Link</a>
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift Data Foundationの紹介動画です。
-      OpenShiftにおけるストレージの課題や、ODFがその課題に対しどのように解決を行うかを紹介しています。
+      Red Hat Advanced Cluster Security for Kubernetesの製品データシートです。
+      Red Hat Advanced Cluster Security for Kubernetesの特徴および機能を紹介しています。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -80,13 +80,14 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat OpenShift Data Foundation サブスクリプション説明資料
+      Red Hat Advanced Cluster Security for Kubernetes サブスクリプション説明資料
     </td>
     <td><!--  リンク先  -->
       <a href="https://app.highspot.com/items/62910ed437fefb35422c3dcd">Link</a> <!-- 要修正-->
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift Data Foundationのサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
+      Red Hat Advanced Cluster Security for Kubernetesのサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
+      下記の製品マニュアルの補助資料としてご利用いただけます。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -106,13 +107,13 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat OpenShift Container Platform のライフサイクルポリシー
+      Red Hat Advanced Cluster Security for Kubernetes Support Policy
     </td>
     <td><!--  リンク先  -->
-      <a href="https://access.redhat.com/ja/support/policy/updates/openshift#odf">Link</a>
+      <a href="https://access.redhat.com/node/5822721">Link</a>
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift Data Foundationを含むOpenShift関連製品のライフサイクルポリシー、及びサポート終了日を明示します。
+      Red Hat Advanced Cluster Security for Kubernetesのライフサイクルポリシー、及びサポート終了日を明示します。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -134,13 +135,13 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat OpenShift Data Foundation(previously known as OpenShift Container Storage) Supportability and Interoperability Guide
+      Red Hat Advanced Cluster Security for Kubernetes Support Policy
     </td>
     <td><!--  リンク先  -->
-      <a href="https://access.redhat.com/articles/4731161">Link</a>
+      <a href="https://access.redhat.com/node/5822721">Link</a>
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift Data Foundationの動作をサポートするHypervisor、クラウドプラットフォームのリストを提供します。
+      Red Hat Advanced Cluster Security for Kubernetes Support Policyの動作をサポートするHypervisor、クラウドプラットフォームのリストを提供します。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -163,16 +164,16 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
   <tr>
     <td><!--  ドキュメント名  -->
-      What's New in Red Hat OpenShift Data Foundation
+      Hands-On with Red Hat Advanced Cluster Security for Kubernetes
     </td>
     <td><!--  リンク先  -->
-      <a href="https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44898270">Link</a>
+      <a href="https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44914286">Link</a>
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift Data Foundationのアーキテクチャの詳細が学べ、製品のハンズオンラボを提供するRed Hat Partner Training Portalのコンテンツです。
+    Red Hat Advanced Cluster Security for Kubernetesの技術概要とVersion 3.8における新機能の紹介とハンズオンを実施できるRed Hat Partner Training Portalのコンテンツです。
     </td>
     <td><!--  対象バージョン  -->
-      -
+      Version 3.8
     </td>
     <td><!--  記載確認日  -->
       2022/06/30
@@ -190,16 +191,16 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
   <tr>
     <td><!--  ドキュメント名  -->
-      What's New in Red Hat OpenShift Data Foundation
+      Red Hat Advanced Cluster Security for Kubernetes 3.69
     </td>
     <td><!--  リンク先  -->
-      <a href="https://redhat-partner.highspot.com/items/610c03126672da2b59167ff9?lfrm=srp.12">Link</a>
+      <a href="https://docs.openshift.com/acs/3.69/release_notes/369-release-notes.html">Link</a>
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift Data Foundationの機能紹介、およびVersion 4.8における更新内容を記載したプレゼンテーション資料です。
+    Red Hat Advanced Cluster Security for Kubernetes 3.69の更新情報を明示します。
     </td>
     <td><!--  対象バージョン  -->
-      Version 4.8
+      Version 3.69
     </td>
     <td><!--  記載確認日  -->
       2022/06/30
@@ -217,7 +218,7 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat OpenShift Data Foundation ラーニングパス
+      Red Hat Advanced Cluster Security for Kubernetes ラーニングパス
     </td>
     <td><!--  リンク先  -->
       <a href="https://app.highspot.com/items/629106dcf96784553406af86">Link</a>  <!-- 要修正-->
