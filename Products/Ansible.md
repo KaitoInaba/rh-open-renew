@@ -11,7 +11,6 @@ sort: 2
 
 IT 管理者は、自動化をどのように適用するかのガイドラインを個々のチームに提供することができ、自動化クリエーターは、既存の知識を利用したタスクを作成できます。Ansible Automation Platform は、エンドツーエンドの自動化を展開するためのより安全で安定した基盤を提供します。
 
-
 ```note
 本ページに記載のリンクの一部は、参照に[Red Hat Partner Content Hub](https://redhat-partner.highspot.com/)へのログインが必要です。
 Partner Content Hubのログインアカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
@@ -72,28 +71,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/05/30
     </td>
   </tr>
-
-  <tr>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://redhat.lookbookhq.com/c/jow0lohgy08?x=8XYa3o&lx=t84IoG
-      ">
-        <!--  ドキュメント名  -->
-        ITインフラの自動化を成功させるAnsibleのプラクティス『自動化2.0』
-      </a>
-    </td>
-    <td><!--  概要  -->
-      2019年5月に実施した「ITインフラの自動化を成功させるAnsibleのプラクティス『自動化2.0』」ウェビナー動画です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td><!--  記載確認日  -->
-      2022/05/30
-    </td>
-  </tr>
-
 </table>
 
 ### 01-02. ソリューション・製品事例
@@ -344,6 +321,35 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
     <td><!--  概要  -->
       Red Hat Anshible Automation Platformを学習いただくための学習教材とラーニングパスをロール毎に明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/05/30
+    </td>
+  </tr>
+</table>
+
+## 04. 関連情報
+
+<table>
+  <tr>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://redhat.lookbookhq.com/c/jow0lohgy08?x=8XYa3o&lx=t84IoG
+      ">
+        <!--  ドキュメント名  -->
+        ITインフラの自動化を成功させるAnsibleのプラクティス『自動化2.0』
+      </a>
+    </td>
+    <td><!--  概要  -->
+      2019年5月に実施した「ITインフラの自動化を成功させるAnsibleのプラクティス『自動化2.0』」ウェビナー動画です。
     </td>
     <td><!--  対象バージョン  -->
       -

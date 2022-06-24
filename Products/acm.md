@@ -17,6 +17,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 のフォームからお問合せください。
 ```
 
+Latest Version : Version 2.5
+
 ## 01. 製品説明資料
 
 ### 01-01. 製品概要

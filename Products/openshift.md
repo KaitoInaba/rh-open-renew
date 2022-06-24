@@ -88,27 +88,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/05/30
     </td>
   </tr>
-
-  <tr>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.redhat.com/rhdc/managed-files/cl-openshift-and-kubernetes-ebook-f25170wg-202010-a4-ja.pdf
-      ">
-        <!--  ドキュメント名  -->
-        Red Hat OpenShift とKubernetes、その違いとは？
-      </a>
-    </td>
-    <td><!--  概要  -->
-      OpenShift とKubernetes の違いについての質問についてのご説明をまとめた資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td><!--  記載確認日  -->
-      2022/05/30
-    </td>
-  </tr>
 </table>
 
 ### 01-02. ソリューション・製品事例
@@ -381,4 +360,34 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/05/30
     </td>
   </tr>
+</table>
+
+## 04. 関連情報
+
+<table>
+  <tr>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/rhdc/managed-files/cl-openshift-and-kubernetes-ebook-f25170wg-202010-a4-ja.pdf
+      ">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift とKubernetes、その違いとは？
+      </a>
+    </td>
+    <td><!--  概要  -->
+      OpenShift とKubernetes の違いについての質問についてのご説明をまとめた資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/05/30
+    </td>
+  </tr>
+
 </table>
