@@ -8,12 +8,19 @@ sort: 6
 
 Red Hat Advanced Cluster Security for Kubernetes は、Kubernetes ネイティブのセキュリティ・プラットフォームのパイオニア的存在で、クラウドネイティブ・アプリケーションの構築、デプロイ、実行をより安全にあらゆる場所で行えるようにします。このソリューションの Kubernetes ネイティブのアプローチは、ソフトウェア開発ライフサイクル全体にわたる組み込みのセキュリティを備えており、運用コストの削減、運用リスクの緩和、開発者の生産性向上を実現します。
 
+```note
 本ページに記載のリンクの一部は、参照に<a href="https://redhat-partner.highspot.com/">Red Hat Partner Content Hub</a>
 へのログインが必要です。
 Partner Content Hubへのログインアカウントをお持ちでない場合、
 <a href="https://rh-open.github.io/training/registration.html">Red Hat Partner Training Portalの登録方法</a>を参照しPartner Connectへの登録をご実施ください。
 
 掲載資料へのお問合せ、資料のリンク切れなどは<a href="https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform">こちら</a>のフォームからお問合せください。
+```
+
+<b>
+最新バージョン　：　3.69
+
+</b>
 
 ## 01. 製品説明資料
 
@@ -21,15 +28,18 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat Advanced Cluster Security for Kubernetes
-    </td>
-    <td><!--  リンク先  -->
-      <a href="https://redhat-partner.highspot.com/items/60369f48bf6c947b443f56b8?lfrm=srp.0#3">Link</a>
+    <td>
+      <a href="
+        <!--  リンク先  -->
+        https://redhat-partner.highspot.com/items/60369f48bf6c947b443f56b8?lfrm=srp.0#3
+      ">
+        <!--  ドキュメント名  -->
+        Red Hat Advanced Cluster Security for Kubernetes
+      </a>
     </td>
     <td><!--  概要  -->
       Red Hat Advanced Cluster Security for Kubernetesの製品データシートです。
@@ -113,7 +123,9 @@ Partner Content Hubへのログインアカウントをお持ちでない場合�
       <a href="https://access.redhat.com/node/5822721">Link</a>
     </td>
     <td><!--  概要  -->
-      Red Hat Advanced Cluster Security for Kubernetesのライフサイクルポリシー、及びサポート終了日を明示します。
+      Red Hat Advanced Cluster Security for Kubernetesのライフサイクルポリシーを明示します。
+
+      ※ "Life Cycle"章をご確認ください
     </td>
     <td><!--  対象バージョン  -->
       -
