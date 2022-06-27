@@ -44,7 +44,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       Red Hat Enterprise Linux 8 の概要を知りたい人むけに、RHEL8 リリースノート Overviewをおおむねカバーする程度の情報と関連リンクをまとめた資料です。
     </td>
     <td><!--  種別  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true"　alt="docs" title="docs">
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
     </td>
     <td><!--  対象バージョン  -->
       Version 8.x
