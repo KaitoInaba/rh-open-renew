@@ -199,8 +199,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
     </td>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://access.redhat.com/articles/4731161
       ">
         <!--  ドキュメント名  -->

@@ -43,8 +43,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
     </td>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://redhat-partner.highspot.com/items/60369f48bf6c947b443f56b8?lfrm=srp.0#3
       ">
         <!--  ドキュメント名  -->
@@ -75,8 +75,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
     </td>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://redhat-partner.highspot.com/items/6215778d4446c96ef769c2ad?lfrm=srp.0
       ">
         <!--  ドキュメント名  -->
@@ -107,8 +107,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
     </td>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://app.highspot.com/items/62910ed437fefb35422c3dcd
       ">
         <!--  ドキュメント名  -->
@@ -140,8 +140,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
     </td>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://access.redhat.com/node/5822721
       ">
         <!--  ドキュメント名  -->
@@ -174,8 +174,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
     </td>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://access.redhat.com/node/5822721
       ">
         <!--  ドキュメント名  -->
@@ -209,8 +209,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/training.png?raw=true" alt="training" title="training">
     </td>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44914286
       ">
         <!--  ドキュメント名  -->
@@ -242,8 +242,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
     </td>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://docs.openshift.com/acs/3.69/release_notes/369-release-notes.html
       ">
         <!--  ドキュメント名  -->
@@ -275,8 +275,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
     </td>
     <td>
+      <!--  リンク先  -->
       <a href="
-        <!--  リンク先  -->
         https://app.highspot.com/items/629106dcf96784553406af86
       ">
         <!--  ドキュメント名  -->
