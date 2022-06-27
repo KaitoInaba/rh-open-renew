@@ -21,16 +21,27 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 最終更新日：2022/06/30
 </b>
 
+<!--
+コピペ用
+<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/training.png?raw=true" alt="training" title="training">
+<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/video.png?raw=true" alt="video" title="video">
+-->
+
 ## 01. 製品説明資料
 
 ### 01-01. 製品概要
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
     <td>
       <a href="
         <!--  リンク先  -->
@@ -56,10 +67,13 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
     <td>
       <a href="
         <!--  リンク先  -->
@@ -85,10 +99,13 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
     <td>
       <a href="
         <!--  リンク先  -->
@@ -115,10 +132,13 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
     <td>
       <a href="
         <!--  リンク先  -->
@@ -146,10 +166,13 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
     <td>
       <a href="
         <!--  リンク先  -->
@@ -178,10 +201,13 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/training.png?raw=true" alt="training" title="training">
+    </td>
     <td>
       <a href="
         <!--  リンク先  -->
@@ -208,10 +234,13 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
     <td>
       <a href="
         <!--  リンク先  -->
@@ -238,10 +267,13 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
     <td>
       <a href="
         <!--  リンク先  -->
@@ -249,11 +281,12 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       ">
         <!--  ドキュメント名  -->
         【ContentHubアップロード後修正】
+
         Red Hat Advanced Cluster Security for Kubernetes ラーニングパス
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat Partner Training Portalを使用し、Red Hat OpenShift Data Foundationを学習いただくための学習教材をロール毎に明示します。
+      Red Hat Partner Training Portalを使用し、Red Hat ACSを学習いただくための学習教材をロール毎に明示します。
     </td>
     <td><!--  対象バージョン  -->
       -
