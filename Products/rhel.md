@@ -27,7 +27,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr>
-    <th> </th><th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
@@ -53,7 +53,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/06/27
     </td>
   </tr>
-  
+
   <tr>
     <td><!--  icon  -->
       <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
@@ -202,7 +202,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
     </td>
     <td>
       <!--  リンク先  -->
@@ -236,7 +236,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
     </td>
     <td>
       <!--  リンク先  -->
@@ -466,7 +466,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
     </td>
     <td>
       <!--  リンク先  -->
