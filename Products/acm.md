@@ -49,11 +49,12 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       ">
         <!--  ドキュメント名  -->
         【ContentHubアップロード後修正】
-        Red Hat Advanced Cluster Management for Kubernetes ~ 機械翻訳版 ~
+        マルチKubernetesクラスタ統合管理を実現するソリューションACM(Red Hat Advanced Cluster Management for Kubernetes)
       </a>
     </td>
     <td><!--  概要  -->
-      英語にて提供されている資料<a href="https://redhat-partner.highspot.com/items/5fa5690abf6c9449faa6cb0d?lfrm=srp.2">Red Hat Advanced Cluster Management for Kubernetes</a>の日本語機械翻訳版です。
+      Red Hat ACMの製品概要と機能紹介を行なったプレゼンテーション資料です。
+      マルチKubernetes環境における課題と、Red Hat ACMがその課題に対しどのように解決を行うかを紹介しています。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -184,7 +185,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat Advanced Cluster Management for Kubernetes 2.5における管理対象クラスタおよび稼働環境を示します。
+      Red Hat Advanced Cluster Management for Kubernetes 2.5でサポートされる管理対象クラスタとHubのサポート環境を示します。
     </td>
     <td><!--  対象バージョン  -->
       Version 2.5
@@ -208,7 +209,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat Advanced Cluster Management for Kubernetes 2.4における管理対象クラスタおよび稼働環境を示します。
+      Red Hat Advanced Cluster Management for Kubernetes 2.4でサポートされる管理対象クラスタとHubのサポート環境を示します。
     </td>
     <td><!--  対象バージョン  -->
       Version 2.4
@@ -232,7 +233,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat Advanced Cluster Management for Kubernetes 2.3における管理対象クラスタおよび稼働環境を示します。
+      Red Hat Advanced Cluster Management for Kubernetes 2.3でサポートされる管理対象クラスタとHubのサポート環境を示します。
     </td>
     <td><!--  対象バージョン  -->
       Version 2.3
@@ -256,7 +257,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat Advanced Cluster Management for Kubernetes 2.2における管理対象クラスタおよび稼働環境を示します。
+      Red Hat Advanced Cluster Management for Kubernetes 2.2でサポートされる管理対象クラスタとHubのサポート環境を示します。
     </td>
     <td><!--  対象バージョン  -->
       Version 2.2
@@ -373,7 +374,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  概要  -->
-      Advanced Cluster Management 2.3における更新情報を学べる、Red Hat Partner Training Portalのコンテンツです。
+      Advanced Cluster Management 2.2における更新情報を学べる、Red Hat Partner Training Portalのコンテンツです。
     </td>
     <td><!--  対象バージョン  -->
       Version 2.2
