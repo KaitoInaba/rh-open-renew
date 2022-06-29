@@ -45,10 +45,9 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://www.youtube.com/watch?v=JiigIwraDmE&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=6&t=567s
+        https://app.highspot.com/items/62bb641b284119c26afb1418
       ">
         <!--  ドキュメント名  -->
-        【ContentHubアップロード後修正】
         マルチKubernetesクラスタ統合管理を実現するソリューションACM(Red Hat Advanced Cluster Management for Kubernetes)
       </a>
     </td>
@@ -111,10 +110,9 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#1 <!-- 要修正-->
+        https://app.highspot.com/items/62bb64cc2064711edd4da8df
       ">
         <!--  ドキュメント名  -->
-        【ContentHubアップロード後修正】
         Red Hat Advanced Cluster Management for Kubernetes サブスクリプション説明資料
       </a>
     </td>
@@ -400,10 +398,9 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44165705
+        https://app.highspot.com/items/62bb54db3b178be6be3c9fd9
       ">
         <!--  ドキュメント名  -->
-        【ContentHubアップロード後修正】
         Red Hat Advanced Cluster Management ラーニングパス
       </a>
     </td>
