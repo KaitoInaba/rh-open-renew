@@ -38,7 +38,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://www.youtube.com/watch?v=0m9BqcxXggk&list=PL4IvAXW0drR1H83E-W4u_-q-RpaKuUVWn&index=3
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Enterprise Linux (RHEL) のご紹介
       </a>
@@ -62,7 +62,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/5d162a9d429d7b2d9300ddf7?lfrm=srp.43
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Enterprise Linux 8 ご紹介
       </a>
@@ -94,7 +94,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#1
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         CUSTOMER SUCCESS SLIDES DECK
       </a>
@@ -126,7 +126,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://app.highspot.com/items/629110780266493a40d77c28
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Enterprise Linux サブスクリプション説明資料
       </a>
@@ -151,7 +151,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://www.redhat.com/ja/resources/red-hat-enterprise-linux-subscription-guide
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Enterprise Linux サブスクリプションガイド
       </a>
@@ -175,7 +175,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://moriwaka.github.io/Presentation/RHEL/beginner/rhel-subscription.pdf
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         RHELのサブスクリプション管理
       </a>
@@ -208,7 +208,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/ja/support/policy/updates/errata
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Enterprise Linuxのライフサイクル
       </a>
@@ -242,7 +242,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://catalog.redhat.com/platform/red-hat-enterprise-linux/software
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Enterprise Linux Ecosystem
       </a>
@@ -277,7 +277,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://moriwaka.github.io/Presentation/bootcamp/rhel-tt.pdf
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Enterprise Linux を使う前に読む資料
       </a>
@@ -310,7 +310,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://moriwaka.github.io/Presentation/RHEL8/RHEL%208.3%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1.pdf
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Enterpries Linux 8.3最新情報
       </a>
@@ -343,7 +343,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://app.highspot.com/items/62910808f8a6714aedd49b90
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Enterprise Linuxラーニングパス
       </a>
@@ -367,7 +367,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/5df7906f429d7b345d7b8ec0?lfrm=srp.0
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat 認定エンジニア向けスキルパス
       </a>
@@ -400,7 +400,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/60087aa9bf6c94371080e0f0
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         先進的なツールとテクニックで Linux 環境を管理する
       </a>
@@ -424,7 +424,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/60f0497fe430166258ffd5a1
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         SAP ワークロードに Red Hat を選ぶ 10 の理由
       </a>
@@ -448,7 +448,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/5aa1ef99f216761ee83ca786?lfrm=srp.34#1
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Enterprise Linux for SAP Solutions
       </a>
@@ -472,7 +472,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://moriwaka.github.io/
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         RHEL資料おきば
       </a>

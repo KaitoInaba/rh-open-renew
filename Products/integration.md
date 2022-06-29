@@ -47,7 +47,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/6065d0a7998ae4317f393f18?lfrm=srp.7#1
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Integration 紹介資料
       </a>
@@ -71,7 +71,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://youtu.be/3ydCD0wckOI
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Agile API Integration (3Scale, Fuse) 紹介動画
       </a>
@@ -104,7 +104,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/6215778d4446c96ef769c2ad?lfrm=srp.0
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         CUSTOMER SUCCESS SLIDES DECK
       </a>
@@ -136,7 +136,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://app.highspot.com/items/62910c7c052a903cff453167
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Integration サブスクリプション説明資料
       </a>
@@ -161,7 +161,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://www.redhat.com/rhdc/managed-files/mi-application-services-subscription-guide-detail-f29167pr-202107-en.pdf
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Agile Integration サブスクリプションガイド
       </a>
@@ -194,7 +194,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/ja/support/policy/updates/jboss_notes
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Application Services 製品のアップデートとサポートポリシー
       </a>
@@ -228,7 +228,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/ja/articles/5950091
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat 3scale API Management のサポート対象構成
       </a>
@@ -252,7 +252,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/ja/articles/522893
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Fuse でサポートされる構成
       </a>
@@ -276,7 +276,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/ja/articles/6664961
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat AMQ Streams でサポートされる構成
       </a>
@@ -300,7 +300,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/ja/articles/5213991
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat AMQ Broker 7 でサポートされる構成
       </a>
@@ -324,7 +324,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/articles/6644751
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Interconnect Supported Configurations
       </a>
@@ -359,7 +359,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/6065d0a7998ae4317f393f18?lfrm=srp.2
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Integration 製品概要
       </a>
@@ -396,7 +396,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://app.highspot.com/items/629104c10266493b97d07cac
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Integration ラーニングパス
       </a>

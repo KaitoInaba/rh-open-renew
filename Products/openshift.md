@@ -46,7 +46,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://www.youtube.com/watch?v=oWWMEfz4VNQ&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=1
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         コンテナプラットフォーム Red Hat OpenShiftのご紹介
       </a>
@@ -70,7 +70,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/5b6866ddf21676088b8534b7?lfrm=srp.0#1
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat OpenShift -- Innovation without limitation
       </a>
@@ -94,7 +94,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat OpenShift Container Platformデータシート
       </a>
@@ -126,7 +126,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/6215778d4446c96ef769c2ad?lfrm=srp.0
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         CUSTOMER SUCCESS SLIDES DECK
       </a>
@@ -158,7 +158,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://app.highspot.com/items/6291112b31b7d5adc25542f9
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat OpenShift サブスクリプション説明資料
       </a>
@@ -183,7 +183,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://www.redhat.com/rhdc/managed-files/cl-openshift-sizing-guide-detail-f26601wg-202012-a4-ja.pdf
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat OpenShift サイジングおよびサブスクリプションガイド
       </a>
@@ -215,7 +215,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/ja/support/policy/updates/openshift
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat OpenShift Container Platformのライフサイクルポリシー
       </a>
@@ -248,7 +248,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://catalog.redhat.com/platform/red-hat-openshift/software
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat OpenShift Ecosystem
       </a>
@@ -272,7 +272,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/documentation/ja-jp/openshift_container_platform/4.10/html/installing/supported-platforms-for-openshift-clusters_ocp-installation-overview
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         OPENSHIFT CONTAINER PLATFORM クラスターでサポートされるプラットフォーム
       </a>
@@ -307,7 +307,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/5d8531e5429d7b1a7c702222?lfrm=srp.1#1
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         OpenShift 4 Technical Deep Dive
       </a>
@@ -331,7 +331,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/5e6a7a32429d7b62846c3b58?lfrm=srp.0
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat OpenShift4入門 Enterprise Kubernetesへのファーストステップ
       </a>
@@ -364,7 +364,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://www.redhat.com/en/whats-new-red-hat-openshift
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         What's new in OpenShift
       </a>
@@ -396,7 +396,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://app.highspot.com/items/629102e0990b7e3a0fc52adc
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat OpenShiftラーニングパス
       </a>
@@ -420,7 +420,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://www.redhat.com/ja/resources/openshift-skill-paths-brief
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat OpenShift のスキルパス
       </a>
@@ -453,7 +453,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://www.redhat.com/rhdc/managed-files/cl-openshift-and-kubernetes-ebook-f25170wg-202010-a4-ja.pdf
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat OpenShift とKubernetes、その違いとは？
       </a>

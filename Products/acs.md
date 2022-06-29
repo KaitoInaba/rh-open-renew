@@ -46,7 +46,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/60369f48bf6c947b443f56b8?lfrm=srp.0#3
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Advanced Cluster Security for Kubernetes
       </a>
@@ -78,7 +78,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/6215778d4446c96ef769c2ad?lfrm=srp.0
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         CUSTOMER SUCCESS SLIDES DECK
       </a>
@@ -110,7 +110,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://app.highspot.com/items/62910ed437fefb35422c3dcd
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         【ContentHubアップロード後修正】
         Red Hat Advanced Cluster Security for Kubernetes サブスクリプション説明資料
@@ -143,7 +143,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/node/5822721
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Advanced Cluster Security for Kubernetes Support Policy
       </a>
@@ -177,7 +177,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/node/5822721
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Advanced Cluster Security for Kubernetes Support Policy
       </a>
@@ -212,7 +212,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44914286
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Hands-On with Red Hat Advanced Cluster Security for Kubernetes
       </a>
@@ -245,7 +245,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://docs.openshift.com/acs/3.69/release_notes/369-release-notes.html
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Advanced Cluster Security for Kubernetes 3.69
       </a>
@@ -278,7 +278,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://app.highspot.com/items/629106dcf96784553406af86
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         【ContentHubアップロード後修正】
 
