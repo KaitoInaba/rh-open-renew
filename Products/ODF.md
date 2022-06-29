@@ -46,7 +46,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://www.youtube.com/watch?v=JiigIwraDmE&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=6&t=567s
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat OpenShift Data Foundation(ODF)の紹介動画
       </a>
@@ -79,7 +79,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/6215778d4446c96ef769c2ad?lfrm=srp.0
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         CUSTOMER SUCCESS SLIDES DECK
       </a>
@@ -111,7 +111,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://app.highspot.com/items/62bb6903f6821dc9cfea5945
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat OpenShift Data Foundation サブスクリプション説明資料
       </a>
@@ -135,7 +135,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/articles/6932811
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         OpenShift Data Foundation Subscription Guide
       </a>
@@ -168,7 +168,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="  
         https://access.redhat.com/ja/support/policy/updates/openshift#odf
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat OpenShift Container Platform のライフサイクルポリシー
       </a>
@@ -202,7 +202,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/articles/4731161
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat OpenShift Data Foundation(previously known as OpenShift Container Storage) Supportability and Interoperability Guide
       </a>
@@ -237,7 +237,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44898270
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Enterprise Kubernetes Storage with Red Hat OpenShift Data Foundation (DO370)
       </a>
@@ -270,7 +270,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="  
         https://redhat-partner.highspot.com/items/610c03126672da2b59167ff9?lfrm=srp.12
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         What's New in Red Hat OpenShift Data Foundation 4.8 ~ 機械翻訳版 ~
       </a>
@@ -304,7 +304,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://app.highspot.com/items/62bb54dbdbe71d45e4fe9696
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat OpenShift Data Foundation ラーニングパス
       </a>
