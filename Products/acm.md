@@ -45,7 +45,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/62bb641b284119c26afb1418
+        https://app.highspot.com/items/62bb641b284119c26afb1418　
+        target="_blank"
       ">
         <!--  ドキュメント名  -->
         マルチKubernetesクラスタ統合管理を実現するソリューションACM(Red Hat Advanced Cluster Management for Kubernetes)
@@ -79,6 +80,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="        
         https://redhat-partner.highspot.com/items/6215778d4446c96ef769c2ad?lfrm=srp.0
+        target="_blank"
       ">
         <!--  ドキュメント名  -->
         CUSTOMER SUCCESS SLIDES DECK
@@ -111,6 +113,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://app.highspot.com/items/62bb64cc2064711edd4da8df
+        target="_blank"
       ">
         <!--  ドキュメント名  -->
         Red Hat Advanced Cluster Management for Kubernetes サブスクリプション説明資料
@@ -143,6 +146,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/support/policy/updates/advanced-cluster-manager
+        target="_blank"
       ">
         <!--  ドキュメント名  -->
         Red Hat Advanced Cluster Management for Kubernetes
@@ -177,6 +181,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/articles/6663461
+        target="_blank"
       ">
         <!--  ドキュメント名  -->
         Red Hat Advanced Cluster Management for Kubernetes 2.5 Support Matrix
@@ -201,6 +206,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/articles/6218901
+        target="_blank"
       ">
         <!--  ドキュメント名  -->
         Red Hat Advanced Cluster Management for Kubernetes 2.4 Support Matrix
@@ -249,6 +255,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/articles/5799561
+         target="_blank"
       ">
         <!--  ドキュメント名  -->
         Red Hat Advanced Cluster Management for Kubernetes 2.2 Support Matrix
@@ -284,6 +291,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670
+         target="_blank"
       ">
         <!--  ドキュメント名  -->
         Red Hat Advanced Cluster Management for Kubernetes Foundations
@@ -318,6 +326,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44694648
+         target="_blank"
       ">
         <!--  ドキュメント名  -->
         What's New in Advanced Cluster Management 2.4 Q4 CY21
@@ -342,6 +351,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44516837
+         target="_blank"
       ">
         <!--  ドキュメント名  -->
         What's New in Advanced Cluster Management 2.3 Q3 CY21
@@ -366,6 +376,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44165705
+         target="_blank"
       ">
         <!--  ドキュメント名  -->
         What's New in Red Hat Advanced Cluster Management 2.2
@@ -399,6 +410,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://app.highspot.com/items/62bb54db3b178be6be3c9fd9
+         target="_blank"
       ">
         <!--  ドキュメント名  -->
         Red Hat Advanced Cluster Management ラーニングパス
