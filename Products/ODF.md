@@ -269,7 +269,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="  
-        https://redhat-partner.highspot.com/items/610c03126672da2b59167ff9?lfrm=srp.12
+        https://app.highspot.com/items/62bca0806456038f7b7f5e17
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         What's New in Red Hat OpenShift Data Foundation 4.8 ~ 機械翻訳版 ~
