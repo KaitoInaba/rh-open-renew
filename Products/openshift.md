@@ -351,7 +351,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShiftのOperatorについて、製品に同梱およびサポートされるOperatorの一覧を示します。
+      OpenShift Kubernetes Engine および OpenShift Container Platform における機能の有効性をまとめたものです。該当する場合、機能を有効にする Operator の名前も含まれています。
     </td>
     <td><!--  対象バージョン  -->
       Version 4.10
