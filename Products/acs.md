@@ -76,15 +76,72 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td>
       <!--  リンク先  -->
-      <a href="
-        https://redhat-partner.highspot.com/items/6215778d4446c96ef769c2ad?lfrm=srp.0
-     " target="_blank" rel="noreferrer noopener">
+      <a href="        
+        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
+      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        CUSTOMER SUCCESS SLIDES DECK
+        JAPAN CUSTOMER SUCCESS SLIDES DECK
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat製品の事例を集約したプレゼンテーション資料です。
+      日本の事例を中心に、Red Hat製品の事例を集約したプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/07/07
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="        
+        https://www.redhat.com/ja/success-stories
+      " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat お客様導入事例
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hatの製品事例を製品や業種、ビジネス課題をもとに検索可能なウェブサイトです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/07/07
+    </td>
+  </tr>
+
+</table>
+
+### 01-03. 提供形態
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://app.highspot.com/items/62be03d0fbe6d39054ac011e
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Advanced Cluster Security for Kubernetes サブスクリプション説明資料
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Advanced Cluster Security for Kubernetesのサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -95,13 +152,10 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   </tr>
 </table>
 
-### 01-03. 提供形態
-
--
-
 ### 01-04. ライフサイクル
 
 <table>
+
   <tr><!-- 行1（見出し）-->
     <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
@@ -154,7 +208,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat Advanced Cluster Security for Kubernetes Support Policyの動作をサポートするHypervisor、クラウドプラットフォームのリストを提供します。
+      Red Hat Advanced Cluster Security for KubernetesのCentralサーバの動作をサポートするプラットフォーム、およびRHACSによる管理をサポートするプラットフォームのリストを提供します。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -189,10 +243,10 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  概要  -->
-    Red Hat Advanced Cluster Security for Kubernetesの技術概要とVersion 3.8における新機能の紹介とハンズオンを実施できるRed Hat Partner Training Portalのコンテンツです。
+    Red Hat Advanced Cluster Security for Kubernetesのハンズオンを実施できるRed Hat Partner Training Portalのコンテンツです。
     </td>
     <td><!--  対象バージョン  -->
-      Version 3.8
+      -
     </td>
     <td><!--  記載確認日  -->
       2022/06/30
@@ -236,4 +290,32 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 ## 03. 学習リソース
 
--
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://redhat-partner.highspot.com/items/62bb54db3b178be6be3c9fd9
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Advanced Cluster Security for Kubernetes ラーニングパス
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Partner Training Portalを使用し、Red Hat ACSを学習いただくための学習教材をロール毎に明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/06/30
+    </td>
+  </tr>
+</table>

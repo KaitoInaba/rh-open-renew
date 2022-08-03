@@ -92,23 +92,48 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td>
       <!--  リンク先  -->
-      <a href="
-        https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#1
-     " target="_blank" rel="noreferrer noopener">
+      <a href="        
+        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
+      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        CUSTOMER SUCCESS SLIDES DECK
+        JAPAN CUSTOMER SUCCESS SLIDES DECK
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat製品の事例を集約したプレゼンテーション資料です。
+      日本の事例を中心に、Red Hat製品の事例を集約したプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/07/07
     </td>
   </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="        
+        https://www.redhat.com/ja/success-stories
+      " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat お客様導入事例
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hatの製品事例を製品や業種、ビジネス課題をもとに検索可能なウェブサイトです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/07/07
+    </td>
+  </tr>
+
 </table>
 
 ### 01-03. 提供形態
@@ -139,7 +164,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/06/30
     </td>
   </tr>
 
