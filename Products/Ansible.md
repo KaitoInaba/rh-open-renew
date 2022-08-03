@@ -422,6 +422,29 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
   </tr>
 
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/explore/ansible/trailmap/yaml
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Ansible トレイルマップ MOUNT YAML
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Ansibleを使用してタスク・運用作業の自動化を実施するためのスキルについて、Ansibleの基礎からプレイブックの書き方、Ansibleの適応領域の見極め方など、ステップバイステップで学べるトレイルマップサイトです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/08/03
+    </td>
+  </tr>
 
 </table>
 
