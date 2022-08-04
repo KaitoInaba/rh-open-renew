@@ -429,14 +429,19 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://www.redhat.com/ja/explore/ansible/trailmap/yaml
+        https://www.redhat.com/ja/explore/ansible/trailmap
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Ansible トレイルマップ MOUNT YAML
+        Ansible トレイルマップ
       </a>
     </td>
     <td><!--  概要  -->
-      Ansibleを使用してタスク・運用作業の自動化を実施するためのスキルについて、Ansibleの基礎からプレイブックの書き方、Ansibleの適応領域の見極め方など、ステップバイステップで学べるトレイルマップサイトです。
+      Ansibleを使用してタスク・運用作業の自動化を実施するためのスキルについて、Ansibleの基礎からプレイブックの書き方、Ansibleの適応領域の見極め方、自動化のサービス化とステップバイステップで学べるトレイルマップサイトです。
+      Ansibleの基本的な使い方を習得できる"Mt. YAML"と、自動化したタスクを繋ぎ合わせて他のチームに公開する手法（ボタン化）が学べる"Mt. Button"から構成されています。
+
+      ※ 教材内でハンズオンコンテンツへのリンクが掲載されていますが、コンテンツ提供に使用されているサービス（Katacoda）の縮小に伴い一部ハンズオンコンテンツは実施不可となっています。
+      Partner Training Portalの提供する環境などを併用して学習を実施頂けますと幸いです。
+
     </td>
     <td><!--  対象バージョン  -->
       -
