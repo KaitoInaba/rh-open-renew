@@ -513,6 +513,66 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 </table>
 
 ## 04. 関連情報
+### 04-01. Managed OpenShift
+
+OpenShiftをクラウド上のマネージドサービスとして提供する、Managed OpenShiftに関する製品情報を掲載します。
+
+<table>
+  <tr>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://app.highspot.com/items/629102e0990b7e3a0fc52adc
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Azure Red Hat OpenShift の使用を開始する
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Microsoft Azure上で提供されるOpenShiftのマネージドサービスである、ARO（Azure Red Hat OpenShift）の利用を始めるためのガイドです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/08/09
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/video.png?raw=true" alt="video" title="video">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.youtube.com/watch?v=oOn9fKKIV-0&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=4
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Service on AWS (ROSA) の紹介動画
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Amazon Web Service上で提供されるOpenShiftのマネージドサービスであるROSA（Red Hat OpenShift Service on AWS）の概要を紹介する動画です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/05/30
+    </td>
+  </tr>
+
+</table>
+
+### 04-02. その他
 
 <table>
   <tr>
