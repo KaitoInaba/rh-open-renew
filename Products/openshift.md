@@ -584,24 +584,25 @@ Red Hatがクラウドサービスとして提供する、OpenShift上でのク�
 
   <tr>
     <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
     <td>
       <!--  リンク先  -->
       <a href="
-        https://rheb.hatenablog.com/entry/redhat-managed-services-intro
+        https://www.redhat.com/rhdc/managed-files/cl-openshift-and-kubernetes-ebook-f25170wg-202010-a4-ja.pdf
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        クラウドネイティブなアプリケーション開発を始めよう！ 〜 すぐに試せるRed Hatのマネージドサービス 〜
+        Red Hat OpenShift とKubernetes、その違いとは？
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hatが提供するOpenShift関連のマネージドサービス群について、解説を行った弊社ブログの記事です。まずはこちらをご参考にください。
+      OpenShift とKubernetes の違いについての質問についてのご説明をまとめた資料です。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/08/17
+      2022/05/30
     </td>
   </tr>
 
