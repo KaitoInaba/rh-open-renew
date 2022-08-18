@@ -607,6 +607,103 @@ Red Hatがクラウドサービスとして提供する、OpenShift上でのク�
     </td>
   </tr>
 
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-data-science
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Data Science
+      </a>
+    </td>
+    <td><!--  概要  -->
+      インテリジェント・アプリケーションに携わるデータサイエンティストおよび開発者向けのマネージド・クラウドサービスである、OpenShift Data Scienceの紹介ページです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/08/17
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-streams-for-apache-kafka
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Streams for Apache Kafka
+      </a>
+    </td>
+    <td><!--  概要  -->
+      ストリーム処理をするアプリケーションのためのフルマネージドな Kafka のサービスであるRed Hat OpenShift Streams for Apache Kafkaの紹介ページです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/08/17
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-api-management
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift API Management
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Managed OpenShift上で動作するRed HatマネージドのAPI管理サービスであるRed Hat OpenShift API Managementの紹介ページです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/08/17
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-service-registry
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Service Registry
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShift API Management と Red Hat OpenShift Streams for Apache Kafka のための、完全にホストされたフルマネージド型のレジストリサービスでであるRed Hat OpenShift Service Registryの紹介ページです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/08/17
+    </td>
+  </tr>
+
+
 </table>
 
 
