@@ -572,6 +572,42 @@ OpenShiftをクラウド上のマネージドサービスとして提供する�
 
 </table>
 
+
+### 04-02. 関連マネージドサービス
+
+Red Hatがクラウドサービスとして提供する、OpenShift上でのクラウドネイティアプリケーション開発を行うための製品群を紹介します。
+
+<table>
+  <tr>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://rheb.hatenablog.com/entry/redhat-managed-services-intro
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        クラウドネイティブなアプリケーション開発を始めよう！ 〜 すぐに試せるRed Hatのマネージドサービス 〜
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hatが提供するOpenShift関連のマネージドサービス群について、解説を行った弊社ブログの記事です。まずはこちらをご参考にください。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/08/17
+    </td>
+  </tr>
+
+</table>
+
+
 ### 04-03. その他
 
 <table>
