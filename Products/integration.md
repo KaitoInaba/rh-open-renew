@@ -204,7 +204,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 </table>
 
-・ Red Hat Applicaion Foundation
+・ Red Hat Applicaion Foundations
 
 <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/9b31deb67466ce5afcc190cd1e93d30667cd4f69/Products/images/Logo-Red_Hat-Application_Foundations-B-Standard-RGB.png?raw=true" alt="integration_logo" title="Integration">
 
@@ -223,11 +223,11 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://app.highspot.com/items/62fe49a325be24408cf5e7e3
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat Application Fundation サブスクリプション説明資料
+        Red Hat Application Fundations サブスクリプション説明資料
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat Middleware製品の新しいサブスクリプション形態であるRed Hat Application Foundationについて、サブスクリプションの説明とお見積り時の「おおよその考え方の指針」をご提示するものです。
+      Red Hat Middleware製品の新しいサブスクリプション形態であるRed Hat Application Foundationsについて、サブスクリプションの説明とお見積り時の「おおよその考え方の指針」をご提示するものです。
     </td>
     <td><!--  対象バージョン  -->
       -
