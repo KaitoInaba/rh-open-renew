@@ -206,6 +206,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 ・ Red Hat Applicaion Foundation
 
+<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/9b31deb67466ce5afcc190cd1e93d30667cd4f69/Products/images/Logo-Red_Hat-Application_Foundations-B-Standard-RGB.png?raw=true" alt="integration_logo" title="Integration">
+
 <table>
   <tr>
     <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
@@ -218,7 +220,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/62910c7c052a903cff453167
+        https://app.highspot.com/items/62fe49a325be24408cf5e7e3
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Application Fundation サブスクリプション説明資料
