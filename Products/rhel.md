@@ -170,25 +170,25 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
     </td>
     <td>
       <!--  リンク先  -->
       <a href="
-        https://www.redhat.com/ja/resources/red-hat-enterprise-linux-subscription-guide
+        https://www.redhat.com/en/resources/red-hat-enterprise-linux-subscription-guide
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat Enterprise Linux サブスクリプションガイド
+        Red Hat Enterprise Linux subscription guide
       </a>
     </td>
     <td><!--  概要  -->
-    Red Hat Enterprise Linuxの適切なサブスクリプションを選び、管理し、最大限に活用する方法を説明します。
+    Red Hat Enterprise Linuxのサブスクリプションについて、種別や選定方法を詳細に説明したサイトです。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/09/01
     </td>
   </tr>
 
@@ -280,6 +280,31 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  記載確認日  -->
       2022/05/30
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://access.redhat.com/ja/articles/1271503
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Enterprise Linux テクノロジーの機能と制限
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Enterprise Linuxについて、バージョンごとにCPU、メモリ、ストレージ等の構成上の制限を一覧化したナレッジベースです。
+      ※ 上記リンクは日本語版を掲載しておりますが、翻訳のラグがあるため、最新情報については英語表記に切り替えてご確認ください。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/09/01
     </td>
   </tr>
 

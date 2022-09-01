@@ -414,31 +414,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
   </tr>
 
-  <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://bit.ly/3JXmYCF
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Red Hat Ansible Automation Platform 2.1 製品説明資料（技術編）
-      </a>
-    </td>
-    <td><!--  概要  -->
-    Red Hat Ansible Automation Platform 2.1の製品紹介プレゼンテーション資料です。
-    Version2.1における更新内容が記載されています。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.1
-    </td>
-    <td><!--  記載確認日  -->
-      2022/05/30
-    </td>
-  </tr>
-
 </table>
 
 ## 03. 学習リソース
