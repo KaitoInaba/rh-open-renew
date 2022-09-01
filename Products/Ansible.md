@@ -485,7 +485,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  概要  -->
-      Ansibleを使用してタスク・運用作業の自動化を実施するためのスキルについて、Ansibleの基礎からプレイブックの書き方、Ansibleの適応領域の見極め方、自動化のサービス化までステップバイステップで学べるトレイルマップサイトです。
+      Ansibleを使用してタスク・運用作業の自動化を実施するためのスキルについて、Ansibleの基礎からプレイブックの書き方、Ansibleの適応領域の見極め方、
+      自動化のサービス化までステップバイステップで学べるトレイルマップサイトです。
       ※ サイト内でハンズオンコンテンツへのリンクが掲載されていますが、使用されているサービス（Katacoda）の縮小に伴い一部コンテンツは実施不可となっています。
       Partner Training Portalの提供する環境などを併用して学習を実施頂けますと幸いです。
     </td>
@@ -511,7 +512,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  概要  -->
-      [Red Hat Product Demo System](https://rh-open.github.io/training/contents.html#red-hat-product-demo-system-rhpds)を使用した、Workshopページです。
+      <a href="https://rh-open.github.io/training/contents.html#red-hat-product-demo-system-rhpds" target="_blank" rel="noreferrer noopener">
+      Red Hat Product Demo System</a>を使用したAnsibleのWorkshopページです。
       Ansibleの様々なユースケース（Linux管理、Windows管理、Network管理、など）におけるWorkshopのシナリオが提供されます。
       RHPDSをご利用頂くことでご自身でデモ環境を構築し、Workshopの内容を実施頂くことが可能です。
     </td>
