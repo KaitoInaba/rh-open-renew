@@ -23,11 +23,14 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
 |2|[クラウドネイティブとハイブリッドクラウドの融合：戦略ガイド](https://redhat-partner.highspot.com/items/5fb57ee160e9cc1e57ea3ed0?lfrm=srp.0)|信頼性、生産性、変化のためのアプリケーション環境を構築する方法を学びます。|
 |3|[クラウドでコンテナを導入すべき 8 つの理由](https://redhat-partner.highspot.com/items/60256c32998ae44269afc3da?lfrm=srp.0)|Microsoft Azure Red Hat OpenShift を使用してクラウドでコンテナを導入する 8 つのメリットについてご紹介します。|
 
-## レガシーシステム・モダナイゼーション
+<!-- ## レガシーシステム・モダナイゼーション
 
 | No.          | タイトル          | 概要 |
 | --------------- | -------------- | ---- |
-|1|[はじめてみよう!ルール駆動開発](https://redhat-partner.highspot.com/items/601973f060e9cc32f3e489bd?lfrm=srp.0)|レガシーシステムのモダナイズに有効な「ルール駆動開発」を紹介する漫画です。|
+
+
+
+-->
 
 ## AI・機械学習
 
@@ -44,7 +47,7 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
 
 | No.          | タイトル          | 概要 |
 | --------------- | -------------- | ---- |
-|1|[Red Hatの運用高度化ソリューション](https://redhat-partner.highspot.com/items/5f297954998ae44674d51447?lfrm=srp.19#1)|Ansibleについての知識はある程度ある、またはすでに利用している運用チームに対する、さらなる運用の自動化・効率化の提案|
+|1|[Red Hatの運用高度化ソリューション](https://redhat-partner.highspot.com/items/5f297954998ae44674d51447?lfrm=srp.19#1)|AnsibleとRed Hat Middlewareを活用したさらなる運用の自動化・効率化の提案資料です。※ 資料中で記載されているProcess Automation製品（Decision Manager、Process Automation Manager）については、2022/7よりRed HatからIBM社に製品が移管されたため、現在Red Hat製品としては提供されておりません。|
 |2|[エンタープライズオープンソースのオートメーションがイノベーションを推進](https://redhat-partner.highspot.com/items/5f31c4b9998ae46758979f55?lfrm=srp.62#1)|企業がさらなる俊敏性を追及するにつれ、自動化は今まで以上に必要になっています。インフラストラクチャ戦略の意思決定者の意見を見てみましょう。|
 |3|[組織を自動化する：人材とプロセスの統合](https://redhat-partner.highspot.com/items/5a2aecaff216762e8ea56f6e?lfrm=srp.76#1)|インフラストラクチャ、ネットワーク、およびその他の重要な IT サービスに自動化を使用する方法を紹介します。Red Hat Ansible などのプラットフォームで IT を変革する方法をご確認ください。|
 
