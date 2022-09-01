@@ -228,7 +228,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 ・ Red Hat OpenShift Platform Plus
 
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/e9f585a31333f942076649e193f0c696271fa321/Products/images/Logo-Red_Hat-OpenShift_Platform_Plus-A-Standard-RGB.png?raw=true" alt="opp_logo" title="opp>
+<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/e9f585a31333f942076649e193f0c696271fa321/Products/images/Logo-Red_Hat-OpenShift_Platform_Plus-A-Standard-RGB.png?raw=true" alt="opp_logo" title="opp">
+
 Red Hat OpenShift Platform Plusは、OpenShiftに加えて[ACM](https://rh-open.github.io/Products/acm.html)、[ACS](https://rh-open.github.io/Products/acs.html)、[ODF](https://rh-open.github.io/Products/odf.html)、
 Queyの4製品をバンドルした形でご提供する新しいサブスクリプションです。
 
