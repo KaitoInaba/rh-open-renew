@@ -18,7 +18,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/08/04
+最終更新日：2022/09/01
 </b>
 
 <!--
@@ -223,7 +223,47 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/05/30
     </td>
   </tr>
+  
 </table>
+
+・ Red Hat OpenShift Platform Plus
+
+<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/675d490138eb762385ab695b9c871bac7fbb875f/Products/images/Logo-Red_Hat-OpenShift_Platform_Plus-A-Standard-RGB.png?raw=true" alt="integration_logo" title="Integration">
+
+Red Hat OpenShift Platform Plusは、OpenShiftに加えて[ACM](https://rh-open.github.io/Products/acm.html)、[ACS](https://rh-open.github.io/Products/acs.html)、[ODF](https://rh-open.github.io/Products/odf.html)、
+Queyの4製品をバンドルした形でご提供する新しいサブスクリプションです。
+
+<table>
+  <tr>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://app.highspot.com/items/6291112b31b7d5adc25542f9
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Plus 紹介サイト
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShift Platform Plusの製品紹介サイトです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/09/01
+    </td>
+  </tr>
+  
+</table>
+
 
 ### 01-04. ライフサイクル
 
