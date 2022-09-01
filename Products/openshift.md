@@ -230,7 +230,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/e9f585a31333f942076649e193f0c696271fa321/Products/images/Logo-Red_Hat-OpenShift_Platform_Plus-A-Standard-RGB.png?raw=true" alt="opp_logo" title="opp">
 
-Red Hat OpenShift Platform Plusは、OpenShiftに加えて[ACM](https://rh-open.github.io/Products/acm.html)、[ACS](https://rh-open.github.io/Products/acs.html)、[ODF](https://rh-open.github.io/Products/odf.html)、
+
+[Red Hat OpenShift Platform Plus](https://www.redhat.com/ja/technologies/cloud-computing/openshift/platform-plus)(OPP)は、OpenShiftに加えて[ACM](https://rh-open.github.io/Products/acm.html)、[ACS](https://rh-open.github.io/Products/acs.html)、[ODF](https://rh-open.github.io/Products/odf.html)、
 Queyの4製品をバンドルした形でご提供する新しいサブスクリプションです。
 
 <table>
@@ -245,14 +246,14 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/6291112b31b7d5adc25542f9
+        https://rheb.hatenablog.com/entry/2022/04/08/Red_Hat_OpenShift_Platform_Plus_%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat OpenShift Plus 紹介サイト
+        Red Hat OpenShift Platform Plus のご紹介
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift Platform Plusの製品紹介サイトです。
+      弊社ソリューションアーキテクトによるRed Hat OpenShift Platform Plus紹介のブログ記事です。OPPの概要ともたらされるメリットについてご確認ください。
     </td>
     <td><!--  対象バージョン  -->
       -
