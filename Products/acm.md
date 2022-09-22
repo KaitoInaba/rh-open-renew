@@ -71,9 +71,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       -
     </td>
     <td><!--  資料  -->
-      <a href="
-        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
-      " target="_blank" rel="noreferrer noopener">
+      <a href="https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e" target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
         PDF
       </a>
@@ -93,9 +91,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       -
     </td>
     <td><!--  資料  -->
-      <a href="
-        https://www.redhat.com/ja/success-stories
-      " target="_blank" rel="noreferrer noopener">
+      <a href="https://www.redhat.com/ja/success-stories" target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
         Link
       </a>
