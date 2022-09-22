@@ -21,35 +21,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 最終更新日：2022/06/30
 </b>
 
-<!--
-コピペ用
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/training.png?raw=true" alt="training" title="training">
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/video.png?raw=true" alt="video" title="video">
--->
-
 ## 01. 製品説明資料
 
 ### 01-01. 製品概要
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://redhat-partner.highspot.com/items/62bb641b284119c26afb1418?lfrm=srp.1
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  タイトル  -->
         マルチKubernetesクラスタ統合管理を実現するソリューションACM(Red Hat Advanced Cluster Management for Kubernetes)
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat ACMの製品概要と機能紹介を行なったプレゼンテーション資料です。
@@ -57,6 +40,12 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  対象バージョン  -->
       -
+    </td>
+    <td><!--  資料  -->
+      <a href="https://redhat-partner.highspot.com/items/62bb641b284119c26afb1418?lfrm=srp.1" target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        PDF
+      </a>
     </td>
     <td><!--  記載確認日  -->
       2022/06/30
@@ -68,21 +57,12 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="        
-        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  タイトル  -->
         JAPAN CUSTOMER SUCCESS SLIDES DECK
-      </a>
     </td>
     <td><!--  概要  -->
       日本の事例を中心に、Red Hat製品の事例を集約したプレゼンテーション資料です。
@@ -90,29 +70,35 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td><!--  資料  -->
+      <a href="        
+        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        PDF
+      </a>
     <td><!--  記載確認日  -->
       2022/07/07
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="        
-        https://www.redhat.com/ja/success-stories
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  タイトル  -->
         Red Hat お客様導入事例
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hatの製品事例を製品や業種、ビジネス課題をもとに検索可能なウェブサイトです。
     </td>
     <td><!--  対象バージョン  -->
       -
+    </td>
+    <td><!--  資料  -->
+      <a href="        
+        https://www.redhat.com/ja/success-stories
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
     </td>
     <td><!--  記載確認日  -->
       2022/07/07
@@ -125,21 +111,12 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://app.highspot.com/items/62bb64cc2064711edd4da8df
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td> <!--  タイトル  -->
         Red Hat Advanced Cluster Management for Kubernetes サブスクリプション説明資料
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat Advanced Cluster Management for Kubernetesのサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
@@ -147,7 +124,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       -
     </td>
-    <td><!--  記載確認日  -->
+    <td> <!--  資料  -->
+      <a href="
+        https://app.highspot.com/items/62bb64cc2064711edd4da8df
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        PDF
+    </td>
+    <td> <!--  記載確認日  -->
       2022/06/30
     </td>
   </tr>
@@ -157,22 +141,12 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/support/policy/updates/advanced-cluster-manager
-      " target="_blank" rel="noreferrer noopener">
-
-        <!--  ドキュメント名  -->
+    <td>  <!--  タイトル  -->
         Red Hat Advanced Cluster Management for Kubernetes
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat Advanced Cluster Management for Kubernetesのライフサイクルポリシー、及びサポート終了日を明示します。
@@ -180,6 +154,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td> <!--  資料  -->
+      <a href="
+        https://access.redhat.com/support/policy/updates/advanced-cluster-manager
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
+  </td>
     <td><!--  記載確認日  -->
       2022/06/30
     </td>
@@ -192,22 +174,12 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/articles/6663461
-      " target="_blank" rel="noreferrer noopener">
-
-        <!--  ドキュメント名  -->
+    <td> <!--  タイトル  -->
         Red Hat Advanced Cluster Management for Kubernetes 2.5 Support Matrix
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat Advanced Cluster Management for Kubernetes 2.5でサポートされる管理対象クラスタとHubのサポート環境を示します。
@@ -215,24 +187,23 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       Version 2.5
     </td>
+    <td>　<!--  資料  -->
+      <a href="
+        https://access.redhat.com/articles/6663461
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/06/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
     <td>
-      <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/articles/6218901
-      " target="_blank" rel="noreferrer noopener">
-
-        <!--  ドキュメント名  -->
+      <!--  タイトル  -->
         Red Hat Advanced Cluster Management for Kubernetes 2.4 Support Matrix
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat Advanced Cluster Management for Kubernetes 2.4でサポートされる管理対象クラスタとHubのサポート環境を示します。
@@ -240,23 +211,22 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       Version 2.4
     </td>
+    <td>　<!--  資料  -->
+      <a href="
+        https://access.redhat.com/articles/6218901
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/06/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/articles/5900521
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  タイトル  -->
         Red Hat Advanced Cluster Management for Kubernetes 2.3 Support Matrix
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat Advanced Cluster Management for Kubernetes 2.3でサポートされる管理対象クラスタとHubのサポート環境を示します。
@@ -264,30 +234,36 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       Version 2.3
     </td>
+    <td><!--  資料  -->
+      <a href="
+        https://access.redhat.com/articles/5900521
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/06/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/articles/5799561
-      " target="_blank" rel="noreferrer noopener">
-
-        <!--  ドキュメント名  -->
+    <td><!--  タイトル  -->
         Red Hat Advanced Cluster Management for Kubernetes 2.2 Support Matrix
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat Advanced Cluster Management for Kubernetes 2.2でサポートされる管理対象クラスタとHubのサポート環境を示します。
     </td>
     <td><!--  対象バージョン  -->
       Version 2.2
+    </td>
+    <td><!--  資料  -->
+      <a href="
+        https://access.redhat.com/articles/5799561
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
     </td>
     <td><!--  記載確認日  -->
       2022/06/30
@@ -302,22 +278,12 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/training.png?raw=true" alt="training" title="training">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670
-      " target="_blank" rel="noreferrer noopener">
-
-        <!--  ドキュメント名  -->
+    <td><!--  タイトル  -->
         Red Hat Advanced Cluster Management for Kubernetes Foundations
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat Advanced Cluster Management for Kubernetesの製品アーキテクチャを説明し、ハンズオンラボを提供する
@@ -325,6 +291,15 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  対象バージョン  -->
       -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
     </td>
     <td><!--  記載確認日  -->
       2022/06/30
@@ -337,22 +312,12 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/training.png?raw=true" alt="training" title="training">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44694648
-      " target="_blank" rel="noreferrer noopener">
-
-        <!--  ドキュメント名  -->
-        What's New in Advanced Cluster Management 2.4 Q4 CY21
-      </a>
+    <td><!--  タイトル  -->
+      What's New in Advanced Cluster Management 2.4 Q4 CY21
     </td>
     <td><!--  概要  -->
       Advanced Cluster Management 2.4における更新情報を学べる、Red Hat Partner Training Portalのコンテンツです。
@@ -360,24 +325,22 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       Version 2.4
     </td>
+    <td><!--  資料  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44694648
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/06/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/training.png?raw=true" alt="training" title="training">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44516837
-      " target="_blank" rel="noreferrer noopener">
-
-        <!--  ドキュメント名  -->
-        What's New in Advanced Cluster Management 2.3 Q3 CY21
-      </a>
+    <td><!--  タイトル  -->
+      What's New in Advanced Cluster Management 2.3 Q3 CY21
     </td>
     <td><!--  概要  -->
       Advanced Cluster Management 2.3における更新情報を学べる、Red Hat Partner Training Portalのコンテンツです。
@@ -385,30 +348,37 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       Version 2.3
     </td>
+    <td><!--  資料  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44516837
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/06/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/training.png?raw=true" alt="training" title="training">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44165705
-      " target="_blank" rel="noreferrer noopener">
-
-        <!--  ドキュメント名  -->
-        What's New in Red Hat Advanced Cluster Management 2.2
-      </a>
+    <td><!--  タイトル  -->
+      What's New in Red Hat Advanced Cluster Management 2.2
     </td>
     <td><!--  概要  -->
       Advanced Cluster Management 2.2における更新情報を学べる、Red Hat Partner Training Portalのコンテンツです。
     </td>
     <td><!--  対象バージョン  -->
       Version 2.2
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44165705
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
     </td>
     <td><!--  記載確認日  -->
       2022/06/30
@@ -421,28 +391,27 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://app.highspot.com/items/62bb54db3b178be6be3c9fd9
-      " target="_blank" rel="noreferrer noopener">
-
-        <!--  ドキュメント名  -->
+    <td><!--  タイトル  -->
         Red Hat Advanced Cluster Management ラーニングパス
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat Advanced Cluster Managementを学習いただくための学習教材をロール毎に明示します。
     </td>
     <td><!--  対象バージョン  -->
       -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://app.highspot.com/items/62bb54db3b178be6be3c9fd9
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        PDF
+      </a>
     </td>
     <td><!--  記載確認日  -->
       2022/06/30
