@@ -105,7 +105,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
-
   <tr>
     <td> <!--  タイトル  -->
         Red Hat Advanced Cluster Management for Kubernetes サブスクリプション説明資料
@@ -135,7 +134,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
-
   <tr>
     <td>  <!--  タイトル  -->
         Red Hat Advanced Cluster Management for Kubernetes
@@ -167,7 +165,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
-
   <tr>
     <td> <!--  タイトル  -->
         Red Hat Advanced Cluster Management for Kubernetes 2.5 Support Matrix
@@ -190,7 +187,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/06/30
     </td>
   </tr>
-
   <tr>
     <td>
       <!--  タイトル  -->
@@ -214,7 +210,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/06/30
     </td>
   </tr>
-
   <tr>
     <td><!--  タイトル  -->
         Red Hat Advanced Cluster Management for Kubernetes 2.3 Support Matrix
@@ -237,7 +232,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/06/30
     </td>
   </tr>
-
   <tr>
     <td><!--  タイトル  -->
         Red Hat Advanced Cluster Management for Kubernetes 2.2 Support Matrix
@@ -270,7 +264,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
-
   <tr>
     <td><!--  タイトル  -->
         Red Hat Advanced Cluster Management for Kubernetes Foundations
@@ -303,7 +296,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
-
   <tr>
     <td><!--  タイトル  -->
       What's New in Advanced Cluster Management 2.4 Q4 CY21
@@ -326,7 +318,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/06/30
     </td>
   </tr>
-
   <tr>
     <td><!--  タイトル  -->
       What's New in Advanced Cluster Management 2.3 Q3 CY21
@@ -349,7 +340,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/06/30
     </td>
   </tr>
-
   <tr>
     <td><!--  タイトル  -->
       What's New in Red Hat Advanced Cluster Management 2.2
@@ -381,7 +371,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   <tr><!-- 行1（見出し）-->
      <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
-
   <tr>
     <td><!--  タイトル  -->
         Red Hat Advanced Cluster Management ラーニングパス
