@@ -59,7 +59,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
-
   <tr>
     <td><!--  タイトル  -->
         JAPAN CUSTOMER SUCCESS SLIDES DECK
@@ -79,7 +78,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/07/07
     </td>
   </tr>
-
   <tr>
     <td><!--  タイトル  -->
         Red Hat お客様導入事例
