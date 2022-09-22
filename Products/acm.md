@@ -78,26 +78,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/07/07
     </td>
   </tr>
-  <tr>
-    <td><!--  タイトル  -->
-        Red Hat お客様導入事例
-    </td>
-    <td><!--  概要  -->
-      Red Hatの製品事例を製品や業種、ビジネス課題をもとに検索可能なウェブサイトです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td><!--  資料  -->
-      <a href="https://www.redhat.com/ja/success-stories" target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        Link
-      </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2022/07/07
-    </td>
-  </tr>
 </table>
 
 ### 01-03. 提供形態
