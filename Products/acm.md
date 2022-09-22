@@ -23,9 +23,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 ## 01. 製品説明資料
 
-
-
-### 01-02. ソリューション・製品事例
+### 01-01. 製品概要
 
 <table>
   <tr><!-- 行1（見出し）-->
@@ -33,23 +31,34 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   </tr>
   <tr>
     <td><!--  タイトル  -->
-        JAPAN CUSTOMER SUCCESS SLIDES DECK
+        マルチKubernetesクラスタ統合管理を実現するソリューションACM(Red Hat Advanced Cluster Management for Kubernetes)
     </td>
     <td><!--  概要  -->
-      日本の事例を中心に、Red Hat製品の事例を集約したプレゼンテーション資料です。
+      Red Hat ACMの製品概要と機能紹介を行なったプレゼンテーション資料です。
+      マルチKubernetes環境における課題と、Red Hat ACMがその課題に対しどのように解決を行うかを紹介しています。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
     <td><!--  資料  -->
-      <a href="https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e" target="_blank" rel="noreferrer noopener">
+      <a href="https://redhat-partner.highspot.com/items/62bb641b284119c26afb1418?lfrm=srp.1" target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
         PDF
       </a>
+    </td>
     <td><!--  記載確認日  -->
-      2022/07/07
+      2022/06/30
     </td>
   </tr>
+</table>
+
+### 01-02. ソリューション・製品事例
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
   <tr>
     <td><!--  タイトル  -->
         Red Hat お客様導入事例
