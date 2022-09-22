@@ -29,7 +29,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
-
   <tr>
     <td><!--  タイトル  -->
         マルチKubernetesクラスタ統合管理を実現するソリューションACM(Red Hat Advanced Cluster Management for Kubernetes)
@@ -49,6 +48,53 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  記載確認日  -->
       2022/06/30
+    </td>
+  </tr>
+</table>
+
+### 01-02. ソリューション・製品事例
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+  <tr>
+    <td><!--  タイトル  -->
+        JAPAN CUSTOMER SUCCESS SLIDES DECK
+    </td>
+    <td><!--  概要  -->
+      日本の事例を中心に、Red Hat製品の事例を集約したプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  資料  -->
+      <a href="https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e" target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        PDF
+      </a>
+    <td><!--  記載確認日  -->
+      2022/07/07
+    </td>
+  </tr>
+  <tr>
+    <td><!--  タイトル  -->
+        Red Hat お客様導入事例
+    </td>
+    <td><!--  概要  -->
+      Red Hatの製品事例を製品や業種、ビジネス課題をもとに検索可能なウェブサイトです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  資料  -->
+      <a href="https://www.redhat.com/ja/success-stories" target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/07/07
     </td>
   </tr>
 </table>
