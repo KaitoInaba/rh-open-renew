@@ -52,6 +52,196 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   </tr>
 </table>
 
+### 01-03. 提供形態
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+  <tr>
+    <td> <!--  タイトル  -->
+        Red Hat Advanced Cluster Management for Kubernetes サブスクリプション説明資料
+    </td>
+    <td><!--  概要  -->
+      Red Hat Advanced Cluster Management for Kubernetesのサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td> <!--  資料  -->
+      <a href="
+        https://app.highspot.com/items/62bb64cc2064711edd4da8df
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        PDF
+    </td>
+    <td> <!--  記載確認日  -->
+      2022/06/30
+    </td>
+  </tr>
+</table>
+
+### 01-04. ライフサイクル
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+  <tr>
+    <td>  <!--  タイトル  -->
+        Red Hat Advanced Cluster Management for Kubernetes
+    </td>
+    <td><!--  概要  -->
+      Red Hat Advanced Cluster Management for Kubernetesのライフサイクルポリシー、及びサポート終了日を明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td> <!--  資料  -->
+      <a href="
+        https://access.redhat.com/support/policy/updates/advanced-cluster-manager
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
+  </td>
+    <td><!--  記載確認日  -->
+      2022/06/30
+    </td>
+  </tr>
+</table>
+
+
+### 01-05. 互換性情報
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+  <tr>
+    <td> <!--  タイトル  -->
+        Red Hat Advanced Cluster Management for Kubernetes 2.5 Support Matrix
+    </td>
+    <td><!--  概要  -->
+      Red Hat Advanced Cluster Management for Kubernetes 2.5でサポートされる管理対象クラスタとHubのサポート環境を示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.5
+    </td>
+    <td>　<!--  資料  -->
+      <a href="
+        https://access.redhat.com/articles/6663461
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/06/30
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!--  タイトル  -->
+        Red Hat Advanced Cluster Management for Kubernetes 2.4 Support Matrix
+    </td>
+    <td><!--  概要  -->
+      Red Hat Advanced Cluster Management for Kubernetes 2.4でサポートされる管理対象クラスタとHubのサポート環境を示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.4
+    </td>
+    <td>　<!--  資料  -->
+      <a href="
+        https://access.redhat.com/articles/6218901
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/06/30
+    </td>
+  </tr>
+  <tr>
+    <td><!--  タイトル  -->
+        Red Hat Advanced Cluster Management for Kubernetes 2.3 Support Matrix
+    </td>
+    <td><!--  概要  -->
+      Red Hat Advanced Cluster Management for Kubernetes 2.3でサポートされる管理対象クラスタとHubのサポート環境を示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.3
+    </td>
+    <td><!--  資料  -->
+      <a href="
+        https://access.redhat.com/articles/5900521
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/06/30
+    </td>
+  </tr>
+  <tr>
+    <td><!--  タイトル  -->
+        Red Hat Advanced Cluster Management for Kubernetes 2.2 Support Matrix
+    </td>
+    <td><!--  概要  -->
+      Red Hat Advanced Cluster Management for Kubernetes 2.2でサポートされる管理対象クラスタとHubのサポート環境を示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.2
+    </td>
+    <td><!--  資料  -->
+      <a href="
+        https://access.redhat.com/articles/5799561
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/06/30
+    </td>
+  </tr>
+</table>
+
+## 02. 製品技術資料
+
+### 02-01. アーキテクチャ
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+  <tr>
+    <td><!--  タイトル  -->
+        Red Hat Advanced Cluster Management for Kubernetes Foundations
+    </td>
+    <td><!--  概要  -->
+      Red Hat Advanced Cluster Management for Kubernetesの製品アーキテクチャを説明し、ハンズオンラボを提供する
+      Partner Training Portalのコンテンツです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/06/30
+    </td>
+  </tr>
+</table>
 
 ### 02-02. 更新情報
 
