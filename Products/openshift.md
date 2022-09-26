@@ -54,20 +54,23 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   </tr>
 
   <tr>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://redhat-partner.highspot.com/items/5b6866ddf21676088b8534b7?lfrm=srp.0#1
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         Red Hat OpenShift -- Innovation without limitation
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat OpenShiftの製品紹介にご利用いただけるプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
       -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://redhat-partner.highspot.com/items/5b6866ddf21676088b8534b7?lfrm=srp.0#1
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
     </td>
     <td><!--  記載確認日  -->
       2022/05/30
@@ -81,6 +84,9 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  概要  -->
       Red Hat OpenShiftの特徴と機能の概要を記載したデータシートです。
     </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
     <td>
       <!--  リンク先  -->
       <a href="
@@ -90,9 +96,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         PDF
       </a>
     </td>  
-    <td><!--  対象バージョン  -->
-      -
-    </td>
     <td><!--  記載確認日  -->
       2022/05/30
     </td>
@@ -122,7 +125,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
       " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        JAPAN CUSTOMER SUCCESS SLIDES DECK
+        PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
@@ -147,7 +150,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://www.redhat.com/ja/success-stories
       " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat お客様導入事例
+        Link
       </a>
     </td>
     <td><!--  記載確認日  -->
@@ -371,8 +374,14 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    <td><!--  ドキュメント名  -->
+        Feature summary
+    </td>
+    <td><!--  概要  -->
+      OpenShift Kubernetes Engine および OpenShift Container Platform における機能の有効性をまとめたものです。該当する場合、機能を有効にする Operator の名前も含まれています。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 4.10
     </td>
     <td>
       <!--  リンク先  -->
@@ -382,12 +391,6 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
         <!--  ドキュメント名  -->
         Feature summary
       </a>
-    </td>
-    <td><!--  概要  -->
-      OpenShift Kubernetes Engine および OpenShift Container Platform における機能の有効性をまとめたものです。該当する場合、機能を有効にする Operator の名前も含まれています。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 4.10
     </td>
     <td><!--  記載確認日  -->
       2022/08/3

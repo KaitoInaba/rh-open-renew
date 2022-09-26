@@ -18,7 +18,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/09/01
+最終更新日：2022/10/26
 </b>
 
 ## 01. 製品説明資料
@@ -48,6 +48,40 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         <!--  ドキュメント名  -->
         動画
       </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/06/27
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      パートナー様向けRed Hat Enterprise Linux 営業基礎資料
+    </td>
+    <td><!--  概要  -->
+      パートナー様向けに、Red Hat Enterprise Linux の概要、ライフサイクル、アドオン、管理効率化のための仕組みなどをまとめて紹介を行っています。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+
+      <!--  リンク先  -->
+      <a href="
+        https://redhat-partner.highspot.com/items/621d3f956cad68138e4c4450?lfrm=srp.0
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+
+      <!--  リンク先  -->
+      <a href="
+        https://redhat-partner.highspot.com/items/623b56535df9ff2a70c09fa9?lfrm=srp.1
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+
     </td>
     <td><!--  記載確認日  -->
       2022/06/27
@@ -215,7 +249,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/05/30
     </td>
   </tr>
-
 </table>
 
 ### 01-04. ライフサイクル
@@ -223,6 +256,39 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 <table>
   <tr>
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Red Hat Enterprise Linux ライフサイクル EUS, AUS, ELSの考え方
+    </td>
+    <td><!--  概要  -->
+      Red Hat Enterprise LinuxのライフサイクルおよびEUS/AUS/ELSの考え方を説明し、EUS/AUS/ELSの要否を決定頂くための情報を提供します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://speakerdeck.com/moriwaka/rhel-lifecycle
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+
+      <!--  リンク先  -->
+      <a href="
+        https://www.youtube.com/watch?v=oguXuDMk3TA
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+
+    </td>
+    <td><!--  記載確認日  -->
+      2022/05/30
+    </td>
   </tr>
 
   <tr>
