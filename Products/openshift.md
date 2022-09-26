@@ -21,35 +21,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 最終更新日：2022/09/01
 </b>
 
-<!--
-コピペ用
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/training.png?raw=true" alt="training" title="training">
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/video.png?raw=true" alt="video" title="video">
--->
-
 ## 01. 製品説明資料
 
 ### 01-01. 製品概要
 
 <table>
   <tr>
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/video.png?raw=true" alt="video" title="video">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.youtube.com/watch?v=oWWMEfz4VNQ&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=1
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         コンテナプラットフォーム Red Hat OpenShiftのご紹介
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat OpenShiftの紹介動画です。
@@ -57,15 +40,20 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td><!--  リンク先  -->
+      <a href="
+        https://www.youtube.com/watch?v=oWWMEfz4VNQ&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=1
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/05/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
     <td>
       <!--  リンク先  -->
       <a href="
@@ -87,8 +75,11 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    <td><!--  ドキュメント名  -->
+        Red Hat OpenShift Container Platformデータシート
+    </td>  
+    <td><!--  概要  -->
+      Red Hat OpenShiftの特徴と機能の概要を記載したデータシートです。
     </td>
     <td>
       <!--  リンク先  -->
@@ -96,12 +87,9 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat OpenShift Container Platformデータシート
+        PDF
       </a>
     </td>  
-    <td><!--  概要  -->
-      Red Hat OpenShiftの特徴と機能の概要を記載したデータシートです。
-    </td>
     <td><!--  対象バージョン  -->
       -
     </td>
@@ -115,12 +103,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    <td><!--  ドキュメント名  -->
+        JAPAN CUSTOMER SUCCESS SLIDES DECK
+    </td>
+    <td><!--  概要  -->
+      日本の事例を中心に、Red Hat製品の事例を集約したプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -131,20 +125,21 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         JAPAN CUSTOMER SUCCESS SLIDES DECK
       </a>
     </td>
-    <td><!--  概要  -->
-      日本の事例を中心に、Red Hat製品の事例を集約したプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
     <td><!--  記載確認日  -->
       2022/07/07
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    <td>
+        <!--  ドキュメント名  -->
+        Red Hat お客様導入事例
+    </td>
+    <td><!--  概要  -->
+      Red Hatの製品事例を製品や業種、ビジネス課題をもとに検索可能なウェブサイトです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -154,12 +149,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         <!--  ドキュメント名  -->
         Red Hat お客様導入事例
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hatの製品事例を製品や業種、ビジネス課題をもとに検索可能なウェブサイトです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/07/07
@@ -172,19 +161,11 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr>
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://app.highspot.com/items/6291112b31b7d5adc25542f9
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         Red Hat OpenShift サブスクリプション説明資料
       </a>
     </td>
@@ -195,14 +176,29 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://app.highspot.com/items/6291112b31b7d5adc25542f9
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/05/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    <td><!--  ドキュメント名  -->
+        Red Hat OpenShift サイジングおよびサブスクリプションガイド
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShiftのサブスクリプションモデルの説明、OpenShiftの環境サイズを見積もるための手順を紹介します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -210,14 +206,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://www.redhat.com/rhdc/managed-files/cl-openshift-sizing-guide-detail-f26601wg-202012-a4-ja.pdf
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat OpenShift サイジングおよびサブスクリプションガイド
+        PDF
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShiftのサブスクリプションモデルの説明、OpenShiftの環境サイズを見積もるための手順を紹介します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/05/30
@@ -236,12 +226,19 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
 <table>
   <tr>
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    <td>
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Platform Plus のご紹介
+    </td>
+    <td><!--  概要  -->
+      弊社ソリューションアーキテクトによるRed Hat OpenShift Platform Plus紹介のブログ記事です。OPPの概要ともたらされるメリットについてご確認ください。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -249,14 +246,8 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
         https://rheb.hatenablog.com/entry/2022/04/08/Red_Hat_OpenShift_Platform_Plus_%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat OpenShift Platform Plus のご紹介
+        Link
       </a>
-    </td>
-    <td><!--  概要  -->
-      弊社ソリューションアーキテクトによるRed Hat OpenShift Platform Plus紹介のブログ記事です。OPPの概要ともたらされるメリットについてご確認ください。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/09/01
@@ -270,12 +261,19 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
 <table>
   <tr>
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    <td>
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Container Platformのライフサイクルポリシー
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShiftの製品ライフサイクルポリシー、及びサポート終了日を明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -283,14 +281,8 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
         https://access.redhat.com/ja/support/policy/updates/openshift
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat OpenShift Container Platformのライフサイクルポリシー
+        Link
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShiftの製品ライフサイクルポリシー、及びサポート終了日を明示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/05/30
@@ -303,21 +295,12 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
 <table>
   <tr>
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://catalog.redhat.com/platform/red-hat-openshift/software
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         Red Hat OpenShift Ecosystem
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat OpenShiftとの互換性が確認されたソフトウェア、及びクラウドサービスのリストを提供します。
@@ -325,23 +308,23 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://catalog.redhat.com/platform/red-hat-openshift/software
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/05/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/documentation/ja-jp/openshift_container_platform/4.10/html/installing/supported-platforms-for-openshift-clusters_ocp-installation-overview
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         OPENSHIFT CONTAINER PLATFORM クラスターでサポートされるプラットフォーム
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat OpenShiftの稼働をサポートするプラットフォーム条件を明示します。
@@ -349,14 +332,29 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     <td><!--  対象バージョン  -->
       Version 4.10
     </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://access.redhat.com/documentation/ja-jp/openshift_container_platform/4.10/html/installing/supported-platforms-for-openshift-clusters_ocp-installation-overview
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/05/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    <td><!--  ドキュメント名  -->
+        Certified hardware for Red Hat OpenShift Container Platform 4
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShift 4 の稼働についてRed Hatの認定を行ったハードウェアの一覧を示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 4.x
     </td>
     <td>
       <!--  リンク先  -->
@@ -364,14 +362,8 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
         https://catalog.redhat.com/hardware/search?p=1&c_version=Red%20Hat%20OpenShift%20Container%20Platform%204
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Certified hardware for Red Hat OpenShift Container Platform 4
+        Link
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShift 4 の稼働についてRed Hatの認定を行ったハードウェアの一覧を示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 4.x
     </td>
     <td><!--  記載確認日  -->
       2022/08/3
@@ -411,21 +403,12 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 <table>
 
 <tr>
-  <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+  <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
 </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://redhat-partner.highspot.com/items/5d8531e5429d7b1a7c702222?lfrm=srp.1#1
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         OpenShift 4 Technical Deep Dive
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat OpenShiftのアーキテクチャを説明した、テクニカルディープダイブ資料です。
@@ -433,14 +416,29 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://redhat-partner.highspot.com/items/5d8531e5429d7b1a7c702222?lfrm=srp.1#1
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/05/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    <td><!--  ドキュメント名  -->
+        Red Hat OpenShift4入門 Enterprise Kubernetesへのファーストステップ
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShiftの概要と、インストール、運用管理、アプリケーションの実行、クラスタの設定と管理などの基礎を、この1冊で学べます。コンテナオーケストレーションツールのトップシェア製品、OpenShiftでEnterprise Kubernetesへの第一歩を踏み出しましょう。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -448,14 +446,8 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
         https://redhat-partner.highspot.com/items/5e6a7a32429d7b62846c3b58?lfrm=srp.0
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat OpenShift4入門 Enterprise Kubernetesへのファーストステップ
+        PDF
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShiftの概要と、インストール、運用管理、アプリケーションの実行、クラスタの設定と管理などの基礎を、この1冊で学べます。コンテナオーケストレーションツールのトップシェア製品、OpenShiftでEnterprise Kubernetesへの第一歩を踏み出しましょう。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/05/30
@@ -468,12 +460,18 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
 <table>
   <tr>
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    <td><!--  ドキュメント名  -->
+        What's new in OpenShift
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShiftの更新について、各バージョンにおける更新情報をまとめたプレゼンテーション資料の掲載サイトです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -481,14 +479,8 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
         https://www.redhat.com/en/whats-new-red-hat-openshift
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        What's new in OpenShift
+        Link
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShiftの更新について、各バージョンにおける更新情報をまとめたプレゼンテーション資料の掲載サイトです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/06/02
@@ -500,12 +492,19 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
 <table>
   <tr>
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    <td><!--  ドキュメント名  -->
+        Red Hat OpenShiftラーニングパス
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Partner Training Portalにおける、Red Hat OpenShiftを学習いただくための学習教材とラーニングパスをロール毎に明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -513,14 +512,8 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
         https://app.highspot.com/items/629102e0990b7e3a0fc52adc
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat OpenShiftラーニングパス
+        PDF
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShiftを学習いただくための学習教材とラーニングパスをロール毎に明示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/05/30
@@ -528,8 +521,15 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    <td><!--  ドキュメント名  -->
+        Red Hat OpenShift のスキルパス
+      </a>
+    </td>
+    <td><!--  概要  -->
+      OpenShiftのRed Hat 認定エンジニア (RHCE) 認定取得までのラーニングパスをご紹介します。ご自分に合ったルートを見つけるのにお役立てください。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -537,14 +537,8 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
         https://www.redhat.com/ja/resources/openshift-skill-paths-brief
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat OpenShift のスキルパス
+        PDF
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat Partner Training Portalを使用し、OpenShiftのRed Hat 認定エンジニア (RHCE) 認定取得までのラーニングパスをご紹介します。ご自分に合ったルートを見つけるのにお役立てください。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/05/30
@@ -560,21 +554,12 @@ OpenShiftをクラウド上のマネージドサービスとして提供する�
 
 <table>
   <tr>
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://app.highspot.com/items/629102e0990b7e3a0fc52adc
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         Azure Red Hat OpenShift の使用を開始する
-      </a>
     </td>
     <td><!--  概要  -->
       Microsoft Azure上で提供されるOpenShiftのマネージドサービスである、ARO（Azure Red Hat OpenShift）の利用を始めるためのガイドです。
@@ -582,14 +567,29 @@ OpenShiftをクラウド上のマネージドサービスとして提供する�
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://app.highspot.com/items/629102e0990b7e3a0fc52adc
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/08/09
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/video.png?raw=true" alt="video" title="video">
+    <td><!--  ドキュメント名  -->
+        Red Hat OpenShift Service on AWS (ROSA) の紹介動画
+    </td>
+    <td><!--  概要  -->
+      Amazon Web Service上で提供されるOpenShiftのマネージドサービスであるROSA（Red Hat OpenShift Service on AWS）の概要を紹介する動画です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -597,14 +597,8 @@ OpenShiftをクラウド上のマネージドサービスとして提供する�
         https://www.youtube.com/watch?v=oOn9fKKIV-0&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=4
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat OpenShift Service on AWS (ROSA) の紹介動画
+        動画
       </a>
-    </td>
-    <td><!--  概要  -->
-      Amazon Web Service上で提供されるOpenShiftのマネージドサービスであるROSA（Red Hat OpenShift Service on AWS）の概要を紹介する動画です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/08/09
@@ -621,21 +615,12 @@ Red Hatがクラウドサービスとして提供する、OpenShift上でのク�
 <table>
 
   <tr>
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://rheb.hatenablog.com/entry/redhat-managed-services-intro
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         クラウドネイティブなアプリケーション開発を始めよう！ 〜 すぐに試せるRed Hatのマネージドサービス 〜
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hatが提供するOpenShift関連のマネージドサービス群について解説を行った弊社ブログの記事です。まずはこちらをご参考にください。
@@ -643,23 +628,23 @@ Red Hatがクラウドサービスとして提供する、OpenShift上でのク�
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://rheb.hatenablog.com/entry/redhat-managed-services-intro
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/08/17
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-data-science
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         Red Hat OpenShift Data Science
-      </a>
     </td>
     <td><!--  概要  -->
       インテリジェント・アプリケーションに携わるデータサイエンティストおよび開発者向けのマネージド・クラウドサービスであるOpenShift Data Scienceの紹介ページです。
@@ -667,23 +652,23 @@ Red Hatがクラウドサービスとして提供する、OpenShift上でのク�
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-data-science
+     " target="_blank" rel="noreferrer noopener">
+      <!--  ドキュメント名  -->
+      Link
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/08/17
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-streams-for-apache-kafka
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         Red Hat OpenShift Streams for Apache Kafka
-      </a>
     </td>
     <td><!--  概要  -->
       ストリーム処理をするアプリケーションのためのフルマネージドな Kafka のサービスであるRed Hat OpenShift Streams for Apache Kafkaの紹介ページです。
@@ -691,23 +676,23 @@ Red Hatがクラウドサービスとして提供する、OpenShift上でのク�
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-streams-for-apache-kafka
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/08/17
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-api-management
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         Red Hat OpenShift API Management
-      </a>
     </td>
     <td><!--  概要  -->
       Managed OpenShift上で動作するRed HatマネージドのAPI管理サービスであるRed Hat OpenShift API Managementの紹介ページです。
@@ -715,14 +700,29 @@ Red Hatがクラウドサービスとして提供する、OpenShift上でのク�
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-api-management
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/08/17
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    <td><!--  ドキュメント名  -->
+        Red Hat OpenShift Service Registry
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShift API Management と Red Hat OpenShift Streams for Apache Kafka のための、完全にホストされたフルマネージド型のレジストリサービスでであるRed Hat OpenShift Service Registryの紹介ページです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -730,14 +730,8 @@ Red Hatがクラウドサービスとして提供する、OpenShift上でのク�
         https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-service-registry
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat OpenShift Service Registry
+        Link
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShift API Management と Red Hat OpenShift Streams for Apache Kafka のための、完全にホストされたフルマネージド型のレジストリサービスでであるRed Hat OpenShift Service Registryの紹介ページです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/08/17
@@ -752,12 +746,18 @@ Red Hatがクラウドサービスとして提供する、OpenShift上でのク�
 
 <table>
   <tr>
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    <td><!--  ドキュメント名  -->
+        Red Hat OpenShift とKubernetes、その違いとは？
+    </td>
+    <td><!--  概要  -->
+      OpenShift とKubernetes の違いについての質問についてのご説明をまとめた資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -765,14 +765,8 @@ Red Hatがクラウドサービスとして提供する、OpenShift上でのク�
         https://www.redhat.com/rhdc/managed-files/cl-openshift-and-kubernetes-ebook-f25170wg-202010-a4-ja.pdf
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat OpenShift とKubernetes、その違いとは？
+        PDF
       </a>
-    </td>
-    <td><!--  概要  -->
-      OpenShift とKubernetes の違いについての質問についてのご説明をまとめた資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/05/30
