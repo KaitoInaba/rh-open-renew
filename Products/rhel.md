@@ -4,7 +4,7 @@ sort: 1
 
 # Red Hat Enterprise Linux
 
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/Logo-Red_Hat-Enterprise_Linux-B-Standard-RGB.png?raw=true" alt="rhel_logo" title="RHEL">
+<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/Logo-Red_Hat-Enterprise_Linux-A-Standard-RGB.png?raw=true" alt="rhel_logo" title="RHEL">
 
 [Red Hat Enterprise Linux](https://www.redhat.com/ja/technologies/linux-platforms/enterprise-linux) は、数百のクラウドと数千のハードウェアベンダーおよびソフトウェアベンダーで認定された、世界有数のエンタープライズ向け Linux プラットフォームです。Red Hat Enterprise Linux は、エッジコンピューティングや SAP ワークロードなどの特定のユースケースに対応するために購入されることもありますが、すべてのサブスクリプションに次のような核となるメリットがあります。
 
