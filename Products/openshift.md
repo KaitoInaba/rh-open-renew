@@ -551,7 +551,79 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 </table>
 
 ## 04. 関連情報
-### 04-01. Managed OpenShift
+
+### 04-01. OpenShift個別機能
+
+<table>
+  <tr>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        OpenShift Pipelinesのご紹介
+    </td>
+    <td><!--  概要  -->
+      OpenShift上でCI(継続的インテグレーション)を構成するための機能であるOpneShift Pipelinesをご紹介した資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://redhat-partner.highspot.com/items/6331ae48f8d847d1c96335b5
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+      <!--  リンク先  -->
+      <a href="
+        https://redhat-partner.highspot.com/items/6331b247c7cc94428c89e40e
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/09/27
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        OpenShift GitOpsのご紹介
+    </td>
+    <td><!--  概要  -->
+      OpenShift上でCD(継続的デリバリー)を構成するための機能であるOpneShift GitOpsをご紹介した資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://redhat-partner.highspot.com/items/6331a73fd540244eac42d711
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+      <!--  リンク先  -->
+      <a href="
+        https://redhat-partner.highspot.com/items/6331b06ca8850210b000d2cf
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/09/27
+    </td>
+  </tr>
+
+</table>
+
+### 04-02. Managed OpenShift
 
 OpenShiftをクラウド上のマネージドサービスとして提供する、Managed OpenShiftに関する製品情報を掲載します。
 
@@ -611,9 +683,9 @@ OpenShiftをクラウド上のマネージドサービスとして提供する�
 </table>
 
 
-### 04-02. 関連マネージドサービス
+### 04-03. OpenShift関連マネージドサービス
 
-Red Hatがクラウドサービスとして提供する、OpenShift上でのクラウドネイティアプリケーション開発を行うための製品群を紹介します。
+Red Hatがクラウドサービスとして提供する、OpenShift上でのクラウドネイティアプリケーション開発を行うためのサービス群を紹介します。
 
 <table>
 
