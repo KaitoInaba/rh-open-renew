@@ -39,7 +39,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  概要  -->
       Red Hat Ansible Automation Platform 2.2の製品紹介プレゼンテーション資料です。
-      お客様課題をAnsible Automation Platform(AAP)がどのように解決するかに加え、AAP2.2の製品アーキテクチャの説明が記載されています。
+      Red Hat Ansible Automation のハイレベルな紹介と、その価値と利点を顧客とパートナーに提供することを目的にしています。 
     </td>
     <td><!--  対象バージョン  -->
       Version 2.2
@@ -139,14 +139,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   </tr>
 
   <tr>
-    <td>
-      <!--  リンク先  -->
-      <a href="        
-        https://www.redhat.com/ja/success-stories
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         Red Hat お客様導入事例
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hatの製品事例を製品や業種、ビジネス課題をもとに検索可能なウェブサイトです。
@@ -203,8 +197,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td><!--  ドキュメント名  -->
-        Red Hat Ansible Automation Platform controller Licensing, Updates, and Support
-      </a>
+      Red Hat Ansible Automation Platform controller Licensing, Updates, and Support
     </td>
     <td><!--  概要  -->
     Red Hat Ansible Automation Platformのライセンスについて種別と適用方法を説明します。
@@ -295,8 +288,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td><!--  ドキュメント名  -->
-        Red Hat Ansible Automation Platform のリファレンスアーキテクチャ
-      </a>
+      Red Hat Ansible Automation Platform のリファレンスアーキテクチャ
     </td>
     <td><!--  概要  -->
       Red Hat Ansible Automation Platformの導入におけるリファレンスアーキテクチャを明示します。
@@ -335,7 +327,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  概要  -->
       Red Hat Ansible Automation Platform 2.2の製品紹介プレゼンテーション資料です。
-      お客様課題をAnsible Automation Platform(AAP)がどのように解決するかに加え、AAP2.2の製品アーキテクチャの説明が記載されています。
+      Red Hat Ansible Automation のハイレベルな紹介と、その価値と利点を顧客とパートナーに提供することを目的にしています。 
     </td>
     <td><!--  対象バージョン  -->
       Version 2.2

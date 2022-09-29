@@ -35,7 +35,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         コンテナプラットフォーム Red Hat OpenShiftのご紹介
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShiftの紹介動画です。
+      Red Hat OpenShiftの製品紹介動画です。3本構成になっており、本リンクはPart1のリンクとなっています。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -55,10 +55,10 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td><!--  ドキュメント名  -->
-        Red Hat OpenShift -- Innovation without limitation
+        Red Hat OpenShift -- The platform for a hybrid cloud world
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShiftの製品紹介にご利用いただけるプレゼンテーション資料です。
+      Red Hat OpenShiftのハイレベルな製品紹介にご利用いただけるプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -170,7 +170,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   <tr>
     <td><!--  ドキュメント名  -->
         Red Hat OpenShift サブスクリプション説明資料
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat OpenShift のサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
@@ -217,6 +216,30 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
   </tr>
   
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Self-managed Red Hat OpenShift sizing and subscription guide
+    </td>
+    <td><!--  概要  -->
+      上記サブスクリプションガイドの英語オリジナル版です。上記のガイドと内容はほぼ同等ですが、こちらの方がより更新が迅速に行われます。日本語版と合わせてご確認いただけますと幸いです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/en/resources/self-managed-openshift-sizing-subscription-guide
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/05/30
+    </td>
+  </tr>
+
 </table>
 
 ・ Red Hat OpenShift Platform Plus
@@ -389,7 +412,7 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
         https://docs.openshift.com/container-platform/4.10/welcome/oke_about.html#feature-summary
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Feature summary
+        Link
       </a>
     </td>
     <td><!--  記載確認日  -->
@@ -408,30 +431,6 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 <tr>
   <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
 </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        OpenShift 4 Technical Deep Dive
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShiftのアーキテクチャを説明した、テクニカルディープダイブ資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://redhat-partner.highspot.com/items/5d8531e5429d7b1a7c702222?lfrm=srp.1#1
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2022/05/30
-    </td>
-  </tr>
 
   <tr>
     <td><!--  ドキュメント名  -->
@@ -471,7 +470,7 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
         What's new in OpenShift
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShiftの更新について、各バージョンにおける更新情報をまとめたプレゼンテーション資料の掲載サイトです。
+      Red Hat OpenShiftの更新について、リリースバージョン毎の更新情報をまとめた動画とプレゼンテーション資料が掲載されたサイトです。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -501,7 +500,6 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
   <tr>
     <td><!--  ドキュメント名  -->
         Red Hat OpenShiftラーニングパス
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat Partner Training Portalにおける、Red Hat OpenShiftを学習いただくための学習教材とラーニングパスをロール毎に明示します。
@@ -526,7 +524,6 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
   <tr>
     <td><!--  ドキュメント名  -->
         Red Hat OpenShift のスキルパス
-      </a>
     </td>
     <td><!--  概要  -->
       OpenShiftのRed Hat 認定エンジニア (RHCE) 認定取得までのラーニングパスをご紹介します。ご自分に合ったルートを見つけるのにお役立てください。
@@ -552,7 +549,7 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
 ## 04. 関連情報
 
-### 04-01. OpenShift個別機能
+### 04-01. OpenShiftコンポーネント
 
 <table>
   <tr>
@@ -561,7 +558,7 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
   <tr>
     <td><!--  ドキュメント名  -->
-        OpenShift Pipelinesのご紹介
+      OpenShift Pipelinesのご紹介
     </td>
     <td><!--  概要  -->
       OpenShift上でCI(継続的インテグレーション)を構成するための機能であるOpneShift Pipelinesをご紹介した資料です。
@@ -592,7 +589,7 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
   <tr>
     <td><!--  ドキュメント名  -->
-        OpenShift GitOpsのご紹介
+      OpenShift GitOpsのご紹介
     </td>
     <td><!--  概要  -->
       OpenShift上でCD(継続的デリバリー)を構成するための機能であるOpneShift GitOpsをご紹介した資料です。
