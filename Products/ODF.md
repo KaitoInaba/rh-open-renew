@@ -8,6 +8,14 @@ sort: 8
 
 [Red Hat OpenShift Data Foundation](https://www.redhat.com/ja/technologies/cloud-computing/openshift-container-storage) (旧 Red Hat OpenShift Container Storage) は、コンテナ用ソフトウェア・デファインド・ストレージです。Red Hat OpenShift のデータおよびストレージサービス・プラットフォームとして設計された Red Hat OpenShift Data Foundation は、クラウド全体でアプリケーションを迅速かつ効率的に開発し、デプロイするのに役立ちます。
 
+```tip
+2022/10/4、Red Hat OpenShift Data FoundationはRed HatよりIBM社へ製品移管が行われることが決定されました。
+2023年からはIBM社にてOpenShift Data Foundationの開発・提供が行われる予定ですが、引き続きRed HatからもOEM製品としてOpenShift Data Foundationの提供が行われる予定です。
+既存のお客様への影響は最小となるよう調整が行われておりますが、ご不明な点がございましたらRed Hatの担当営業へお問い合わせください。
+
+参考：[IBM社プレスリリース](https://newsroom.ibm.com/2022-10-04-IBM-Redefines-Hybrid-Cloud-Application-and-Data-Storage-Adding-Red-Hat-Storage-to-IBM-Offerings)
+```
+
 ```note
 本ページに記載のリンクの一部は、参照に[Red Hat Partner Content Hub](https://redhat-partner.highspot.com/)へのログインが必要です。
 Partner Content Hubのログインアカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
@@ -115,60 +123,10 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 ### 01-03. 提供形態
 
-<table>
-  <tr><!-- 行1（見出し）-->
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
+2022/10/4にODFはRed HatからIBM社へ製品が移管されることとなり、2023年以降はIBM社より開発・販売が行われることとなりました。
+新規に導入をご検討のお客様については、恐れ入りますがRed Hatの担当営業までお問い合わせをお願いいたします。
 
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat OpenShift Data Foundation サブスクリプション説明資料
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShift Data Foundationのサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://app.highspot.com/items/62bb6903f6821dc9cfea5945
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2022/06/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        OpenShift Data Foundation Subscription Guide
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShift Data Foundationのサブスクリプションモデルの説明およびサブスクリプションの種類と種別を見積もるための手順を紹介します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/articles/6932811
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2022/06/30
-    </td>
-  </tr>
-
-</table>
+参考：[IBM社プレスリリース](https://newsroom.ibm.com/2022-10-04-IBM-Redefines-Hybrid-Cloud-Application-and-Data-Storage-Adding-Red-Hat-Storage-to-IBM-Offerings)
 
 ### 01-04. ライフサイクル
 

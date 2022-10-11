@@ -435,7 +435,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat Integration 製品概要
+      Red Hat Runtimes 製品概要
     </td>
     <td><!--  概要  -->
       Red Hat Application Foundationsに含まれるランタイム製品群について概要を記載したプレゼンテーション資料です。
