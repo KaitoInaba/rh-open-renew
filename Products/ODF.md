@@ -10,7 +10,7 @@ sort: 8
 
 ```tip
 2022/10/4、Red Hat OpenShift Data FoundationはRed HatよりIBM社へ製品移管が行われることが決定されました。
-2023年からはIBM社にてOpenShift Data Foundationの開発・提供が行われる予定ですが、引き続きRed HatからもOEM製品としてOpenShift Data Foundationの提供が行われる予定です。
+2023年からはIBM社にてOpenShift Data Foundationの開発・提供が行われる予定ですが、引き続きRed HatからもOEM製品として提供が行われる予定です。
 既存のお客様への影響は最小となるよう調整が行われておりますが、ご不明な点がございましたらRed Hatの担当営業へお問い合わせください。
 
 参考：[IBM社プレスリリース](https://newsroom.ibm.com/2022-10-04-IBM-Redefines-Hybrid-Cloud-Application-and-Data-Storage-Adding-Red-Hat-Storage-to-IBM-Offerings)
@@ -123,8 +123,9 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 ### 01-03. 提供形態
 
-2022/10/4にODFはRed HatからIBM社へ製品が移管されることとなり、2023年以降はIBM社より開発・販売が行われることとなりました。
-新規に導入をご検討のお客様については、恐れ入りますがRed Hatの担当営業までお問い合わせをお願いいたします。
+2022/10/4にODFはRed HatからIBM社へ製品が移管されることとなり、2023年以降はIBM社より開発・提供が行われることとなりました。
+
+Red HatからはOEM製品として引き続きODFの提供が行われますが、新規に導入をご検討のお客様については、恐れ入りますがRed Hatの担当営業までお問い合わせをお願いいたします。
 
 参考：[IBM社プレスリリース](https://newsroom.ibm.com/2022-10-04-IBM-Redefines-Hybrid-Cloud-Application-and-Data-Storage-Adding-Red-Hat-Storage-to-IBM-Offerings)
 
