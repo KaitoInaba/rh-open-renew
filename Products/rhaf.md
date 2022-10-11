@@ -250,6 +250,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  概要  -->
       Red Hat Application Foundationsのコンポーネントを含む、Red Hat Application Servicesの製品ライフサイクルポリシー、及びサポート終了日を明示します。
+      ※ リンク先で英語版のページが表示された場合、お手数ですがサイト右上の地球儀マークより日本語表記へ切り替えてご参照ください。
     </td>
     <td><!--  対象バージョン  -->
       -
