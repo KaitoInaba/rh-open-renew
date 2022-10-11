@@ -58,7 +58,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/06/02
     </td>
   </tr>
-
 </table>
 
 ### 01-02. ソリューション・製品事例
@@ -115,7 +114,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/07/07
     </td>
   </tr>
-
 
   <tr>
     <td><!--  ドキュメント名  -->
@@ -177,7 +175,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  記載確認日  -->
       2022/08/04
     </td>
-    <tr>
+  </tr>
+  <tr>
     <td><!--  ドキュメント名  -->
       Red Hat Application Fundations 価格体系について
     </td>
@@ -191,13 +190,13 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/633ef83ba16a25a8d9e2f562#26
-     " target="_blank" rel="noreferrer noopener">
+    " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
       <a href="
         https://app.highspot.com/items/634060b9b2caa3bcce0828e0
-     " target="_blank" rel="noreferrer noopener">
+    " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         動画
       </a>
@@ -206,7 +205,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/08/04
     </td>
   </tr>
-
 </table>
 
 ### 01-04. ライフサイクル
