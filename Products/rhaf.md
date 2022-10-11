@@ -216,10 +216,10 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat Application Foundationsに包含されるコンポーネントのライフサイクルの確認方法、考え方についてご説明します。
+      Red Hat Application Foundations各製品のライフサイクル
     </td>
     <td><!--  概要  -->
-      Red Hat 
+      Red Hat Application Foundationsに包含されるコンポーネントのライフサイクルの考え方・確認方法についてご説明します。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -230,7 +230,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://redhat-partner.highspot.com/items/633ef83ba16a25a8d9e2f562#22
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Link
+        PDF
       </a>
       <a href="
         https://redhat-partner.highspot.com/items/634060b7b2caa327baff6bff
@@ -413,7 +413,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       Red Hat Integration 製品概要
     </td>
     <td><!--  概要  -->
-      Red Hat Integrationに含まれる製品群(Fuse, 3Scale, AMQ) について概要を記載したプレゼンテーション資料です。
+      Red Hat Application Foundationsに含まれるインテグレーション製品群(Fuse, 3Scale, AMQ) について概要を記載したプレゼンテーション資料です。
+      ※ 資料としてはIntagration用のものとなっていますが、包含される個別製品としてはIntegrationとRHAFで差異はございません。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -424,11 +425,35 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://redhat-partner.highspot.com/items/6065d0a7998ae4317f393f18?lfrm=srp.2
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Link
+        PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/06/02
+      2022/10/11
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Integration 製品概要
+    </td>
+    <td><!--  概要  -->
+      Red Hat Application Foundationsに含まれるランタイム製品群について概要を記載したプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://youtu.be/uPjVL_O2X40
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/10/11
     </td>
   </tr>
 
@@ -451,6 +476,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  概要  -->
       Red Hat Partner Training Portalを使用し、Red Hat Integrationを学習いただくための学習教材とラーニングパスをロール毎に明示します。
+      ※ 資料としてはIntagration用のものとなっていますが、包含される個別製品のラーニングパスとしてはIntegrationとRHAFで差異はございません。
     </td>
     <td><!--  対象バージョン  -->
       -

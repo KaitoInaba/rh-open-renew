@@ -10,7 +10,7 @@ sort: 4
 [Red Hat® Integration](https://www.redhat.com/ja/products/integration) は、ハイブリッド・インフラストラクチャ全体でアプリケーションとデータを接続するための統合およびメッセージング・テクノロジーの包括的なツールです。アジャイルで分散型のコンテナ化された API 中心のソリューションで、サービス構成とオーケストレーション、アプリケーションの接続性とデータ変換、リアルタイムのメッセージストリーミング、変更データの取得、そして API 管理を提供します。これらはすべてクラウドネイティブのプラットフォームおよびツールチェーンと結合して、最新のアプリケーション開発の全領域をサポートします。
 
 ```tip
-Red Hat Integrationについては、新規サブスクリプション体系であるRed Hat Application Foundations(RHAF)への移行が予定されており、将来的にはIntegrationの終売が予定されています。
+Red Hat Integrationについては、新規サブスクリプション体系であるRed Hat Application Foundations(RHAF)への移行が予定されており、将来的にはIntegrationは終売となります。
 そのため、本One Stopでの情報更新についてはApplication Foundationsのページに対して主に実施する予定です。
 新規情報についてはApplication Foundationのページをご覧ください。
 ```
