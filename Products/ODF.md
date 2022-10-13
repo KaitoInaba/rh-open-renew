@@ -125,7 +125,9 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 2022/10/4にODFはRed HatからIBM社へ製品が移管されることとなり、2023年以降はIBM社より開発・提供が行われることとなりました。
 
-Red HatからはOEM製品として引き続きODFの提供が行われますが、新規に導入をご検討のお客様については、恐れ入りますがRed Hatの担当営業までお問い合わせをお願いいたします。
+Red HatからはOEM製品として引き続きODFの提供が行われますが、現在移管に当たり両社間で協議中でございますので、新規に導入をご検討のお客様については恐れ入りますがRed Hatの担当営業までお問い合わせをお願いいたします。
+
+正式なご提供形態が確定いたしましたら本サイトでもお知らせさせていただきます。
 
 参考：[IBM社プレスリリース](https://newsroom.ibm.com/2022-10-04-IBM-Redefines-Hybrid-Cloud-Application-and-Data-Storage-Adding-Red-Hat-Storage-to-IBM-Offerings)
 
