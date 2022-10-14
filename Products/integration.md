@@ -11,7 +11,7 @@ sort: 4
 
 ```tip
 Red Hat Integrationについては、新規サブスクリプション体系であるRed Hat Application Foundations(RHAF)への移行が予定されており、将来的にはIntegrationは終売となります。
-そのため、本One Stopでの情報更新については [Application Foundations](https://kaitoinaba.github.io/rh-open-renew/Products/rhaf.htmlのページ) に対して主に実施する予定です。
+そのため、本One Stopでの情報更新については [RHAFのページ)](https://kaitoinaba.github.io/rh-open-renew/Products/rhaf.html) に対して実施する予定です。
 新規情報についてはApplication Foundationのページをご覧ください。
 ```
 
