@@ -6,28 +6,30 @@ sort: 4
 
 OPENTLCは、Red Hatがパートナー様向けにご提供しているe-LearningサイトであるRed Hat Partner Training Portalに付随する、クラウドベースのラボ環境です。
 
-## Red Hat Partner Training Portalを使用するために必要な作業
+# 事前準備
 
-- `1. Red Hat Partner Training Portalの登録方法` にて、Red Hat ID取得、およびRed Hat Partner Training Portal ID登録が完了していることが必要です。
+* `Red Hat Partner Training Portal` へのログインが可能なこと
+
+Partner Training PoratlのログインID作成、ログイン方法については(Red Hat Partner Training Portalの登録方法)[https://kaitoinaba.github.io/rh-open-renew/training/registration.html]をご参照ください
+
+* `OPENTLC` へのログインが可能なこと
+
+OPENTLCのログインIDは、Partner Training PortalにてOPENTLCを使用したハンズオンラボが含まれるコースの学習を開始することで自動で申請が行われ、メールでアクセス情報が送信されます。
+
+# ラボ環境のセットアップ
+
+.OPENTLC lab portal にアクセスし、OPENTLCの認証情報を使用してログインします。
+
+.左ペインの `サービス` にマウスオーバーし（クリックしない）、表示されたメニューより `カタログ` をクリックします。
 
 
-## Red Hat Partner Training Portalの使用までのステップ
-- Red Hat Partner Training Portalのご利用方法については、下記の動画または、資料を参照してください。
-    - （動画）Red Hat Partner Training Portalの利用方法ガイド　→　[こちら](https://youtu.be/Uo_DGYw7vJA)
-    - （スライド）Red Hat Partner Training Portal操作ガイド　→　[こちら](https://redhat-partner.highspot.com/items/618562be086989fff1efef24#1)
+. `サービスカタログ` (①)よりセットアップするラボの種別をクリックし、画面右に表示されるサービスの一覧(②)から対象のラボ環境の *オーダー* を選択します。
 
+. オーダー実行の画面が表示されるため、`Accept T & C's` にチェックを入れ、`Purpose` は *Training - As part of course* を選択し、 *送信* をクリックします。
 
-## Red Hat Partner Training Portalコースカタログ
-- 全トレーニングコースのカタログ　→　[こちら](https://view.highspot.com/viewer/6085fec76a3b1133133eb39f)
-- Red Hat Partner Training Portalおすすめコース一覧　→　[こちら](https://rh-open.github.io/assets/docs/OPEN%20Basic%20Step-up%20Guide.pdf)
+. 下記のような画面が表示されれば、オーダー操作は終了です。 `承認状態` が *承認待ち* と表示されますが、自動承認が行われるため利用者様での承認操作は不要です。
 
-```tip
-**これからRed Hat Partner Training Portalを始める皆様へ**
+. オーダー完了後、メールにて、`Red Hat OPENTLC` よりラボ環境へのアクセス情報が送信されます。
 
-Red Hat Partner Training Portalトレーニングは幅広い製品をカバーしています。どれから始めようか迷ってしまう方は、ぜひ[Red Hat Partner Training Portalおすすめコース一覧](/assets/docs/OPEN%20Basic%20Step-up%20Guide.pdf)から始めてみてください！
-```
-```note
-Red Hat Partner Training Portalを使ったイベントなども開催されています。ぜひ[こちら](https://redhat-open.connpass.com/event/)でイベントも確認してみてください。
-```
-
-レッドハットパートナーへの登録についての問い合わせ先は、[こちらのリンク](https://www.redhat.com/ja/global/japan/partners)の最下段をご参照のうえ、お気軽にお問い合わせください
+# ラボ環境の操作
+セットアップしたラボ環境は、
