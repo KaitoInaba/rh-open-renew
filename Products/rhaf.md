@@ -465,7 +465,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 製品の特定バージョンに対し、プレゼンテーション資料や解説資料が存在する場合に掲載いたします。
 
-詳細な更新情報については、(Red Hat OpenShift Integration製品マニュアル)[https://access.redhat.com/documentation/en-us/red_hat_integration] より、対象のバージョンのリリースノートをご確認ください。
+詳細な更新情報については、[Red Hat OpenShift Integration製品マニュアル](https://access.redhat.com/documentation/en-us/red_hat_integration) より、対象のバージョンのリリースノートをご確認ください。
 ※ 製品マニュアルとしてはIntagration用のものとなっていますが、包含される個別製品の更新情報としてはIntegrationとRHAFで差異はございません。
 
 

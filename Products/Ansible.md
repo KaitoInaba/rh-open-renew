@@ -399,7 +399,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 製品の特定バージョンに対し、プレゼンテーション資料や解説資料が存在する場合に掲載いたします。
 
-詳細な更新情報については、 (Red Hat Ansible Automation Platform製品マニュアル)[https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_platform] より、対象のバージョンのリリースノートをご確認ください。
+詳細な更新情報については、 [Red Hat Ansible Automation Platform製品マニュアル](https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_platform) より、対象のバージョンのリリースノートをご確認ください。
 
 <table>
   <tr><!-- 行1（見出し）-->
@@ -481,7 +481,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
@@ -507,7 +507,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/08/04
+      2022/10/14
     </td>
   </tr>
 
@@ -530,11 +530,11 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://aap2.demoredhat.com/README.ja.html
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        PDF
+        Link
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/09/01
+      2022/10/14
     </td>
   </tr>
 
@@ -567,7 +567,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 

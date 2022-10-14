@@ -187,6 +187,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/10/14
     </td>
   </tr>
+  
+  <tr>
     <td><!--  概要  -->
       Red Hat Advanced Cluster Management for Kubernetes 2.5でサポートされる管理対象クラスタとHubのサポート環境を示します。
     </td>
@@ -205,6 +207,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/10/14
     </td>
   </tr>
+
   <tr>
     <td>
       <!--  タイトル  -->
@@ -228,6 +231,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/10/14
     </td>
   </tr>
+  
 </table>
 
 ## 02. 製品技術資料
@@ -268,7 +272,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 製品の特定バージョンに対し、プレゼンテーション資料や解説資料が存在する場合に掲載いたします。
 
-詳細な更新情報については、 (Red Hat Advanced Cluster Management for Kubernetes製品マニュアル)[https://access.redhat.com/documentation/ja-jp/red_hat_advanced_cluster_management_for_kubernetes] より、対象のバージョンのリリースノートをご確認ください。
+詳細な更新情報については、 [Red Hat Advanced Cluster Management for Kubernetes製品マニュアル](https://access.redhat.com/documentation/ja-jp/red_hat_advanced_cluster_management_for_kubernetes) より、対象のバージョンのリリースノートをご確認ください。
 
 <table>
   <tr><!-- 行1（見出し）-->

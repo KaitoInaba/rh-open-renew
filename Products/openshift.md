@@ -464,7 +464,7 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
 製品の特定バージョンに対し、プレゼンテーション資料や解説資料が存在する場合に掲載いたします。
 
-詳細な更新情報については、(Red Hat OpenShift Container Platform製品マニュアル)[https://access.redhat.com/documentation/ja-jp/openshift_container_platform] より、対象のバージョンのリリースノートをご確認ください。
+詳細な更新情報については、[Red Hat OpenShift Container Platform製品マニュアル](https://access.redhat.com/documentation/ja-jp/openshift_container_platform) より、対象のバージョンのリリースノートをご確認ください。
 
 <table>
   <tr>

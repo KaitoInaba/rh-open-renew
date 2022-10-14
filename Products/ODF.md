@@ -262,7 +262,7 @@ Red HatからはOEM製品として引き続きODFの提供が行われますが�
 
 製品の特定バージョンに対し、プレゼンテーション資料や解説資料が存在する場合に掲載いたします。
 
-詳細な更新情報については、(Red Hat OpenShift Data Foundation製品マニュアル)[https://access.redhat.com/documentation/ja-jp/red_hat_openshift_data_foundation] より、対象のバージョンのリリースノートをご確認ください。
+詳細な更新情報については、[Red Hat OpenShift Data Foundation製品マニュアル](https://access.redhat.com/documentation/ja-jp/red_hat_openshift_data_foundation) より、対象のバージョンのリリースノートをご確認ください。
 
 <table>
   <tr><!-- 行1（見出し）-->
