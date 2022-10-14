@@ -165,6 +165,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
+
   <tr>
     <td> <!--  タイトル  -->
         Red Hat Advanced Cluster Management for Kubernetes 2.6 Support Matrix
@@ -189,6 +190,9 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   </tr>
   
   <tr>
+    <td> <!--  タイトル  -->
+        Red Hat Advanced Cluster Management for Kubernetes 2.5 Support Matrix
+    </td>
     <td><!--  概要  -->
       Red Hat Advanced Cluster Management for Kubernetes 2.5でサポートされる管理対象クラスタとHubのサポート環境を示します。
     </td>
@@ -231,7 +235,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/10/14
     </td>
   </tr>
-  
+
 </table>
 
 ## 02. 製品技術資料
