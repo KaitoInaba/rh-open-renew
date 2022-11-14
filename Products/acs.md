@@ -253,8 +253,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 詳細な更新情報については、[Red Hat Advanced Cluster Security for Kubernetes製品マニュアル](https://access.redhat.com/documentation/ja-jp/red_hat_advanced_cluster_security_for_kubernetes) より、対象のバージョンのリリースノートをご確認ください。
 
-</table>
-
 ## 03. 学習リソース
 
 <table>

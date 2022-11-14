@@ -10,7 +10,7 @@ sort: 5
 
 ```tip
 Red Hat Application Foundation(RHAF)はRed Hat Integrationの実質的な後継製品であり、包含される個別製品は基本的に同一ですが、サブスクリプション体系の変更や一部旧製品のサポート削除が行われております。
-IntegrationとRHAFの差異については、本ページ製品概要に掲載しております[新アプリサービス基盤 Red Hat Application Foundations の概要](https://redhat-partner.highspot.com/items/634060baa16a25a571285aa0)をご参照ください。
+IntegrationとRHAFの差異については、本ページ製品概要に掲載しております["新アプリサービス基盤 Red Hat Application Foundations の概要"](https://redhat-partner.highspot.com/items/634060baa16a25a571285aa0)をご参照ください。
 
 また、本ページでは一部"Red Hat Integration"の製品資料を掲載しておりますが、前述の通り包含される個別製品は基本的に同一のため、RHAFの資料としてお読み頂いて問題ございません。
 ```
@@ -76,6 +76,36 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td><!--  ドキュメント名  -->
+        Red Hat Application Foundations ご提案いただきたいユースケース
+    </td>
+    <td><!--  概要  -->
+      パートナー様向けに、Red Hat Application Foundationsの価値の出せるユースケースをご紹介いたします。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="        
+        https://redhat-partner.highspot.com/items/633ef83ba16a25a8d9e2f562#33
+      " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+      <a href="        
+        https://app.highspot.com/items/6340603e4a1560fe0fb10ead
+      " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>      
+    </td>
+    <td><!--  記載確認日  -->
+      2022/11/14
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
         JAPAN CUSTOMER SUCCESS SLIDES DECK
     </td>
     <td><!--  概要  -->
@@ -116,36 +146,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         <!--  ドキュメント名  -->
         Link
       </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2022/11/14
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat Application Foundations ご提案いただきたいユースケース
-    </td>
-    <td><!--  概要  -->
-      パートナー様向けに、Red Hat Application Foundationsの価値の出せるユースケースをご紹介いたします。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="        
-        https://redhat-partner.highspot.com/items/633ef83ba16a25a8d9e2f562#33
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-      <a href="        
-        https://app.highspot.com/items/6340603e4a1560fe0fb10ead
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        動画
-      </a>      
     </td>
     <td><!--  記載確認日  -->
       2022/11/14
