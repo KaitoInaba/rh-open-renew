@@ -723,6 +723,30 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     </td>
   </tr>
 
+  <tr>
+    <td><!--  ドキュメント名  -->
+      OpenShiftクラスターのバックアップ/リストア
+    </td>
+    <td><!--  概要  -->
+      OpenShiftのバックアップ戦略についての解説、およびバックアップリストアに使用可能なコンポーネントを解説した資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://speakerdeck.com/tutsunom/openshift-cluster-backup-restore
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/12/22
+    </td>
+  </tr>
+
 </table>
 
 ### 04-02. Managed OpenShift
