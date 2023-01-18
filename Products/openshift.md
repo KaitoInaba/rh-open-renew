@@ -9,7 +9,7 @@ sort: 3
 [Red Hat OpenShift](https://www.redhat.com/ja/technologies/cloud-computing/openshift) はエンタープライズ Kubernetes プラットフォームのリーダーであり、デプロイ先がどこであっても、クラウドのようなエクスペリエンスを実現します。クラウドでも、オンプレミスでも、エッジでも、Red Hat OpenShift を使用すると、一貫したエクスペリエンスを通じてアプリケーションを構築、デプロイ、実行する場所を選択できます。Red Hat OpenShift のフルスタックの自動運用と開発者向けのセルフサービス・プロビジョニングにより、複数のチームが連携して、開発からプロダクションへとアイデアを効率的に展開できます。
 
 ```note
-本ページに記載のリンクの一部は、参照に[Red Hat Partner Content Hub](https://redhat-partner.highspot.com/)へのログインが必要です。
+本ページに記載のリンクの一部は、参照に[Red Hat Content Center](https://content.redhat.com)へのログインが必要です。
 Partner Content Hubのログインアカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
 
 掲載資料へのお問合せ、資料のリンク切れなどは
@@ -18,7 +18,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/12/22
+最終更新日：2023/1/23
 </b>
 
 ## 01. 製品説明資料
@@ -66,14 +66,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/5b6866ddf21676088b8534b7?lfrm=srp.0#1
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0882930b-aef5-4054-9585-fc35aa9dce76
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 
@@ -122,14 +122,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="        
-        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=6ce93a58-819b-4600-8b6d-f09be9952ed4
       " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 
@@ -181,14 +181,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/6291112b31b7d5adc25542f9
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=25c86986-7533-446f-b789-94c1aa556749
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2023/1/23
     </td>
   </tr>
 
@@ -269,14 +269,14 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/636d5011feb6158224987ed0
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=596cba7d-7765-4ca9-bafb-bfcbc1f3d3a0
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/11/11
+      2023/1/23
     </td>
   </tr>
 
@@ -522,14 +522,14 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/5e6a7a32429d7b62846c3b58?lfrm=srp.0
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=125fe208-3375-404d-8bf1-cd308cc77bce
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 
@@ -615,14 +615,14 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/629102e0990b7e3a0fc52adc
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=886f1d59-546e-447c-94d6-0ba637e0a025
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 
@@ -674,21 +674,21 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/6331ae48f8d847d1c96335b5
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a76a42c0-0aa3-4a8a-bceb-472f8c0a426f
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/6331b247c7cc94428c89e40e
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f7ae5f7e-dfb3-4749-acc0-c9ad53d29e0b
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         動画
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 
@@ -705,21 +705,21 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/6331a73fd540244eac42d711
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a6b208a7-5905-46d0-92b2-53cbe6bc2297
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/6331b06ca8850210b000d2cf
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d67580f1-726b-4089-b782-f7f9b02331ac
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         動画
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 
@@ -771,14 +771,14 @@ OpenShiftをクラウド上のマネージドサービスとして提供する�
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/629102e0990b7e3a0fc52adc
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d6ee3f9f-7d2c-435f-8ea8-40b12023de86
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 

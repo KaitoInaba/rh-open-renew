@@ -16,7 +16,7 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
 ```
 
 ```note
-本ページに記載のリンクの一部は、参照に[Red Hat Partner Content Hub](https://redhat-partner.highspot.com/)へのログインが必要です。
+本ページに記載のリンクの一部は、参照に[Red Hat Content Center](https://content.redhat.com)へのログインが必要です。
 Partner Content Hubのログインアカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
 
 掲載資料へのお問合せ、資料のリンク切れなどは
@@ -25,7 +25,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/11/17
+最終更新日：2023/1/23
 </b>
 
 ## 01. 製品説明資料
@@ -49,20 +49,20 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/633ef83ba16a25a8d9e2f562
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0e076def-40b1-4bce-9478-d0e31b3eaf04
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
       <a href="
-        https://redhat-partner.highspot.com/items/634060baa16a25a571285aa0
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=df3fc26b-2924-40b8-a9ea-49bf10df85ce
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         動画
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/11/14
+      2023/1/23
     </td>
   </tr>
 </table>
@@ -80,6 +80,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  概要  -->
       パートナー様向けに、Red Hat Application Foundationsの価値の出せるユースケースをご紹介いたします。
+      （PDF版は33ページ目よりご確認ください）
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -87,20 +88,20 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="        
-        https://redhat-partner.highspot.com/items/633ef83ba16a25a8d9e2f562#33
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0e076def-40b1-4bce-9478-d0e31b3eaf04
       " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
       <a href="        
-        https://app.highspot.com/items/6340603e4a1560fe0fb10ead
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=520d2983-34e5-4351-aa1a-98de41468259
       " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         動画
       </a>      
     </td>
     <td><!--  記載確認日  -->
-      2022/11/14
+      2023/1/23
     </td>
   </tr>
 
@@ -117,14 +118,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="        
-        https://app.highspot.com/items/63726243ea6b10e4b28f7e28
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d13f3fa4-fb85-4572-841c-2eba78db1526
       " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>  
     </td>
     <td><!--  記載確認日  -->
-      2022/11/16
+      2023/1/23
     </td>
   </tr>
 
@@ -141,14 +142,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="        
-        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=6ce93a58-819b-4600-8b6d-f09be9952ed4
       " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/11/14
+      2023/1/23
     </td>
   </tr>
 
@@ -197,14 +198,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/62fe49a325be24408cf5e7e3
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c8686fcd-0ef9-4f94-8771-18d0aee27ae0
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/11/14
+      2023/1/23
     </td>
   </tr>
   <tr>
@@ -213,6 +214,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  概要  -->
       上記の「Red Hat Application Fundations サブスクリプション説明資料」の内容に加え、具体的なRed Hat Application Foundationsの見積もりケースについてご説明します。
+      （PDF版は26ページ目よりご確認ください）
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -220,20 +222,20 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/633ef83ba16a25a8d9e2f562#26
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0e076def-40b1-4bce-9478-d0e31b3eaf04
     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
       <a href="
-        https://app.highspot.com/items/634060b9b2caa3bcce0828e0
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=65e823f7-56c8-426b-83d4-cf85a46a1f10
     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         動画
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/11/14
+      2023/1/23
     </td>
   </tr>
 </table>
@@ -250,7 +252,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       Red Hat Application Foundations各製品のライフサイクル
     </td>
     <td><!--  概要  -->
-      Red Hat Application Foundationsに包含されるコンポーネントのライフサイクルの考え方・確認方法についてご説明します。※ページ冒頭に単体名称の記載がないコンポーネントについては、ページ内「Red Hat Integration」欄に記載されています。
+      Red Hat Application Foundationsに包含されるコンポーネントのライフサイクルの考え方・確認方法についてご説明します。
+      （PDF版は22ページ目よりご確認ください）
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -258,20 +261,20 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/633ef83ba16a25a8d9e2f562#22
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0e076def-40b1-4bce-9478-d0e31b3eaf04
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
       <a href="
-        https://redhat-partner.highspot.com/items/634060b7b2caa327baff6bff
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3bed8bd2-2501-40e0-a9b2-be5e53580470
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         動画
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/11/14
+      2023/1/23
     </td>
   </tr>
 
@@ -283,6 +286,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       Red Hat Application Foundationsのコンポーネントを含む、Red Hat Application Servicesの製品ライフサイクルポリシー、及びサポート終了日を明示します。
       ※ こちらは日本語版のリンクを掲載しておりますが、お使いの環境によっては英語版へリダイレクトが行われる場合がございます。
       英語版のページが表示された場合、お手数ですがサイト右上の地球儀マークより日本語表記へ切り替えてご参照ください。
+      ※ページ冒頭に単体名称の記載がないコンポーネントについては、ページ内「Red Hat Integration」欄に記載されています。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -430,14 +434,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/637262806d2911bc77784481
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=121bfecf-4911-417f-a43a-e95f504c1973
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/11/16
+      2023/1/23
     </td>
   </tr>
 
@@ -454,14 +458,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/6372624450ffb9e317616a7b
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=dcfbc2ff-d8e5-43f5-8f05-98b28cd5df9d
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/11/16
+      2023/1/23
     </td>
   </tr>
 
@@ -518,14 +522,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/6372627fcb2948ea7fefadeb
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=05d3c666-2290-4afa-a0cc-35b57a761789
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/11/16
+      2023/1/23
     </td>
   </tr>
 
@@ -544,6 +548,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  概要  -->
       Red Hat Partner Application Foundationsについてよく頂くご質問と回答をご紹介いたします。
+      （PDF版は40ページ目よりご確認ください）
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -551,20 +556,20 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/633ef83ba16a25a8d9e2f562#40
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0e076def-40b1-4bce-9478-d0e31b3eaf04
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
       <a href="
-        https://app.highspot.com/items/6340607e9e8b57e6c60e03c9
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=81443c31-8a52-4c16-897b-db0091719cc2
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         動画
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/11/14
+      2023/1/23
     </td>
   </tr>
 

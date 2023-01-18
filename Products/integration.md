@@ -15,7 +15,7 @@ Red Hat Integrationについては、新規サブスクリプション体系で�
 ```
 
 ```note
-本ページに記載のリンクの一部は、参照に[Red Hat Partner Content Hub](https://redhat-partner.highspot.com/)へのログインが必要です。
+本ページに記載のリンクの一部は、参照に[Red Hat Content Center](https://content.redhat.com)へのログインが必要です。
 Partner Content Hubのログインアカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
 
 掲載資料へのお問合せ、資料のリンク切れなどは
@@ -24,7 +24,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/06/30
+最終更新日：2023/1/23
 </b>
 
 ## 01. 製品説明資料
@@ -48,14 +48,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/6065d0a7998ae4317f393f18?lfrm=srp.7#1
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=09e690a7-d9c2-486c-81b8-d31fe9343752
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/06/02
+      2023/1/23
     </td>
   </tr>
 
@@ -105,14 +105,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="        
-        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=6ce93a58-819b-4600-8b6d-f09be9952ed4
       " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/07/07
+      2023/1/23
     </td>
   </tr>
 
@@ -162,14 +162,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/62910c7c052a903cff453167
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e7caa03d-44c0-440c-8501-f5b941e52fce
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2023/1/23
     </td>
   </tr>
 
@@ -382,14 +382,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/6065d0a7998ae4317f393f18?lfrm=srp.2
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2191472c-f26a-4878-9983-4d6fec76fec1
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Link
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/06/02
+      2023/1/23
     </td>
   </tr>
 
@@ -419,14 +419,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/629104c10266493b97d07cac
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=33868acc-114a-4b70-8382-77041c8357bb
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2023/1/23
     </td>
   </tr>
 

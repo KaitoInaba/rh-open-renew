@@ -17,7 +17,7 @@ sort: 8
 ```
 
 ```note
-本ページに記載のリンクの一部は、参照に[Red Hat Partner Content Hub](https://redhat-partner.highspot.com/)へのログインが必要です。
+本ページに記載のリンクの一部は、参照に[Red Hat Content Center](https://content.redhat.com)へのログインが必要です。
 Partner Content Hubのログインアカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
 
 掲載資料へのお問合せ、資料のリンク切れなどは
@@ -26,7 +26,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/10/14
+最終更新日：2023/1/23
 </b>
 
 ## 01. 製品説明資料
@@ -84,14 +84,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="        
-        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=6ce93a58-819b-4600-8b6d-f09be9952ed4
       " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 
@@ -274,7 +274,7 @@ Red HatからはOEM製品として引き続きODFの提供が行われますが�
         What's New in Red Hat OpenShift Data Foundation 4.8 ~ 機械翻訳版 ~
     </td>
     <td><!--  概要  -->
-      英語にて提供されている資料<a href="https://redhat-partner.highspot.com/items/610c03126672da2b59167ff9?lfrm=srp.12">What's New in Red Hat OpenShift Data Foundation 4.8</a>の日本語機械翻訳版です。
+      英語にて提供されている資料<a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=48e7f378-1cbc-4f37-a142-397f0a7e456d">What's New in Red Hat OpenShift Data Foundation 4.8</a>の日本語機械翻訳版です。
       Red Hat OpenShift Data Foundationの機能紹介、およびVersion 4.8における更新内容を記載したプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
@@ -283,14 +283,14 @@ Red HatからはOEM製品として引き続きODFの提供が行われますが�
     <td>
       <!--  リンク先  -->
       <a href="  
-        https://app.highspot.com/items/62bca0806456038f7b7f5e17
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=102f0f5f-ded4-4b31-bd4e-de6c50840fbe
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 
@@ -315,14 +315,14 @@ Red HatからはOEM製品として引き続きODFの提供が行われますが�
     </td>
     <td><!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/62bb54dbdbe71d45e4fe9696
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e49bc626-37e2-412c-b4f9-59f46a059771
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 

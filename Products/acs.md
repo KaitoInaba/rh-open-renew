@@ -9,7 +9,7 @@ sort: 7
 [Red Hat Advanced Cluster Security for Kubernetes](https://www.redhat.com/ja/technologies/cloud-computing/openshift/advanced-cluster-security-kubernetes) は、Kubernetes ネイティブのセキュリティ・プラットフォームのパイオニア的存在で、クラウドネイティブ・アプリケーションの構築、デプロイ、実行をより安全にあらゆる場所で行えるようにします。このソリューションの Kubernetes ネイティブのアプローチは、ソフトウェア開発ライフサイクル全体にわたる組み込みのセキュリティを備えており、運用コストの削減、運用リスクの緩和、開発者の生産性向上を実現します。
 
 ```note
-本ページに記載のリンクの一部は、参照に[Red Hat Partner Content Hub](https://redhat-partner.highspot.com/)へのログインが必要です。
+本ページに記載のリンクの一部は、参照に[Red Hat Content Center](https://content.redhat.com)へのログインが必要です。
 Partner Content Hubのログインアカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
 
 掲載資料へのお問合せ、資料のリンク切れなどは
@@ -18,7 +18,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/11/14
+最終更新日：2023/1/23
 </b>
 
 ## 01. 製品説明資料
@@ -43,7 +43,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/60369f48bf6c947b443f56b8?lfrm=srp.0
+        https://www.redhat.com/rhdc/managed-files/cl-advanced-cluster-security-for-kubernetes-datasheet-f31987pr-202209-en.pdf
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
@@ -75,14 +75,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=6ce93a58-819b-4600-8b6d-f09be9952ed4
       " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/11/14
+      2023/1/23
     </td>
   </tr>
 
@@ -131,14 +131,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/62be03d0fbe6d39054ac011e
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=995ab663-4bea-4e6f-b0fa-906246568325
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/11/14
+      2023/1/23
     </td>
   </tr>
 </table>
@@ -273,14 +273,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/62be0394276892b10b042f55?lfrm=srp.1
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=b272208e-e17c-4878-a78b-3ccca50fe3fb
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/11/14
+      2023/1/23
     </td>
   </tr>
 </table>
