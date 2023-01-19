@@ -10,14 +10,14 @@ sort: 5
 
 ```tip
 Red Hat Application Foundation(RHAF)はRed Hat Integrationの実質的な後継製品であり、包含される個別製品は基本的に同一ですが、サブスクリプション体系の変更や一部旧製品のサポート削除が行われております。
-IntegrationとRHAFの差異については、本ページ製品概要に掲載しております["新アプリサービス基盤 Red Hat Application Foundations の概要"](https://redhat-partner.highspot.com/items/634060baa16a25a571285aa0)をご参照ください。
+IntegrationとRHAFの差異については、本ページ製品概要に掲載しております["新アプリサービス基盤 Red Hat Application Foundations の概要"](https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0e076def-40b1-4bce-9478-d0e31b3eaf04)をご参照ください。
 
 また、本ページでは一部"Red Hat Integration"の製品資料を掲載しておりますが、前述の通り包含される個別製品は基本的に同一のため、RHAFの資料としてお読み頂いて問題ございません。
 ```
 
 ```note
 本ページに記載のリンクの一部は、参照に[Red Hat Content Center](https://content.redhat.com)へのログインが必要です。
-Partner Content Hubのログインアカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
+アカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
 
 掲載資料へのお問合せ、資料のリンク切れなどは
 [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform)
