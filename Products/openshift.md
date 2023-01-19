@@ -595,6 +595,48 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
 </table>
 
+### 02-03. アップグレード
+
+製品の特定バージョンに対し、アップグレードに向けたご説明資料が存在する場合に記載を行います。
+
+<table>
+  <tr>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        OpenShift Cluster Upgrade戦略
+    </td>
+    <td><!--  概要  -->
+      OpenShiftクラスタのアップグレードについて、アップグレードの仕組みと実行方法、およびアップグレード戦略について説明を行います。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=b46414fb-2523-45bb-bb09-44051bb6f620
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=152e79c1-40b5-45a4-8226-6a610764d46a
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+        </td>
+    <td><!--  記載確認日  -->
+      2023/1/23
+    </td>
+  </tr>
+
+</table>
+
 ## 03. 学習リソース
 
 <table>
@@ -744,6 +786,37 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     </td>
     <td><!--  記載確認日  -->
       2022/12/22
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      OpenShiftの内部レジストリって何？
+    </td>
+    <td><!--  概要  -->
+      OpenShiftに既定で付属するコンテナイメージレジストリ（OpenShift Image Registry）について、アーキテクチャの詳細と使用するメリットについて説明を行います。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=8bd02a46-de52-4c7c-b8ef-f0895e81bab9
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=81f4f0d2-3653-4ae0-ad37-2bfa64cfe37e
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2023/1/23
     </td>
   </tr>
 
