@@ -17,7 +17,7 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
     <td><!--  資料  -->
       <!--  リンク  -->  
       <a href="
-      https://app.highspot.com/items/635bd177933e96c00bb71497
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fcc32067-8ec9-41e3-b8b4-eb46f96f72f5
       " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
         2021 年版世界のテクノロジー展望：Red Hat レポート
@@ -60,7 +60,7 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
       </a>
     </td>
     <td><!--  概要  -->
-    オープンソースの原則でチーム、テクノロジー、プロセスを結びつけましょう。
+    デジタル・トランスフォーメーション・プロジェクトの結果を高める 5 つの要素をご紹介します。
     </td>
     <td><!--  発行日  -->
       2020年12月17日
@@ -89,25 +89,93 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
 
 ## クラウドネイティブ/ハイブリッド・マルチクラウド
 
-| No.          | タイトル          | 概要 |
-| --------------- | -------------- | ---- |
-|1|[コンテナおよび Kubernetes セキュリティへの階層型アプローチ](https://redhat-partner.highspot.com/items/5b281ce7f21676191353ac02?lfrm=srp.11#1)|コンテナおよび Kubernetes のセキュリティに対する階層型アプローチを実装するために必要な知識を紹介します。詳細はダウンロードしてご確認ください。|
-|2|[クラウドネイティブとハイブリッドクラウドの融合：戦略ガイド](https://redhat-partner.highspot.com/items/5fb57ee160e9cc1e57ea3ed0?lfrm=srp.0)|信頼性、生産性、変化のためのアプリケーション環境を構築する方法を学びます。|
-|3|[クラウドでコンテナを導入すべき 8 つの理由](https://redhat-partner.highspot.com/items/60256c32998ae44269afc3da?lfrm=srp.0)|Microsoft Azure Red Hat OpenShift を使用してクラウドでコンテナを導入する 8 つのメリットについてご紹介します。|
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>資料</th><th>概要</th><th>発行日</th>
+  </tr>
 
-<!-- ## レガシーシステム・モダナイゼーション
+  <tr>
+    <td><!--  資料  -->
+      <!--  リンク  -->  
+      <a href="
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=445042af-dd75-4b61-88e6-018c05beee2c
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        クラウドネイティブとハイブリッドクラウドの融合：戦略ガイド
+      </a>
+    </td>
+    <td><!--  概要  -->
+    エンタープライズアーキテクトと IT リーダーが、先進的な IT 戦略を策定して実装する方法をご覧ください。
+    </td>
+    <td><!--  発行日  -->
+      2022年12月16日
+    </td>
+  </tr>
 
-| No.          | タイトル          | 概要 |
-| --------------- | -------------- | ---- |
+  <tr>
+    <td><!--  資料  -->
+      <!--  リンク  -->  
+      <a href="
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c42c0e6e-59c1-462b-b2fd-048e326bf8f3
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        コンテナおよび Kubernetes セキュリティへの階層型アプローチ
+      </a>
+    </td>
+    <td><!--  概要  -->
+    コンテナおよび Kubernetes のセキュリティに対する階層型アプローチを実装するために必要な知識を紹介します。詳細はダウンロードしてご確認ください。
+    </td>
+    <td><!--  発行日  -->
+      2021年2月17日
+    </td>
+  </tr>
 
+  <tr>
+    <td><!--  資料  -->
+      <!--  リンク  -->  
+      <a href="
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1afab0f1-1649-4eb7-855f-aeb3d9618b94
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        クラウドでコンテナを導入すべき 8 つの理由
+      </a>
+    </td>
+    <td><!--  概要  -->
+    Microsoft Azure Red Hat OpenShift を使用してクラウドでコンテナを導入する 8 つのメリットについてご紹介します。
+    </td>
+    <td><!--  発行日  -->
+      2021年2月11日
+    </td>
+  </tr>
 
-
--->
+</table>
 
 ## AI・機械学習
 
-| No.          | タイトル          | 概要 |
-|1|[Advance your business with AI/ML](https://www.redhat.com/rhdc/managed-files/cl-openshift-for-ai-ml-customer-e-book-f28561-202104-en.pdf)|Discover how organizations speed AI/ML adoption with Red Hat OpenShift|
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>資料</th><th>概要</th><th>発行日</th>
+  </tr>
+
+  <tr>
+    <td><!--  資料  -->
+      <!--  リンク  -->  
+      <a href="
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3f956da5-8ac8-49df-a4a9-49446803521b
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        AIとMLでビジネスを前進させる
+      </a>
+    </td>
+    <td><!--  概要  -->
+    さまざまな業界の組織が具体的なビジネス成果をもたらす AI/ML ソリューションを構築するにあたり、どのように Red Hat OpenShift を活用しているかを紹介します。
+    </td>
+    <td><!--  発行日  -->
+      2021年9月28日
+    </td>
+  </tr>
+
+</table>
 
 ## セキュリティ
 
