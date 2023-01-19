@@ -8,12 +8,84 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
 
 ## デジタル・トランスフォーメーション
 
-| No.          | タイトル          | 概要 |
-| --------------- | -------------- | ---- |
-|1|[2021 年版世界のテクノロジー展望：Red Hat レポート](https://redhat-partner.highspot.com/items/6048e1b6998ae45731ced6fc?lfrm=srp.0)|各種業界の IT リーダーが 2021 年に最重視している目標と課題とは？その詳細をご覧ください。|
-|2|[オープンソースのちからで実現するデジタル・トランスフォーメーション](https://redhat-partner.highspot.com/items/5c184248429d7b55b3a9f207?lfrm=srp.28#1)|オープンソースの原則でチーム、テクノロジー、プロセスを結びつけましょう。|
-|3|[デジタル・トランスフォーメーションの成功に欠かせない 5 つの要素](https://redhat-partner.highspot.com/items/5fdb92af60e9cc2416a828cc?lfrm=srp.0)|デジタル・トランスフォーメーション・プロジェクトの結果を高める 5 つの要素をご紹介します。|
-|4|[デジタル・トランスフォーメーションの失敗を回避する](https://redhat-partner.highspot.com/items/5f7cd16f60e9cc426981dde7?lfrm=srp.47#1)|成功するデジタル・トランスフォーメーションが持つ要素と、テクノロジーへの投資を確実に成功させる方法について説明します。|
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>資料</th><th>概要</th><th>発行日</th>
+  </tr>
+
+  <tr>
+    <td><!--  資料  -->
+      <!--  リンク  -->  
+      <a href="
+      https://app.highspot.com/items/635bd177933e96c00bb71497
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        2021 年版世界のテクノロジー展望：Red Hat レポート
+      </a>
+    </td>
+    <td><!--  概要  -->
+    各種業界の IT リーダーが 2021 年に最重視している目標と課題とは？その詳細をご覧ください。
+    </td>
+    <td><!--  発行日  -->
+      2021年3月10日
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  資料  -->
+      <!--  リンク  -->  
+      <a href="
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d944d33b-3b06-4093-938c-71c0d1463ee7
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        オープンソースのちからで実現するデジタル・トランスフォーメーション
+      </a>
+    </td>
+    <td><!--  概要  -->
+    オープンソースの原則でチーム、テクノロジー、プロセスを結びつけましょう。
+    </td>
+    <td><!--  発行日  -->
+      2021年1月6日
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  資料  -->
+      <!--  リンク  -->  
+      <a href="
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ace9c31d-946c-4440-848e-9b39ad76f78e
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        デジタル・トランスフォーメーションの成功に欠かせない 5 つの要素
+      </a>
+    </td>
+    <td><!--  概要  -->
+    オープンソースの原則でチーム、テクノロジー、プロセスを結びつけましょう。
+    </td>
+    <td><!--  発行日  -->
+      2020年12月17日
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  資料  -->
+      <!--  リンク  -->  
+      <a href="
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ace9c31d-946c-4440-848e-9b39ad76f78e
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        デジタル・トランスフォーメーションの失敗を回避する
+      </a>
+    </td>
+    <td><!--  概要  -->
+    成功するデジタル・トランスフォーメーションが持つ要素と、テクノロジーへの投資を確実に成功させる方法について説明します。
+    </td>
+    <td><!--  発行日  -->
+      2020年10月6日
+    </td>
+  </tr>
+
+</table>
 
 ## クラウドネイティブ/ハイブリッド・マルチクラウド
 

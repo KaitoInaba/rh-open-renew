@@ -15,6 +15,12 @@ Red Hat の導入事例資料を業種別にまとめています。
 |3|[Red Hat Process Automation で保険業務を変革する](https://redhat-partner.highspot.com/items/5e418d3e429d7b1d77235380?lfrm=srp.17)|Red Hat® Process Automation は、保険会社がビジネスロジックをキャプチャーしてビジネスプロセスおよび意思決定を自動化するアプリケーションを開発するために役立ちます。その詳細をご覧ください。|
 |4|[銀行の IT インフラを新たなデジタルエンゲージメントに適応させる](https://redhat-partner.highspot.com/items/5d8cf5b5429d7b4358373d54?lfrm=srp.41)|銀行サービスに対して顧客が抱く、既存および新規の要望両方に対応していくために、どのようにデジタルエンゲージメントに取り組み、設計すべきかを解説します。|
 
+<!-- RHCC -->
+
+| No.          | タイトル          | 概要 |
+| --------------- | -------------- | ---- |
+|1|[Red Hat 製品で金融サービスのセキュリティとコンプライアンスを自動化する](https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d9f3d612-7d2a-432f-88f8-13ef98bf98ea)|Red Hat が金融サービス機関向けに提供する自動化および運用管理ツールが、どのようにインフラストラクチャのセキュリティとコンプライアンス管理を支援しているのか。その詳細をご紹介します。|
+
 ```note
 金融業界様が直面する課題を解決するための様々な情報を、[こちら](https://redhat.lookbookhq.com/l/rh-fsi-hub)に多数掲載しています。ぜひご活用ください。
 ```
@@ -24,14 +30,28 @@ Red Hat の導入事例資料を業種別にまとめています。
 | No.          | タイトル          | 概要 |
 | --------------- | -------------- | ---- |
 |1|[無線アクセスネットワークを仮想化してアジリティ向上と選択肢拡大を実現する](https://redhat-partner.highspot.com/items/60351cb960e9cc5a23a218cd?lfrm=srp.48#1)|無線アクセスネットワークの仮想化により通信事業者が得られる自由度と柔軟性の向上について解説します。ぜひダウンロードしてご確認ください。|
-|2|[ベアメタル上のコンテナで 5G を最適化する](https://redhat-partner.highspot.com/items/60302ed6659e931d719b7dc1?lfrm=srp.9#1)|通信事業者が 5G のためにベアメタル上のコンテナを選んでいる理由を解説します。|
+|2|[ベアメタル上のコンテナで 5G を最適化する](https://redhat-partner.highspot.com/items/602c1fe0998ae40bb9e8d50a?lfrm=srp.0)|通信事業者が 5G のためにベアメタル上のコンテナを選んでいる理由を解説します。|
 |3|[クラウドネイティブなサービス保証によるユーザーエクスペリエンスの向上](https://redhat-partner.highspot.com/items/601c0d5d60e9cc4d60aa892e?lfrm=srp.50#1)|Red Hat と MYCOM OSI は、ネットワーク全体でパフォーマンスとサービス品質を管理するクラウドネイティブ・ソリューションを提供しています。|
+
+<!-- RHCC -->
+
+| No.          | タイトル          | 概要 |
+| --------------- | -------------- | ---- |
+|1|[無線アクセスネットワークを仮想化してアジリティ向上と選択肢拡大を実現する](https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=75f8962f-ae96-44e2-9753-ec031fcfff09)|無線アクセスネットワークの仮想化により通信事業者が得られる自由度と柔軟性の向上について解説します。ぜひダウンロードしてご確認ください。|
+|2|[ベアメタル上のコンテナで 5G を最適化する](https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e74bc38c-d568-4221-94a2-9091b0c42585)|通信事業者が 5G のためにベアメタル上のコンテナを選んでいる理由を解説します。|
+|3|[クラウドネイティブなサービス保証によるユーザーエクスペリエンスの向上](https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=37c71cc7-7439-4bd9-a81c-7c50925f256a)|Red Hat と MYCOM OSI は、ネットワーク全体でパフォーマンスとサービス品質を管理するクラウドネイティブ・ソリューションを提供しています。|
 
 ## 防衛
 
 | No.          | タイトル          | 概要 |
 | --------------- | -------------- | ---- |
 |1|[米軍、フライトシステム構築のために設計を中心とした IT コンサルティングサービスを利用](https://redhat-partner.highspot.com/items/602d5750998ae44476dd5a90?lfrm=srp.44)|米軍が Red Hat Open Innovation Labs と連携して、アジャイルで「人」を中心に据えた設計のベストプラクティスを習得した方法をご紹介します。|
+
+<!-- RHCC -->
+
+| No.          | タイトル          | 概要 |
+| --------------- | -------------- | ---- |
+|1|[米軍、フライトシステム構築のために設計を中心とした IT コンサルティングサービスを利用](https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=7df03ab1-5701-4b71-a6a9-785d25011c74)|米軍が Red Hat Open Innovation Labs と連携して、アジャイルで「人」を中心に据えた設計のベストプラクティスを習得した方法をご紹介します。|
 
 ## 事例
 
