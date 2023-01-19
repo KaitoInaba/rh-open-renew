@@ -455,10 +455,3 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
   </tr>
 
 </table>
-
-## 事例
-
-| No.          | タイトル          | 概要 |
-| --------------- | -------------- | ---- |
-|1|[Red Hat Customer Success Slide Deck](https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e)|Red Hat事例集です。国内・国外企業様の事例をご紹介しています。|
-|2|[Red Hat Customer Success Story](https://www.redhat.com/ja/explore/customer-success-story)|レッドハットが提供するソリューションを活用した国内事例をご紹介します。導入の目的と、課題解決のストーリーから、企業が解決すべき課題の答えが見つかるはずです。|

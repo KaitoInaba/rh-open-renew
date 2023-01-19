@@ -127,9 +127,7 @@ Red Hat の導入事例資料を業種別にまとめています。
 
 </table>
 
-## 事例
 
-| No.          | タイトル          | 概要 |
-| --------------- | -------------- | ---- |
-|1|[Red Hat Customer Success Slide Deck](https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e)|Red Hat事例集です。国内・国外企業様の事例をご紹介しています。|
-|2|[Red Hat Customer Success Story](https://www.redhat.com/ja/explore/customer-success-story)|レッドハットが提供するソリューションを活用した国内事例をご紹介します。導入の目的と、課題解決のストーリーから、企業が解決すべき課題の答えが見つかるはずです。|
+```note
+Red Hatでは本ページ掲載以外にも多くの事例を公開しています。他の事例をお探しの場合、[Red Hat Customer Success Slide Deck](https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e)（Red Hat製品採用事例を集約したPDFファイル）か[Red Hat Customer Success Story](https://www.redhat.com/ja/explore/customer-success-story)（Red Hat製品事例の検索サイト）をご参照ください。
+```
