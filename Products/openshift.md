@@ -55,30 +55,6 @@ sort: 3
 
   <tr>
     <td><!--  ドキュメント名  -->
-        Red Hat OpenShift -- The platform for a hybrid cloud world
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShiftのハイレベルな製品紹介にご利用いただけるプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0882930b-aef5-4054-9585-fc35aa9dce76
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2023/1/23
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
         Red Hat OpenShift Container Platformデータシート
     </td>  
     <td><!--  概要  -->
