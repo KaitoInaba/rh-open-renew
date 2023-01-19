@@ -21,7 +21,7 @@ sort: 3
 ```tip
 **これからRed Hat Partner Training Portalを始める皆様へ**
 
-Red Hat Partner Training Portalトレーニングは幅広い製品をカバーしています。どれから始めようか迷ってしまう方は、ぜひ[Red Hat Partner Training Portalおすすめコース一覧](/assets/docs/OPEN%20Basic%20Step-up%20Guide.pdf)から始めてみてください！
+Red Hat Partner Training Portalトレーニングは幅広い製品をカバーしています。どれから始めようか迷ってしまう方は、ぜひ[Red Hat Partner Training Portalおすすめコース一覧](https://rh-open.github.io/assets/docs/OPEN%20Basic%20Step-up%20Guide.pdf)から始めてみてください！
 ```
 ```note
 Red Hat Partner Training Portalを使ったイベントなども開催されています。ぜひ[こちら](https://redhat-open.connpass.com/event/)でイベントも確認してみてください。
