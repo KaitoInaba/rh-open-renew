@@ -587,7 +587,7 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
     </td>
     <td><!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e49bc626-37e2-412c-b4f9-59f46a059771
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f08202a0-bad2-4298-8c1b-ab59cf0ff35d
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF

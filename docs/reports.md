@@ -71,7 +71,7 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
     <td><!--  資料  -->
       <!--  リンク  -->  
       <a href="
-      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ace9c31d-946c-4440-848e-9b39ad76f78e
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=49e9a05d-d230-46f3-bddd-a611e0340f2f
       " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
         デジタル・トランスフォーメーションの失敗を回避する
