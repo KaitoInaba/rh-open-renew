@@ -459,6 +459,30 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
 
   <tr>
     <td><!--  ドキュメント名  -->
+        Ansible Automation Platform 2.3: リリースの概要
+    </td>
+    <td><!--  概要  -->
+    Ansible Automation Platform 2.3リリースの概要を説明するプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.3
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5091491d-afab-4678-b98c-c987c86a62e7
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2023/1/20
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
         What's new in Red Hat Ansible Automation Platform 2.2
     </td>
     <td><!--  概要  -->
