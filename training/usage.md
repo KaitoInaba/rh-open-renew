@@ -16,12 +16,13 @@ sort: 3
 
 ## Red Hat Partner Training Portalコースカタログ
 - 全トレーニングコースのカタログ　→　[こちら](https://connect.redhat.com/en/training/course-catalog)
-- Red Hat Partner Training Portalおすすめコース一覧　→　[こちら](https://rh-open.github.io/assets/docs/OPEN%20Basic%20Step-up%20Guide.pdf)
 
 ```tip
 **これからRed Hat Partner Training Portalを始める皆様へ**
 
-Red Hat Partner Training Portalトレーニングは幅広い製品をカバーしています。どれから始めようか迷ってしまう方は、ぜひ[Red Hat Partner Training Portalおすすめコース一覧](https://rh-open.github.io/assets/docs/OPEN%20Basic%20Step-up%20Guide.pdf)から始めてみてください！
+Red Hat Partner Training Portalトレーニングは幅広い製品をカバーしています。どれから始めようか迷ってしまう方向けに、本ページの[レッドハット製品情報](https://rh-open.github.io/Products/)以下の[各プロダクトページ] - [03. 学習リソース]にて、ロールごとのおすすめコースを記載したラーニングパスを掲載しております。
+
+ぜひこちらをご参照の上、ご自身のスキル、ロールにあったコースからご学習を開始ください。
 ```
 ```note
 Red Hat Partner Training Portalを使ったイベントなども開催されています。ぜひ[こちら](https://redhat-open.connpass.com/event/)でイベントも確認してみてください。
