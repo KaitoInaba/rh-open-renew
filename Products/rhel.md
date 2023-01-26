@@ -67,10 +67,10 @@ sort: 1
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ea9ba4f0-e2f8-4f45-a115-ac519675f495
+        https://content.redhat.com/us/en/assets/display.html?id=10d10ccc-ba61-4812-9af6-131a800a6f0e
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        PDF
+        PPTX
       </a>
       <!--  リンク先  -->
       <a href="
