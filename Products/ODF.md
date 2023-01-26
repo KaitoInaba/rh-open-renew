@@ -25,8 +25,13 @@ sort: 8
 のフォームからお問合せください。
 ```
 
+```note
+2023/1より、Red Hatのパートナー様へのファイル共有システムがPartner Content Hubより[Red Hat Content Center](https://content.redhat.com/content/rhcc/us/en/homepage-partners.html)へ移行されました。
+こちらに伴いまして本ページのファイルリンクもContent Centerへ差し替えを行なっております。アクセスにおいてトラブルがございましたら、上記のお問い合わせフォームよりお問い合わせください。
+```
+
 <b>
-最終更新日：2023/1/23
+最終更新日：2023/1/26
 </b>
 
 ## 01. 製品説明資料
@@ -124,12 +129,8 @@ sort: 8
 ### 01-03. 提供形態
 
 2022/10/4にODFはRed HatからIBM社へ製品が移管されることとなり、2023年以降はIBM社より開発・提供が行われることとなりました。
-
-Red HatからはOEM製品として引き続きODFの提供が行われますが、現在移管に当たり両社間で協議中でございますので、新規に導入をご検討のお客様については恐れ入りますがRed Hatの担当営業までお問い合わせをお願いいたします。
-
-正式なご提供形態が確定いたしましたら本サイトでもお知らせさせていただきます。
-
-参考：[IBM社プレスリリース](https://newsroom.ibm.com/2022-10-04-IBM-Redefines-Hybrid-Cloud-Application-and-Data-Storage-Adding-Red-Hat-Storage-to-IBM-Offerings)
+こちらに伴い、Red HatからのODF単独での提供は終了となり、OpenShift Platform Plusの機能の一つとして提供が行われます。
+OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご紹介](https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=596cba7d-7765-4ca9-bafb-bfcbc1f3d3a0)をご参照ください。
 
 ### 01-04. ライフサイクル
 

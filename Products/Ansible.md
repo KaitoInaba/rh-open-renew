@@ -20,8 +20,13 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
 のフォームからお問合せください。
 ```
 
+```note
+2023/1より、Red Hatのパートナー様へのファイル共有システムがPartner Content Hubより[Red Hat Content Center](https://content.redhat.com/content/rhcc/us/en/homepage-partners.html)へ移行されました。
+こちらに伴いまして本ページのファイルリンクもContent Centerへ差し替えを行なっております。アクセスにおいてトラブルがございましたら、上記のお問い合わせフォームよりお問い合わせください。
+```
+
 <b>
-最終更新日：2023/1/23
+最終更新日：2023/1/26
 </b>
 
 ## 01. 製品説明資料
