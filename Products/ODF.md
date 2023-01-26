@@ -8,14 +8,6 @@ sort: 8
 
 [Red Hat OpenShift Data Foundation](https://www.redhat.com/ja/technologies/cloud-computing/openshift-container-storage) (旧 Red Hat OpenShift Container Storage) は、コンテナ用ソフトウェア・デファインド・ストレージです。Red Hat OpenShift のデータおよびストレージサービス・プラットフォームとして設計された Red Hat OpenShift Data Foundation は、クラウド全体でアプリケーションを迅速かつ効率的に開発し、デプロイするのに役立ちます。
 
-```tip
-2022/10/4、Red Hat OpenShift Data FoundationはRed HatよりIBM社へ製品移管が行われることが決定されました。
-2023年からはIBM社にてOpenShift Data Foundationの開発・提供が行われる予定ですが、引き続きRed HatからもOEM製品として提供が行われる予定です。
-既存のお客様への影響は最小となるよう調整が行われておりますが、ご不明な点がございましたらRed Hatの担当営業へお問い合わせください。
-
-参考：[IBM社プレスリリース](https://newsroom.ibm.com/2022-10-04-IBM-Redefines-Hybrid-Cloud-Application-and-Data-Storage-Adding-Red-Hat-Storage-to-IBM-Offerings)
-```
-
 ```note
 本ページに記載のリンクの一部は、参照に[Red Hat Content Center](https://content.redhat.com)へのログインが必要です。
 アカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
@@ -26,7 +18,8 @@ sort: 8
 ```
 
 ```note
-2023/1より、Red Hatのパートナー様へのファイル共有システムがPartner Content Hubより[Red Hat Content Center](https://content.redhat.com/content/rhcc/us/en/homepage-partners.html)へ移行されました。
+2023/1より、Red Hatのパートナー様へのファイル共有システムがPartner Content Hubより[Red Hat Content Center](https://content.redhat.com/content/rhcc/us/en/homepage-partners.html)へ移行されました。なお、アクセスにご利用頂くアカウントについてはPartner Content Hubと同じとなりますので、過去Partner Content Hubにアクセスされた方であれば新規にアカウントをご取得いただく必要はございません。
+
 こちらに伴いまして本ページのファイルリンクもContent Centerへ差し替えを行なっております。アクセスにおいてトラブルがございましたら、上記のお問い合わせフォームよりお問い合わせください。
 ```
 
