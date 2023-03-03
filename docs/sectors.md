@@ -162,7 +162,7 @@ Red Hat の導入事例資料を業種別にまとめています。
     <td><!--  資料  -->
       <!--  リンク  -->  
       <a href="
-      https://content.redhat.com/us/en/assets/display.html?id=d9f3d612-7d2a-432f-88f8-13ef98bf98ea
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=92c4cde2-c21d-4040-a6f7-2bceb98fee0f
       " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
         コンテナとマイクロサービス：製造業をアジャイルにする
