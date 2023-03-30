@@ -31,7 +31,7 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
 ```
 
 <b>
-最終更新日：2023/1/26
+最終更新日：2023/3/30
 </b>
 
 ## 01. 製品説明資料
@@ -214,6 +214,32 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
       2023/1/23
     </td>
   </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Application Services サブスクリプションガイド
+    </td>
+    <td><!--  概要  -->
+      Red Hat Application Foundationsの前製品（Red Hat Application Services）のオンラインサブスクリプションガイドです。Red Hat Application Foundationsで提供している価格帯系のうち、Core Editionを選択する場合の考え方やコアのカウント方式についてご参考いただける内容となっています。
+      ※Red Hat Process Automationなど、一部現在では提供していない製品の記述がある点にご留意ください。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/resources/application-services-subscription-guide-detail#section-2
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+         Link
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2023/3/30
+    </td>
+  </tr>
+
   <tr>
     <td><!--  ドキュメント名  -->
       Red Hat Application Fundations 価格体系について

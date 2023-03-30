@@ -24,7 +24,7 @@ sort: 6
 ```
 
 <b>
-最終更新日：2023/1/26
+最終更新日：2023/3/30
 </b>
 
 ## 01. 製品説明資料
@@ -178,6 +178,29 @@ sort: 6
 
   <tr>
     <td> <!--  タイトル  -->
+        Red Hat Advanced Cluster Management for Kubernetes 2.7 Support Matrix
+    </td>
+    <td><!--  概要  -->
+      Red Hat Advanced Cluster Management for Kubernetes 2.7でサポートされる管理対象クラスタとHubのサポート環境を示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.7
+    </td>
+    <td>　<!--  資料  -->
+      <a href="
+        https://access.redhat.com/articles/6978968
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2023/03/30
+    </td>
+  </tr>
+
+  <tr>
+    <td> <!--  タイトル  -->
         Red Hat Advanced Cluster Management for Kubernetes 2.6 Support Matrix
     </td>
     <td><!--  概要  -->
@@ -222,30 +245,6 @@ sort: 6
     </td>
   </tr>
 
-  <tr>
-    <td>
-      <!--  タイトル  -->
-        Red Hat Advanced Cluster Management for Kubernetes 2.4 Support Matrix
-    </td>
-    <td><!--  概要  -->
-      Red Hat Advanced Cluster Management for Kubernetes 2.4でサポートされる管理対象クラスタとHubのサポート環境を示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.4
-    </td>
-    <td>　<!--  資料  -->
-      <a href="
-        https://access.redhat.com/articles/6218901
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        Link
-      </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2022/10/14
-    </td>
-  </tr>
-
 </table>
 
 ## 02. 製品技術資料
@@ -256,30 +255,30 @@ sort: 6
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
+
   <tr>
-    <td><!--  タイトル  -->
-        Red Hat Advanced Cluster Management for Kubernetes Foundations
+    <td> <!--  タイトル  -->
+        アーキテクチャー、コンポーネント、クイックスタートガイドなどの製品の詳細
     </td>
     <td><!--  概要  -->
-      Red Hat Advanced Cluster Management for Kubernetesの製品アーキテクチャを説明し、ハンズオンラボを提供する
-      Partner Training Portalのコンテンツです。
+      Red Hat Advanced Cluster Management for Kubernetesのアーキテクチャ及び構成要素について説明を行った製品ドキュメントです。
     </td>
     <td><!--  対象バージョン  -->
-      -
+      Version 2.7
     </td>
-    <td>
-      <!--  リンク先  -->
+    <td>　<!--  資料  -->
       <a href="
-        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670
+        https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.7/html/about/welcome-to-red-hat-advanced-cluster-management-for-kubernetes#multicluster-architecture
       " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
         Link
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/03/30
     </td>
   </tr>
+
 </table>
 
 ### 02-02. 更新情報

@@ -27,7 +27,7 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
 ```
 
 <b>
-最終更新日：2023/3/8
+最終更新日：2023/3/30
 </b>
 
 ## 01. 製品説明資料
@@ -392,25 +392,24 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat Ansible Automation Platform のリファレンスアーキテクチャ
+      Red Hat Ansible Automation Platform 2.1の導入
     </td>
     <td><!--  概要  -->
       Red Hat Ansible Automation Platformの導入におけるリファレンスアーキテクチャを明示します。
     </td>
     <td><!--  対象バージョン  -->
-      -
+      Version 2.1
     </td>
     <td><!--  リンク先  -->
       <a href="
-        https://access.redhat.com/documentation/en-us/reference_architectures/2021/html-single/deploying_ansible_automation_platform_2.1/index
+        https://access.redhat.com/documentation/ja-jp/reference_architectures/2021/html-single/deploying_ansible_automation_platform_2.1/index
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Link
       </a>
     </td>
-
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/03/30
     </td>
   </tr>
 
