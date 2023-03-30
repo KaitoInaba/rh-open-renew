@@ -17,12 +17,6 @@ sort: 6
 のフォームからお問合せください。
 ```
 
-```note
-2023/1より、Red Hatのパートナー様へのファイル共有システムがPartner Content Hubより[Red Hat Content Center](https://content.redhat.com/content/rhcc/us/en/homepage-partners.html)へ移行されました。なお、アクセスにご利用頂くアカウントについてはPartner Content Hubと同じとなりますので、過去Partner Content Hubにアクセスされた方であれば新規にアカウントをご取得いただく必要はございません。
-
-こちらに伴いまして本ページのファイルリンクもContent Centerへ差し替えを行なっております。アクセスにおいてトラブルがございましたら、上記のお問い合わせフォームよりお問い合わせください。
-```
-
 <b>
 最終更新日：2023/3/30
 </b>
@@ -54,8 +48,8 @@ sort: 6
         PDF
       </a>
     </td>
-    <td><!--  記載確認日  -->
-      2023/1/23
+    <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 </table>
@@ -82,8 +76,8 @@ sort: 6
       https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=6ce93a58-819b-4600-8b6d-f09be9952ed4
       " target="_blank" rel="noreferrer noopener">PDF</a>
     </td>
-    <td><!--  記載確認日  -->
-      2023/1/23
+     <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 
@@ -100,8 +94,8 @@ sort: 6
     <td><!--  資料  -->
       <a href="https://www.redhat.com/ja/success-stories" target="_blank" rel="noreferrer noopener">Link</a>
     </td>
-    <td><!--  記載確認日  -->
-      2022/10/14
+    <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 
@@ -131,8 +125,8 @@ sort: 6
         PDF
       </a>
     </td>
-    <td> <!--  記載確認日  -->
-      2023/1/23
+    <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 </table>
@@ -162,8 +156,8 @@ sort: 6
         Link
       </a>
     </td>
-    <td><!--  記載確認日  -->
-      2022/10/14
+    <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 </table>
@@ -194,8 +188,8 @@ sort: 6
         Link
       </a>
     </td>
-    <td><!--  記載確認日  -->
-      2023/03/30
+    <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 
@@ -217,8 +211,8 @@ sort: 6
         Link
       </a>
     </td>
-    <td><!--  記載確認日  -->
-      2022/11/21
+    <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
   
@@ -240,8 +234,8 @@ sort: 6
         Link
       </a>
     </td>
-    <td><!--  記載確認日  -->
-      2022/10/14
+    <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 
@@ -274,8 +268,8 @@ sort: 6
         Link
       </a>
     </td>
-    <td><!--  記載確認日  -->
-      2023/03/30
+    <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 
@@ -309,8 +303,8 @@ sort: 6
         Link
       </a>
     </td>
-    <td><!--  記載確認日  -->
-      2022/10/14
+    <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 </table>
@@ -340,8 +334,8 @@ sort: 6
         PDF
       </a>
     </td>
-    <td><!--  記載確認日  -->
-      2023/1/23
+    <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 </table>
