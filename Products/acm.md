@@ -42,7 +42,7 @@ sort: 6
     </td>
     <td><!--  資料  -->
       <a href="
-      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=48a7c780-551f-4e98-9755-659566fd5440
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=517649b6-233f-4906-83c6-a5095619bb59
       " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
         PDF
