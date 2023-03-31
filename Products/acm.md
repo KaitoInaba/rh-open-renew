@@ -281,34 +281,6 @@ sort: 6
 
 詳細な更新情報については、 [Red Hat Advanced Cluster Management for Kubernetes製品マニュアル](https://access.redhat.com/documentation/ja-jp/red_hat_advanced_cluster_management_for_kubernetes) より、対象のバージョンのリリースノートをご確認ください。
 
-<table>
-  <tr><!-- 行1（見出し）-->
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-  <tr>
-    <td><!--  タイトル  -->
-      What's New in Advanced Cluster Management 2.4 Q4 CY21
-    </td>
-    <td><!--  概要  -->
-      Advanced Cluster Management 2.4における更新情報を学べる、Red Hat Partner Training Portalのコンテンツです。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.4
-    </td>
-    <td><!--  資料  -->
-      <a href="
-        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44694648
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-</table>
-
 ## 03. 学習リソース
 
 <table>
