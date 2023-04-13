@@ -17,13 +17,10 @@ sort: 1
 のフォームからお問合せください。
 ```
 
-```tips
-本ページに記載のリンクの一部は、参照に[Red Hat Content Center](https://content.redhat.com/content/rhcc/us/en/homepage-partners.html)へのログインが必要です。
-アカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
+```tip
+Red Hat Enterprise LinuxのAdd-onであるSmart Managementは、2023/4/1より名称がRed Hat Satelliteに変更されます。
 
-掲載資料へのお問合せ、資料のリンク切れなどは
-[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform)
-のフォームからお問合せください。
+本変更に伴うSKU番号や価格、バンドルの内容に変更はございません。
 ```
 
 <b>
