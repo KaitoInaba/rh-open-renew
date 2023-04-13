@@ -21,7 +21,7 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
 ```
 
 <b>
-最終更新日：2023/3/30
+最終更新日：2023/4/13
 </b>
 
 ## 01. 製品説明資料
@@ -404,6 +404,29 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
     </td>
     <td>
       <!--  記載確認日  -->2023/3/30
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Managed node requirements（管理対象ノードの要件）
+    </td>
+    <td><!--  概要  -->
+      Red Hat Ansible Automation Platformによって管理される対象ノードについて、管理可能とするための設定要件を明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.x
+    </td>
+    <td><!--  リンク先  -->
+      <a href="
+        https://docs.ansible.com/ansible-core/2.14/installation_guide/intro_installation.html#managed-node-requirements
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/4/13
     </td>
   </tr>
 

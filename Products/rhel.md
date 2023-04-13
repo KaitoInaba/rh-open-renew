@@ -17,8 +17,17 @@ sort: 1
 のフォームからお問合せください。
 ```
 
+```tips
+本ページに記載のリンクの一部は、参照に[Red Hat Content Center](https://content.redhat.com/content/rhcc/us/en/homepage-partners.html)へのログインが必要です。
+アカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
+
+掲載資料へのお問合せ、資料のリンク切れなどは
+[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform)
+のフォームからお問合せください。
+```
+
 <b>
-最終更新日：2023/3/30
+最終更新日：2023/4/13
 </b>
 
 ## 01. 製品説明資料
@@ -440,6 +449,30 @@ sort: 1
     </td>
     <td>
       <!--  記載確認日  -->2023/3/30
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Red Hat Enterprise Linux 9 コンテンツ
+    </td>
+    <td><!--  概要  -->
+      RHELのサブスクリプションにおいてサポートされるパッケージの一覧を記載
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 9
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://access.redhat.com/documentation/ja-jp/red_hat_enterprise_linux/9/html/package_manifest/content
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/4/13
     </td>
   </tr>
 
