@@ -6,7 +6,7 @@ sort: 1
 
 1. [パートナーコネクトログインページ](https://sso.redhat.com/auth/realms/redhat-external/protocol/saml/clients/redhat?RelayState=%2FDashboard_page)へアクセスを行います。
 
-![picture](/images/001.png) 
+![picture](/https://github.com/RH-OPEN/rh-open.github.io/blob/main/partner-connect/001.png)
 
 1. 表示されたメニューより、[Register for a Red Hat account]を選択します
 
