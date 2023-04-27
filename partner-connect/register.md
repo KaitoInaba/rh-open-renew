@@ -4,14 +4,24 @@ sort: 1
 
 # Red Hat Partner Connect アカウント作成手順
 
+## 前提条件
+
+* メールアドレス
+  * フリーメールなど、パートナー企業様のドメインではないメールアドレスでは登録できません
+* パートナータイプ
+
+## 手順
+
 1. [パートナーコネクトログインページ](https://sso.redhat.com/auth/realms/redhat-external/protocol/saml/clients/redhat?RelayState=%2FDashboard_page)へアクセスを行います。
 
-![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/partner-connect/images/001.png)
+2. 表示されたメニューより、[Register for a Red Hat account]を選択します
 
-1. 表示されたメニューより、[Register for a Red Hat account]を選択します
+   ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/partner-connect/images/001.png)
 
-2. アカウント作成画面が表示されるため、必須項目（*表示）を全て入力頂きましたら画面下の[CREATE　MY ACCOUNT]をクリックして下さい。
+3. アカウント作成画面が表示されるため、必須項目（*表示）を全て入力頂きましたら画面下の[CREATE　MY ACCOUNT]をクリックして下さい。
 下記の注意事項に従いご入力ください。
+
+  ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/partner-connect/images/002.png)
 
    - Account typeは必ず「Corporate」（企業）をご選択下さい。登録後に変更はできません。「Personal」（個人）を選択されますと、パートナー企業への紐付けができません。
 
@@ -23,17 +33,39 @@ sort: 1
 
    - “Company infomation”の『Country/Region』はプルダウンよりJapanをご選択下さい。
 
-1. 住所の検証の画面がポップアップ表示されます。[Keep entered addres]をクリックして下さい。
-クリック後ポップアップが閉じ前画面に戻り、数秒の後に次画面へ遷移します。
-   * 後ほどパートナー企業アカウントへ紐付けが完了すると、住所情報は登録済みの企業情報で上書きされますので、ここではご入力いただいた情報をそのまま適用します
+1. 住所の検証の画面がポップアップ表示されます。[Keep entered addres]をクリックして下さい。クリック後ポップアップが閉じ前画面に戻り、数秒の後に次画面へ遷移します。
+
+  ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/partner-connect/images/003.png)
 
 1. 登録したログインIDを既存の『貴社パートナー企業アカウント』へ追加紐付けして頂きます。以下の画面で[既存のパートナ企業に参加する]をクリックして下さい。
 
+  ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/partner-connect/images/004.png)
+
 2. メールアドレスと国を確認し、『パートナータイプ』を選択します。パートナータイプをご選択のうえ、画面下の[次のステップ]を選択ください。貴社のパートナータイプがご不明な場合、お手数おかけしますがRed Hatの担当営業までお問い合わせください。
 
-3. 表示された会社名から貴社名称にチェックし、[申請]ボタンをクリックして下さい。
+  ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/partner-connect/images/005.png)
+
+
+   英語表記にて申請を実施されている場合、下記の対応表をもとにパートナータイプを特定ください。
+
+   |英語表記|日本語表記|
+   | ---- | ---- |
+   |Independent Software Vendor|独立系ソフトウェアベンダー|
+   |Solution Provider|リセラー|
+   |Training|Training|
+   |System Integrator|システムインテグレーター|
+   |Alliance Partners/OEM|アライアンスパートナー/OEM|
+   |Embedded|Embedded|
+   |Service/Cloud Provider|サービス/クラウドプロバイダー|
+
+
+1. 表示された会社名から貴社名称にチェックし、[申請]ボタンをクリックして下さい。
+
+  ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/partner-connect/images/006.png)
 
 4. 正常に申請が完了しますと、こちらの画面が表示されます。画面下[プログラム]をクリックしホーム画面に戻って下さい。もしくはそのままタブを閉じて画面終了して下さい。
+
+  ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/partner-connect/images/007.png)
 
 5. ご登録頂いたメールアドレス宛てにシステムから以下のメールが配信されます。メール本文内のURLをクリックします。
 
@@ -60,7 +92,12 @@ sort: 1
 
 1. 遷移した画面にて[パートナーセンターにログイン]をクリックします。
 
+  ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/partner-connect/images/008.png)
+
 1. [REDHAT.COMアカウントへのログイン]をクリックして下さい。
+
+  ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/partner-connect/images/009.png)
 
 1. 下記のPARTNER DASHBOARD画面が表示されれば、本手順は終了です。
 
+  ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/partner-connect/images/010.png)
