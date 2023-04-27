@@ -4,20 +4,19 @@ sort: 4
 
 # Red Hat Partner Connect
 
-Red Hat Partner Connectは、
+![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/partner-connect/images/top.png)
 
-Partner Training Portal
+[Red Hat Partner Connect](https://connect.redhat.com/)は、Red Hatがグローバル共通で提供しているパートナー様向けのポータルサイトです。
+ビジネスパートナー様とテクノロジーパートナー様向けに2種類のサイトが用意されており、本サイトでは主にビジネスパートナー様向けに使用方法、活用方法の発信を行っています。
 
-Red Hat Content Center
+ビジネスパートナー様向けのサイトでは、Red Hat製品の提案・学習に活用いただける下記のサービスをご提供しています。
 
-Parnter News on Demand
+|サービス|説明|
+|---|---|
+|[Partner Training Portal]()|Red Hatの製品について自己学習頂けるe-Learninngシステムです。詳細はリンク先をご覧ください。|
+|Red Hat Content Center|製品ドキュメントやホワイトペーパーなど、パートナー様向けの製品ドキュメント提供サイトです。|
+|Parnter News on Demand|パートナー様向けのニュースレター配信システムです。。興味のある分野・製品や配信の頻度を設定可能のため、ご自身の状況に合わせた購読が可能です。|
+|Red Hat Product Demo System|パートナー様がRed Hat製品のデモを実施するためのサンドボックス環境を提供するサービスです。Red Hat製品の導入済みのサンドボックス環境をセルフサービスで発行・利用可能な他、デモのためのユースケースが提供されています。|
 
-Red Hat Product Demo System
-
-Parner Launch Pad
-
-Partner Concierge Program
-
-Ecosystem Catalog
-
-Red Hat Marketplace
+上記の機能は、Red Hatパートナー企業様の社員であれば全て無料、かつRed Hatへの申請等不要を伴わずセルフサービスで利用開始が可能です。
+利用開始までの流れは[Partner Connectアカウント作成手順]()をご確認ください。
