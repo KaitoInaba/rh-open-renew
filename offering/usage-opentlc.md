@@ -1,8 +1,8 @@
 ---
-sort: 1
+sort: 5
 ---
 
-# Red Hat Partner Training Portalコース受講手順
+# OPENTLC利用手順
 
 本手順では、Red Hat Partner Training Portalを使用してコースを受講する手順をご紹介します。
 

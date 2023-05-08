@@ -1,5 +1,5 @@
 ---
-sort: 1
+sort: 4
 ---
 
 # Red Hat Partner Training Portalコース受講手順
