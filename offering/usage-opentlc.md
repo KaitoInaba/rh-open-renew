@@ -41,6 +41,6 @@ sort: 5
 
    ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/offering/images/opentlc/006.png?raw=true)
 
-7. アカウントが作成できたため、ログインの確認を行います。[OPENTLC](https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinklp%3D42541521)にアクセスを行い、作成したアカウントを使用してログインを行います。ログインが成功すれば本手順は終了です。
+7. アカウントが作成できたため、ログインの確認を行います。[OPENTLC](https://labs.opentlc.com/)にアクセスを行い、作成したアカウントを使用してログインを行います。ログインが成功すれば本手順は終了です。
 
    ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/offering/images/opentlc/007.png?raw=true)

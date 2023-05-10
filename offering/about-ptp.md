@@ -4,7 +4,7 @@ sort: 3
 
 # Red Hat Partner Training Portal
 
- ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/training-portal/images/top.png?raw=true)
+ ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/offering/images/ptp/top.png?raw=true)
 
 ## Red Hat Partner Training Portalとは？
 
@@ -28,7 +28,7 @@ Red Hat Partner Training Portal(以下、PTP)は、Red Hat提供するパート�
 
 ## OPENTLC
 
- ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/training-portal/images/opentlc.png?raw=true)
+ ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/offering/images/ptp/opentlc.png?raw=true)
  
 [OPENTLC](https://labs.opentlc.com/)は、Partner Training Portalで提供される学習コース中のハンズオンにて使用するラボ環境です。
 クラウド上でRHELやOCP、Ansible等のRed Hat製品導入済みのサンドボックス環境を提供します。
