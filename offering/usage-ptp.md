@@ -17,15 +17,15 @@ sort: 4
 
 1. Partner Connectのダッシュボード画面が表示されるため、[Start learning]をクリックしPartner Training Portalへ移動します。
 
-   ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/training-portal/images/001.png?raw=true)
+   ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/offering/images/ptp/001.png?raw=true)
 
 1. Partner Training Portalの画面が表示されるため、画面左上の[カタログ]を選択します
 
-   ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/training-portal/images/002.png?raw=true)
+   ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/offering/images/ptp/002.png?raw=true)
 
 1. 画面左部にフィルタメニューが表示されるため、以下の条件を選択し受講対象となるコースを検索します。
 
-   ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/training-portal/images/003.png?raw=true)
+   ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/offering/images/ptp/003.png?raw=true)
 
    - 配送方法：Course
    - Role : ご自身のロールを選択
@@ -34,11 +34,11 @@ sort: 4
   
 2. 表示されているコース一覧から、受講するコースの”再生”ボタンを選択します
 
-   ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/training-portal/images/004.png?raw=true)
+   ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/offering/images/ptp/004.png?raw=true)
 
 3. ブラウザの別ウィンドウにてコース画面が立ち上がるため、画面に従ってコースを受講します。
 
-   ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/training-portal/images/005.png?raw=true)
+   ![picture](https://github.com/KaitoInaba/rh-open-renew/blob/main/offering/images/ptp/005.png?raw=true)
 
 ## コースが正常に動作しないときは
 
