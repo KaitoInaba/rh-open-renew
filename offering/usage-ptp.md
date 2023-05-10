@@ -2,7 +2,7 @@
 sort: 4
 ---
 
-# Red Hat Partner Training Portalコース受講手順
+# Red Hat Partner Training Portal利用手順
 
 本手順では、Red Hat Partner Training Portalを使用してコースを受講する手順をご紹介します。
 
@@ -47,3 +47,11 @@ sort: 4
 * 最新版のGoogle Chromeを利用する
 * ポップアップブロックを無効にする
 * ブラウザのキャッシュクリア、またはシークレットモードを使用してコース開始する
+
+```tip
+**これからRed Hat Partner Training Portalを始める皆様へ**
+
+Red Hat Partner Training Portalトレーニングは幅広い製品をカバーしています。どれから始めようか迷ってしまう方向けに、本ページの[レッドハット製品情報](https://rh-open.github.io/Products/)以下の[各プロダクトページ] - [03. 学習リソース]にて、ロールごとのおすすめコースを記載したラーニングパスを掲載しております。
+
+ぜひこちらをご参照の上、ご自身のスキル、ロールにあったコースからご学習を開始ください。
+```
