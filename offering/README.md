@@ -108,5 +108,3 @@ sort: 1
   </tr>
 
 </table>
-
-{% include list.liquid all=true %}
