@@ -66,12 +66,12 @@ sort: 1
         https://rh-open.github.io/offering/usage-ptp.html
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        上記Partner Training Portalにてコース受講を開始するための手順です。<br>
+        Red Hat Partner Training Portal利用手順
       </a>
     </td>
     <!--- 内容 --->
     <td>
-        iii
+        上記Partner Training Portalにてコース受講を開始するための手順です。
     </td>
   </tr>
 
