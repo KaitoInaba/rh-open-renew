@@ -23,14 +23,15 @@ sort: 4
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/ptp/002.png?raw=true)
 
-1. 画面左部にフィルタメニューが表示されるため、以下の条件を選択し受講対象となるコースを検索します。
+1. 画面左部にフィルタメニューが表示されるため、以下の条件を選択し受講対象となるコースを検索します。下記以外の条件（言語等）は必要に応じご選択ください。
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/ptp/003.png?raw=true)
 
-   - 配送方法：Course
+   - 配送方法：検索対象に応じ、下記いずれかを選択
+     - 特定のコースを検索する場合："Course"を選択
+     - ラーニングパス（Accreditation）を検索する場合："Accreditation Path"を選択
    - Role : ご自身のロールを選択
-   - Product：受講対象のプロダクトを選択
-     - 言語など上記以外の条件は必要に応じご選択ください
+   - Product：学習するプロダクトを選択
   
 2. 表示されているコース一覧から、受講するコースの”再生”ボタンを選択します
 
