@@ -13,11 +13,10 @@ sort: 5
 
 ## OPENTLCアカウント作成手順
 
-OPENTLCのアカウントは、OPENTLCを使用したハンズオンラボが含まれるPTPコースの学習を開始することで自動的にアカウント作成が実施され、アカウントがメールで通知されます。<br>
+OPENTLCのアカウントは、OPENTLCを使用したハンズオンラボが含まれるPTPコースの学習を開始することで自動的にアカウントが作成され、利用者にメールで通知されます。<br>
 本手順では、該当するコースである"Red Hat OpenShift 4 Foundations"の学習を開始頂きOPENTLCアカウントの作成を行います。
 
    - アカウント作成のための手順のため、コースの内容については実施いただく必要はございません。<br>
-
 
 1. [こちらのURL](https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinklp%3D42541521)にアクセスを行います。
 アクセス後Red Hat Partner Connectのログイン画面が表示されるため、ログインを行います。
