@@ -22,7 +22,7 @@ Red Hat Partner Training Portal(以下、PTP)は、Red Hat提供するパート�
 |Channel|技術やサービスで纏められた各種コンテンツのセット。サブスクライブして利用|
 |Elecctive Path|営業、SE向けのコースのセット|
 
-ご利用方法については[Partner Training Portalご利用手順](https://kaitoinaba.github.io/rh-open-renew/offering/usage-ptp.html)をご参照ください。
+ご利用方法については[Partner Training Portal利用手順](https://kaitoinaba.github.io/rh-open-renew/offering/usage-ptp.html)をご参照ください。
 
 <hr>
 
