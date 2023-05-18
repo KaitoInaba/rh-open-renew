@@ -6,9 +6,9 @@ sort: 5
 
 本手順では、Red Hat Partner Training Portalに付随するラボ環境であるOPENTLCの利用手順を記載します。
 
-## 目次
+## Tabele of Contents
 - [OPENTLC利用手順](#opentlc利用手順)
-  - [目次](#目次)
+  - [Tabele of Contents](#tabele-of-contents)
   - [前提条件](#前提条件)
   - [アカウント作成手順](#アカウント作成手順)
   - [ラボ環境デプロイ手順](#ラボ環境デプロイ手順)
@@ -54,9 +54,13 @@ OPENTLCのアカウントは、OPENTLCを使用したハンズオンラボが含
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/006.png?raw=true)
 
-7. アカウントが作成できたため、ログインの確認を行います。[OPENTLC](https://labs.opentlc.com/)にアクセスを行い、作成したアカウントを使用してログインを行います。ログインが成功すれば本手順は終了です。
+7. アカウントが作成できたため、ログインの確認を行います。[OPENTLC](https://labs.opentlc.com/)にアクセスを行い、作成したアカウントを使用してログインを行います。
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/007.png?raw=true)
+
+以上でアカウント作成手順は終了です。
+
+<hr>
 
 ## ラボ環境デプロイ手順
 
@@ -89,11 +93,10 @@ OPENTLCのアカウントは、OPENTLCを使用したハンズオンラボが含
 2. リクエスト後、デプロイ状況が複数回メールで送信され、最終的にリクエストから1時間程度で環境へのアクセス情報がメールで送付されます。メール記載の情報を使用し環境にアクセスください。 <br>
 メールにはハイパーリンクが含まれることから、お使いのメールシステムによっては迷惑メールへと振り分けられる場合がございます。メールが受信できない場合には迷惑メールボックスも合わせてご確認ください。
 
-なお、環境は数時間で自動的に停止状態となり、数日間で自動的に消去されますので、作業終了後、利用者側で環境の削除を行う必要はありません。
-
    ※ メールの文言や停止・削除時間はリクエスト対象によって異なります
 
  - デプロイ開始時メール例
+
 ```
 件名：Your Red Hat OPENTLC service provision request for OTLC-LAB-xxxxx-redhat.com-PROD_ELT_HANDS_ON_OPENSHIFT_410-xxxxxx has started.
 差出人：noreply@opentlc.com
@@ -106,6 +109,7 @@ The new and improved UI for RHPDS is live. Please visit demo.redhat.com to easil
 ```
 
  - デプロイ進捗メール例
+
 ```
 件名：Your Red Hat OPENTLC service provision request for OTLC-LAB-xxxxx-redhat.com-PROD_ELT_HANDS_ON_OPENSHIFT_410-xxxx has updated.
 差出人：noreply@opentlc.com
@@ -159,6 +163,12 @@ users:
 ~~ 省略 ~~
 ```
 
+以上でラボ環境のデプロイ手順は終了です。<br>
+なお、環境は数時間で自動的に停止状態となり、数日間で自動的に消去されますので、作業終了後、利用者側で環境の削除を行う必要はありません。
+停止・削除予定の延伸や、停止してしまった環境の再起動については、次の[ラボ環境操作手順](#ラボ環境操作手順)をご参照ください。
+
+<hr>
+
 ## ラボ環境操作手順
 
 1. [OPENTLC](https://labs.opentlc.com/)にログインします。
@@ -200,3 +210,5 @@ See https://www.opentlc.com/lifecycle/ for more on application runtime and lifet
 
 Have a nice day! - Red Hat Red Hat OPENTLC team
 ```
+
+以上でラボ環境操作手順は終了です。
