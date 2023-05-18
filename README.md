@@ -4,4 +4,9 @@
 
 [Red Hat Partner One-Stop](https://rh-open.github.io/) ページ は、Red Hat パートナーの皆様のイネーブルメントを効率的にご支援するためのワンストップサイトです。
 
-{% include list.liquid all=true %}
+## [Red Hatからのオファリング](offering)
+トレーニングコンテンツやその利用情報など、Red Hatがパートナー様向けに提供する各種オファリングについてご説明いたします。
+
+## [レッドハット製品情報](Products)
+
+## [事例・レポート関連情報](docs)
