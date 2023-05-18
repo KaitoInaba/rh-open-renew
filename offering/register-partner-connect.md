@@ -91,6 +91,9 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
       
       ※ メール受信まで5〜15分程度お待ち下さい。メールが届かない場合は[こちら](https://www.redhat.com/wapps/sfconnector)からログインして下さい。
       
+   ```tip
+   メールにはハイパーリンクが含まれることから、お使いのメールシステムによっては迷惑メールへと振り分けられる場合がございます。メールが受信できない場合には迷惑メールボックスも合わせてご確認ください。
+   ```
 
 1. 遷移した画面にて `パートナーセンターにログイン` をクリックします。
 
@@ -103,3 +106,7 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
 1. 下記のPARTNER DASHBOARD画面が表示されれば、本手順は終了です。
 
      ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/010.png?raw=true)
+
+   ```tip
+   アカウント作成に問題が発生した場合、お手数をおかけしますが弊社の[APAC Partner Helpdesk](apac-partner-helpdesk@redhat.com)に症状をメールでご連絡ください。ご記入は日本語で問題ございません。
+   ```
