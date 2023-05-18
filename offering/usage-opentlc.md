@@ -6,6 +6,13 @@ sort: 5
 
 本手順では、Red Hat Partner Training Portalに付随するラボ環境であるOPENTLCの利用手順を記載します。
 
+## 目次
+- [OPENTLC利用手順](#opentlc利用手順)
+  - [目次](#目次)
+  - [前提条件](#前提条件)
+  - [OPENTLCアカウント作成手順](#opentlcアカウント作成手順)
+  - [OPENTLCラボ環境デプロイ手順](#opentlcラボ環境デプロイ手順)
+
 ## 前提条件
 
 * Red Hat Partner Connectのアカウントを作成済みであること。
@@ -21,15 +28,15 @@ OPENTLCのアカウントは、OPENTLCを使用したハンズオンラボが含
 1. [こちらのURL](https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinklp%3D42541521)にアクセスを行います。
 アクセス後Red Hat Partner Connectのログイン画面が表示されるため、ログインを行います。
 
-1. Accreditation "Red Hat Sales Engineer Specialist - Container Platgorm"が表示されるため、画面上の「登録する」をクリックします。
+1. Accreditation "Red Hat Sales Engineer Specialist - Container Platgorm"が表示されるため、画面上の `登録する` をクリックします。
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/001.png?raw=true)
 
-2. 登録成功を示すポップアップが表示されるため、右上の「×」ボタンをクリックしポップアップを閉じます。
+2. 登録成功を示すポップアップが表示されるため、`×` ボタンをクリックしポップアップを閉じます。
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/002.png?raw=true)
 
-3. 画面を下にスクロールし、"Red Hat OpenShift 4 Foundations - 日本語"欄の「再生」をクリックします。
+3. 画面を下にスクロールし、"Red Hat OpenShift 4 Foundations - 日本語"欄の `再生` をクリックします。
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/003.png?raw=true)
   
@@ -42,7 +49,7 @@ OPENTLCのアカウントは、OPENTLCを使用したハンズオンラボが含
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/005.png?raw=true)
 
-6. メールに記載された、『ユーザー名』、『仮パスワード』、『新パスワード』を入力し、Submit します。
+6. メールに記載された、『ユーザー名』、『仮パスワード』、『新パスワード』を入力し、`Submit` します。
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/006.png?raw=true)
 
@@ -52,7 +59,7 @@ OPENTLCのアカウントは、OPENTLCを使用したハンズオンラボが含
 
 ## OPENTLCラボ環境デプロイ手順
 
-1. OPENTLCにログインします。
+1. [OPENTLC](https://labs.opentlc.com/)にログインします。
 
 2. 画面左側の `サービス` に<b>マウスオーバー（クリックはしない）</b>することでメニューが表示されるため、表示されたメニューから `カタログ` をクリックします。
 
@@ -71,8 +78,12 @@ OPENTLCのアカウントは、OPENTLCを使用したハンズオンラボが含
  - Accept T & C's : チェックボックスにチェック
  - Purpose : ラボ環境を使用する目的を選択（迷う場合は、"Training - As part of course"をご選択ください）。
 
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/deploy-003.png?raw=true)
+   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/deploy-004.png?raw=true)
 
 5. "要求" 画面に遷移すれば、ラボ環境のリクエストは終了です（"承認状態"のステータスが"承認待ち"と表示されますが、利用者側での操作や依頼は不要です）。
 
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/deploy-003.png?raw=true)
+   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/deploy-005.png?raw=true)
+
+6. リクエスト後、1時間程度で環境へのアクセス情報がメールで送付されますので、メール記載の情報を使用し環境にアクセスください。  
+   なお、環境は数時間で自動的に停止状態となり、数日間で自動的に消去されますので、作業終了後、利用者側で環境の削除を行う必要はありません。
+   ※ メールの文言や停止・削除時間はリクエスト対象によって異なります
