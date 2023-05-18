@@ -108,5 +108,5 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
      ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/010.png?raw=true)
 
 ```tip
-アカウント作成に問題が発生した場合、お手数をおかけしますが弊社の [APAC Partner Helpdesk(mailto:apac-partner-helpdesk@redhat.com)](apac-partner-helpdesk@redhat.com)に症状をメールでご連絡ください。ご記入は日本語で問題ございません。
+アカウント作成に問題が発生した場合、お手数をおかけしますが弊社の [APAC Partner Helpdesk(apac-partner-helpdesk@redhat.com)](mailto:apac-partner-helpdesk@redhat.com)に症状をメールでご連絡ください。ご記入は日本語で問題ございません。
 ```
