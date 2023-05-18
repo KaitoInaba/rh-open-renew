@@ -17,7 +17,7 @@ sort: 5
 ## 前提条件
 
 * Red Hat Partner Connectのアカウントを作成済みであること。
-  * 作成未了の場合、[Red Hat Partner Connect アカウント作成手順](https://rh-open.github.io/offering/register-partner-connect.html)をご参照の上作成を実施ください。
+  * 作成未了の場合、[Red Hat Partner Connect アカウント作成手順](register-partner-connect.html)をご参照の上作成を実施ください。
 
 ## アカウント作成手順
 
