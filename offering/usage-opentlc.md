@@ -49,3 +49,30 @@ OPENTLCのアカウントは、OPENTLCを使用したハンズオンラボが含
 7. アカウントが作成できたため、ログインの確認を行います。[OPENTLC](https://labs.opentlc.com/)にアクセスを行い、作成したアカウントを使用してログインを行います。ログインが成功すれば本手順は終了です。
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/007.png?raw=true)
+
+## OPENTLCラボ環境デプロイ手順
+
+1. OPENTLCにログインします。
+
+2. 画面左側の `サービス` に<b>マウスオーバー（クリックはしない）</b>することでメニューが表示されるため、表示されたメニューから `カタログ` をクリックします。
+
+   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/deploy-001.png?raw=true)
+
+2. サービスカタログより、デプロイを行う環境の製品カテゴリを選択します（画像例では"OPENTLC OpenShift 4 Labs"を選択）。
+
+   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/deploy-002.png?raw=true)
+
+3. 画面右側にデプロイ可能な環境の一覧が表示されるため、対象の環境の `オーダー` ボタンをクリックします（画像例では"Hands On with OpenShift 4.10"を選択）。
+
+   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/deploy-003.png?raw=true)
+
+4. オーダーの申請画面が表示されるため、下記の項目を入力し `送信` をクリックします。
+
+ - Accept T & C's : チェックボックスにチェック
+ - Purpose : ラボ環境を使用する目的を選択（迷う場合は、"Training - As part of course"をご選択ください）。
+
+   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/deploy-003.png?raw=true)
+
+5. "要求" 画面に遷移すれば、ラボ環境のリクエストは終了です（"承認状態"のステータスが"承認待ち"と表示されますが、利用者側での操作や依頼は不要です）。
+
+   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/deploy-003.png?raw=true)
