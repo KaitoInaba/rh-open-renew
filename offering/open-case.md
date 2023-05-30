@@ -18,7 +18,7 @@ sort: 6
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/ptp/case_002.png?raw=true)
 
-4. 表示されたメニューより [Need help?]を選択します。続けて選択肢が表示されますので、 `Contact Support as a Business Partner` を選択します。
+4. 表示されたメニューより `Need help?` を選択します。続けて選択肢が表示されますので、 `Contact Support as a Business Partner` を選択します。
 
 5.  "ケースの編集" 画面が表示されますので、件名と説明に症状をご記入のうえ `登録` を選択してください。
    - 記載は日本語で問題ございません
