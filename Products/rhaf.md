@@ -309,9 +309,9 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
       Red Hat Application Services 製品のアップデートとサポートポリシー
     </td>
     <td><!--  概要  -->
-      Red Hat Application Foundationsのコンポーネントを含む、Red Hat Application Servicesの製品ライフサイクルポリシー、及びサポート終了日を明示します。
+      Red Hat Application Foundationsのコンポーネントを含む、Red Hat Application Servicesの製品ライフサイクルポリシー、及びサポート終了日を明示します。<br>
       ※ こちらは日本語版のリンクを掲載しておりますが、お使いの環境によっては英語版へリダイレクトが行われる場合がございます。
-      英語版のページが表示された場合、お手数ですがサイト右上の地球儀マークより日本語表記へ切り替えてご参照ください。
+      英語版のページが表示された場合、お手数ですがサイト右上の地球儀マークより日本語表記へ切り替えてご参照ください。<br>
       ※ページ冒頭に単体名称の記載がないコンポーネントについては、ページ内「Red Hat Integration」欄に記載されています。
     </td>
     <td><!--  対象バージョン  -->
