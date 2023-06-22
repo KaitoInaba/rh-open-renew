@@ -257,7 +257,7 @@ sort: 7
     <td>
       <!--  リンク先  -->
       <a href="
-        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44914286
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=8eaf71d2-ab60-4f32-8446-0bee9971a0e3
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Link
