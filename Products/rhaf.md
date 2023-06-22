@@ -435,6 +435,55 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
       <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Fuseサイジング情報
+    </td>
+    <td><!--  概要  -->
+      Red Hat Fuseのサイジングをするにあたり、参考となる情報を提供します。環境としてはOpenShift環境にFuseアプリケーションをデプロイすることを想定したものとなっています。お客様の実際のユースケースに即したものではないため、あくまでも参考情報としての位置づけです
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 7
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c9d26881-b731-4206-9454-b26fdf432c0a
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/6/12
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat AMQ Streams サイジング情報
+    </td>
+    <td><!--  概要  -->
+      Red Hat AMQ Streams のサイジングをするにあたり、参考となる情報を提供します。お客様の実際 のユースケースに即したものではないため、あくまでも参考情報としての位置づけです。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 7
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d0f8ff32-4d25-48fc-95d7-4085305f7ee8
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/6/12
+    </td>
+  </tr>
+
 </table>
 
 ## 02. 製品技術資料
