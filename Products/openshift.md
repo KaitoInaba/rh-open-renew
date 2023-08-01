@@ -1,5 +1,5 @@
 ---
-sort: 3
+sort: 4
 ---
 
 # Red Hat OpenShift Container Platform
