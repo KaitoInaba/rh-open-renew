@@ -758,7 +758,7 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
         https://www.redhat.com/ja/resources/openshift-skill-paths-brief
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        PDF
+        Link
       </a>
     </td>
     <td>

@@ -270,7 +270,7 @@ OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご�
     <td>
       <!--  リンク先  -->
       <a href="  
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=24fad5b4-06cf-411d-864f-280122828183
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c3575a2c-b115-4911-b82f-d1faec86c611
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
