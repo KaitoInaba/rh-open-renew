@@ -9,22 +9,13 @@ sort: 5
 ## Tabele of Contents
 - [OPENTLC利用手順](#opentlc利用手順)
   - [Tabele of Contents](#tabele-of-contents)
-  - [前提条件](#前提条件)
-  - [アカウント作成手順](#アカウント作成手順)
   - [ラボ環境デプロイ手順](#ラボ環境デプロイ手順)
   - [ラボ環境操作手順](#ラボ環境操作手順)
 
-## 前提条件
-
-* Red Hat Partner Connectのアカウントを作成済みであること。
-  * 作成未了の場合、[Red Hat Partner Connect アカウント作成手順](register-partner-connect.html)をご参照の上作成を実施ください。
-
-## アカウント作成手順
-
 ```note
 Partner Training Portalのコンテンツ改訂に伴い、OpenTLCの新規ユーザ登録は終了いたしました。
-Red Hat製品のハンズオンを実施されたい方は、[Red Hat Developer](https://developers.redhat.com/learn)でご利用いただける、Webベースのラボ環境などをご利用ください。
 
+Red Hat製品のハンズオンを実施されたい方は、Partner Training Portal内のDeliveryロールのコースにて利用できるラボ環境や、[Red Hat Developer](https://developers.redhat.com/learn)でご利用いただけるWebベースのラボ環境などをご利用ください。
 ```
 
 <hr>
