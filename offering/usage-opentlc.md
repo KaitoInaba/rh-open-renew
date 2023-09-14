@@ -21,42 +21,11 @@ sort: 5
 
 ## アカウント作成手順
 
-OPENTLCのアカウントは、OPENTLCを使用したハンズオンラボが含まれるPTPコースの学習を開始することで自動的にアカウントが作成され、利用者にメールで通知されます。<br>
-本手順では、該当するコースである"Red Hat OpenShift 4 Foundations"の学習を開始頂きOPENTLCアカウントの作成を行います（アカウント作成のための手順のため、コースの内容については実施いただく必要はございません）。
+```note
+Partner Training Portalのコンテンツ改訂に伴い、OpenTLCの新規ユーザ登録は終了いたしました。
+Red Hat製品のハンズオンを実施されたい方は、[Red Hat Developer](https://developers.redhat.com/learn)でご利用いただける、Webベースのラボ環境などをご利用ください。
 
-1. [こちらのURL](https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinklp%3D42541521)にアクセスを行います。
-アクセス後Red Hat Partner Connectのログイン画面が表示されるため、ログインを行います。
-
-1. Accreditation "Red Hat Sales Engineer Specialist - Container Platgorm"が表示されるため、画面上の `登録する` をクリックします。
-
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/001.png?raw=true)
-
-2. 登録成功を示すポップアップが表示されるため、`×` ボタンをクリックしポップアップを閉じます。
-
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/002.png?raw=true)
-
-3. 画面を下にスクロールし、"Red Hat OpenShift 4 Foundations - 日本語"欄の `再生` をクリックします。
-
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/003.png?raw=true)
-  
-4. 下記画像の通りコースが起動したことを確認後、ウィンドウを閉じコースを終了します（受講を進める必要はありません）。
-   コース起動によりOPENTLCアカウントの利用申請が自動的に実施され、1時間程度 ～ 1日程度でOPENTLCからアカウント作成のメールが届きます。
-
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/004.png?raw=true)
-
-5. メールには『OPENTLC ユーザー名』と『仮パスワード』、『メールアドレス』が記載されています。メールに記載された URL をブラウザで開きます。
-
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/005.png?raw=true)
-
-6. メールに記載された、『ユーザー名』、『仮パスワード』、『新パスワード』を入力し、`Submit` します。
-
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/006.png?raw=true)
-
-7. アカウントが作成できたため、ログインの確認を行います。[OPENTLC](https://labs.opentlc.com/)にアクセスを行い、作成したアカウントを使用してログインを行います。
-
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/007.png?raw=true)
-
-以上でアカウント作成手順は終了です。
+```
 
 <hr>
 
