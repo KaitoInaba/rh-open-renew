@@ -559,6 +559,30 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     </td>
   </tr>
 
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Software Supply Chain Security のご紹介
+    </td>
+    <td><!--  概要  -->
+      ソフトウェアサプライチェーンセキュリティにおいて、Red Hat Advanced Cluster Security + オープンソースを組み合わせ、安全にコンテナを運用頂く方法を紹介するビジネスパートナー様向けプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      4.x
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=139f5816-903d-48cf-b42a-8372d6e7adf5
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/9/27
+    </td>
+  </tr>
+
 </table>
 
 ### 02-02. 更新情報
