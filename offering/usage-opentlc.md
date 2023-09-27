@@ -9,14 +9,39 @@ sort: 5
 ## Tabele of Contents
 - [OPENTLC利用手順](#opentlc利用手順)
   - [Tabele of Contents](#tabele-of-contents)
+  - [アカウント作成手順](#アカウント作成手順)
   - [ラボ環境デプロイ手順](#ラボ環境デプロイ手順)
   - [ラボ環境操作手順](#ラボ環境操作手順)
 
-```note
-Partner Training Portalのコンテンツ改訂に伴い、OpenTLCの新規ユーザ登録は終了いたしました。
+## アカウント作成手順
+OPENTLCのアカウントは、OPENTLCを使用したハンズオンラボが含まれるPTPコースの学習を開始することで自動的にアカウントが作成され、利用者にメールで通知されます。<br>
+本手順では、該当するコースである"Red Hat Enterprise Linux 8: Web Console"の学習を開始頂きOPENTLCアカウントの作成を行います（アカウント作成のための手順のため、コースの内容については実施いただく必要はございません）。
 
-Red Hat製品のハンズオンを実施されたい方は、Partner Training Portal内のDeliveryロールのコースにて利用できるラボ環境や、[Red Hat Developer](https://developers.redhat.com/learn)でご利用いただけるWebベースのラボ環境などをご利用ください。
-```
+1. [こちらのURL](https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D41869883)にアクセスを行います。
+アクセス後Red Hat Partner Connectのログイン画面が表示されるため、ログインを行います。
+
+1. コース "Red Hat Enterprise Linux 8: Web Console"が表示されるため、画面上の `再生` をクリックします。
+
+   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/008.png?raw=true)
+  
+2. 下記画像の通りコースが起動したことを確認後、ウィンドウを閉じコースを終了します（受講を進める必要はありません）。
+   コース起動によりOPENTLCアカウントの利用申請が自動的に実施され、1時間程度 ～ 1日程度でOPENTLCからアカウント作成のメールが届きます。
+
+   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/009.png?raw=true)
+
+3. メールには『OPENTLC ユーザー名』と『仮パスワード』、『メールアドレス』が記載されています。メールに記載された URL をブラウザで開きます。
+
+   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/005.png?raw=true)
+
+4. メールに記載された、『ユーザー名』、『仮パスワード』、『新パスワード』を入力し、`Submit` します。
+
+   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/006.png?raw=true)
+
+5. アカウントが作成できたため、ログインの確認を行います。[OPENTLC](https://labs.opentlc.com/)にアクセスを行い、作成したアカウントを使用してログインを行います。
+
+   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/opentlc/007.png?raw=true)
+
+以上でアカウント作成手順は終了です。
 
 <hr>
 
