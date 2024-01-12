@@ -39,14 +39,13 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
 
    ![picture](images/partner-connect/004-1.png?raw=true)
 
-5. 登録したログインIDを既存の『貴社パートナー企業アカウント』へ追加紐付けして頂きます。以下の画面で `既存のパートナ企業に参加する` をクリックして下さい。
+5. ログイン後の画面にて `既存のパートナ企業に参加する` をクリックして下さい。
 
-   ![picture](images/partner-connect/004.png?raw=true)
+   ![picture](images/partner-connect/004-2.png?raw=true)
 
 6. メールアドレスと国を確認し、『パートナータイプ』を選択します。パートナータイプをご選択のうえ、画面下の `次のステップ` を選択ください。貴社のパートナータイプがご不明な場合、お手数おかけしますがRed Hatの担当営業までお問い合わせください。
 
    ![picture](images/partner-connect/005.png?raw=true)
-
 
    英語表記にて申請を実施されている場合、下記の対応表をもとにパートナータイプを特定ください。
 
