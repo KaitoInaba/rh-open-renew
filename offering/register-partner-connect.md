@@ -17,32 +17,27 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
 
 ## 手順
 
-1. [Red Hat公式サイト](https://www.redhat.com/ja/global/japan)へアクセスを行い、画面右上の `ログイン` を選択します。
+1. [Red Hat Partner Connect](https://connect.redhat.com/)へアクセスを行い、画面右上の `Log in` を選択します。
 
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/000.png?raw=true)
+   ![picture](images/partner-connect/000.png?raw=true)
 
-2. 表示されたメニューより、`Register for a Red Hat account` を選択します
+2. 表示されたメニューより、`Log in for business partners` を選択します
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/001.png?raw=true)
 
-3. アカウント作成画面が表示されるため、下記注意事項を参照のうえ必須項目（*表示）を全て入力頂きましたら、画面下の `CREATE　MY ACCOUNT` をクリックして下さい。
-
-      - <b>Account type</b>は必ず「Corporate」（企業）をご選択下さい。登録後に変更はできません。「Personal」（個人）を選択されますと、パートナー企業への紐付けができません。
-         ※ 誤ってPersonal (個人)で作成した場合には、別のIDを指定し新規作成をお願いします。
-
-      - <b>Choose a Red Hat login</b>(Red Hat ログインID)は、5文字以上で設定して下さい。他のユーザーで使用済みのログインIDは登録することができません。
-
-      - ログインIDは登録後、変更不可です。誤って作成された場合は別の文字列を指定し、新規作成をお願いいたします
-
-      - <b>Personal infomation</b>のEmail addressには必ず所属企業のドメインのアドレスをご登録下さい。所属企業のドメインのメールアドレス以外をご使用頂いた場合、以降のパートナー企業との紐付けが実施できません
-
-      - <b>Company infomation</b> の『Country/Region』はプルダウンより `Japan` をご選択下さい。
+3. 表示されたメニューより、`REDHAT.COMアカウントの登録` を選択します
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/002.png?raw=true)
 
-4. 住所の検証の画面がポップアップ表示されます。`Keep entered address` をクリックして下さい。クリック後ポップアップが閉じ前画面に戻り、数秒の後に次画面へ遷移します。
+4. アカウント作成画面が表示されるため、下記注意事項を参照のうえ必須項目（*表示）を全て入力頂きましたら、画面下の `CREATE　MY ACCOUNT` をクリックして下さい。<b>Email addressには必ず所属企業のドメインのアドレスをご登録下さい。所属企業のドメインのメールアドレス以外をご使用頂いた場合、以降のパートナー企業との紐付けが実施できません</b>
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/003.png?raw=true)
+
+   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/004.png?raw=true)
+
+4. ログイン画面に遷移するため、作成したアカウントにてログインを行います。
+
+   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/004-1.png?raw=true)
 
 5. 登録したログインIDを既存の『貴社パートナー企業アカウント』へ追加紐付けして頂きます。以下の画面で `既存のパートナ企業に参加する` をクリックして下さい。
 
