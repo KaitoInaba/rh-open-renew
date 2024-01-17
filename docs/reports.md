@@ -563,7 +563,7 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
     <td><!--  資料  -->
       <!--  リンク  -->  
       <a href="
-      https://www.redhat.com/ja/resources/6-ways-to-IT-automation-adoption-checklist
+      https://www.redhat.com/ja/resources/automate-red-hat-enterprise-linux-ebook
       " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
         Red Hat Enterprise Linux を自動化する
