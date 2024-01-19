@@ -20,7 +20,7 @@ sort: 4
 
 2. Partner Connectのダッシュボード画面が表示されるため、 `Start learning` をクリックしPartner Training Portalへ移動します。
 
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/ptp/001.png?raw=true)
+   ![picture](images/ptp/001.png?raw=true)
 
 3. Partner Training Portalの画面が表示されるため、画面左上の `カタログ` を選択します
 
