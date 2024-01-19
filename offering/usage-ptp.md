@@ -18,7 +18,7 @@ sort: 4
    - 上記で正常に画面遷移しない場合、[Partner Connectトップページ](https://connect.redhat.com/en/login)より移動しパートナーコネクトにログインください
      - <b>Log in for business partners</b> -> <b>REDHAT.COMアカウントへのログイン</b> -> ユーザID/パスワード入力でログインできます
 
-2. Partner Connectのダッシュボード画面が表示されるため、 `Start learning` をクリックしPartner Training Portalへ移動します。
+2. Partner Connectのダッシュボード画面が表示されるため、 `Learning` - `Start learning` をクリックしPartner Training Portalへ移動します。
 
    ![picture](images/ptp/001.png?raw=true)
 
