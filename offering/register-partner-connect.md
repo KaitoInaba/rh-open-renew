@@ -44,11 +44,11 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
 
    ![picture](images/partner-connect/n003.png?raw=true)
 
-5. Address validationの画面が表示された場合、`Suggested address` にリストされる企業情報の中に、正しいご所属企業情報が記載されている場合は選択のうえ `Accept change`を、正しいご所属企業の情報がない場合・または不明な場合は `Keep entered address` をクリックください。
+5. Address validationの画面が表示された場合、`Suggested address` にリストされる企業情報をご確認頂き、正しいご所属企業情報が記載されている場合は選択のうえ `Accept change`を、正しいご所属企業の情報がない場合・または不明な場合は `Keep entered address` をクリックください。
 
    ![picture](images/partner-connect/n004.png?raw=true)
 
-   選択後下記の画面が表示される場合がございますが、そのまま次のステップにお進みください。
+   選択後下記の画面が表示される場合がございますが、そのまま次のステップにお進みください。本画面は閉じても問題ございません。
    
    ![picture](images/partner-connect/n005.png?raw=true)
 
@@ -74,12 +74,12 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
       |Service/Cloud Provider|サービス/クラウドプロバイダー|
 
 8.  表示された会社名から貴社名称にチェックし、`申請` ボタンをクリックして下さい。
-   
-   ![picture](images/partner-connect/n008.png?raw=true)
-   
-9.  申請後、下記の画面が表示されたら次のステップに進みます。この画面は閉じても問題ございません。
 
-   ![picture](images/partner-connect/n009.png?raw=true)
+      ![picture](images/partner-connect/n008.png?raw=true)
+
+9.  申請後、下記の画面が表示されたら次のステップに進みます。この画面は閉じても問題ございません。
+    
+      ![picture](images/partner-connect/n009.png?raw=true)
 
 10. ご登録頂いたメールアドレス宛てにシステムから以下のメールが配信されます。メール本文内のURLをクリックします。
 
