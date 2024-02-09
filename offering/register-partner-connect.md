@@ -50,7 +50,7 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
 
    ![picture](images/partner-connect/n003.png?raw=true)
 
-5. Address validationの画面が表示された場合、`Suggested address` にリストされる企業情報をご確認頂き、正しいご所属企業情報が記載されている場合は選択のうえ `Accept change`を、正しいご所属企業の情報がない場合・または不明な場合は `Keep entered address` をクリックください。
+5. Address validationの画面が表示された場合、 <b>Suggested address</b> にリストされる企業情報をご確認頂き、正しいご所属企業情報が記載されている場合は選択のうえ `Accept change`を、正しいご所属企業の情報がない場合・または不明な場合は `Keep entered address` をクリックください。
 
    ![picture](images/partner-connect/n004.png?raw=true)
 
@@ -88,7 +88,7 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
       ![picture](images/partner-connect/n009.png?raw=true)
 
 10. ご登録頂いたメールアドレス宛てにシステムから以下のメールが配信されます。メール本文内のURLをクリックします。
-
+    
       ```
       ​From: no-reply-partners@redhat.com <no-reply-partners@redhat.com>
       Subject: Red Hat Connect for Business Access Confirmation
@@ -109,12 +109,12 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
    ```
 
 11. 遷移した画面にて `パートナーセンターにログイン` をクリックします。
-
-     ![picture](images/partner-connect/n010.png?raw=true)
-
+    
+      ![picture](images/partner-connect/n010.png?raw=true)
+   
 12. `REDHAT.COMアカウントへのログイン` をクリックして下さい。
-
-     ![picture](images/partner-connect/n011.png?raw=true)
+    
+      ![picture](images/partner-connect/n011.png?raw=true)
 
 13. 下記のPARTNER DASHBOARD画面が表示されれば、本手順は終了です。
 
