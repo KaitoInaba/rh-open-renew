@@ -2,6 +2,12 @@
 sort: 2
 ---
 
+<style>
+img {
+    border: 1px red solid;
+}
+</style>
+
 # Red Hat Partner Connect アカウント作成手順
 
 Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカウントに対し「貴社パートナー企業アカウント」を紐付けして頂くことでアクセスが可能となります。
