@@ -18,7 +18,7 @@ sort: 9
 ```
 
 <b>
-最終更新日：2023/10/27
+最終更新日：2024/2/14
 </b>
 
 ## 01. 製品説明資料
@@ -104,12 +104,12 @@ OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご�
 
   <tr>
     <td><!--  ドキュメント名  -->
-        Red Hat OpenShift Container Platform のライフサイクルポリシー
+        OpenShift Operator のライフサイクル
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift Data Foundationを含むOpenShift関連製品のライフサイクルポリシー、及びサポート終了日を明示します。
-      ※ こちらは日本語版のリンクを掲載しておりますが、お使いの環境によっては英語版へリダイレクトが行われる場合がございます。
-      英語版のページが表示された場合、お手数ですがサイト右上の地球儀マークより日本語表記へ切り替えてご参照ください。
+      Red Hat OpenShift Data Foundationを含むOpenShift Operator群のライフサイクルポリシー、及びサポート終了日を明示します。
+      <br>
+      ODFのライフサイクルについては、"Platform 対応 Operator"の表よりOpenShift Data Foundationの列をご確認ください。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -117,14 +117,14 @@ OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご�
     <td>
       <!--  リンク先  -->
       <a href="  
-        https://access.redhat.com/ja/support/policy/updates/openshift#odf
+        https://access.redhat.com/ja/node/7048793
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Link
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2024/2/14
     </td>
   </tr>
 
