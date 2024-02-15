@@ -1,7 +1,3 @@
----
-sort: 5
----
-
 # Red Hat Integration
 
 <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/Logo-Red_Hat-Integration-A-Standard-RGB.png?raw=true" alt="integration_logo" title="Integration">
