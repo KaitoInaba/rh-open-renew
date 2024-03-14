@@ -581,9 +581,40 @@ RHAFに含まれる各種製品について、サイジングの参考情報を�
 
 ### 02-02. 更新情報
 
-製品の特定バージョンに対し、プレゼンテーション資料や解説資料が存在する場合に掲載いたします。
+製品の更新情報について、プレゼンテーション資料や解説資料が存在する場合に掲載いたします。
 
-詳細な更新情報については、[Red Hat Integration製品マニュアル](https://access.redhat.com/documentation/en-us/red_hat_integration) より、対象のバージョンのリリースノートをご確認ください。
+詳細な更新情報については、[Red Hat Application Foundations 製品マニュアル](https://access.redhat.com/documentation/en-us/red_hat_application_foundations) より対象の個別製品のマニュアルを選択の上、リリースノートをご確認ください。
+
+
+<table>
+  <tr>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat build of Apache Camel のリリーススケジュール
+    </td>
+    <td><!--  概要  -->
+      Red Hat build of Apache Camel製品ファミリーのリリース状況、および各バージョンのリリースノートを明記したサイトです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://access.redhat.com/ja/articles/7054789
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Site
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/4/24
+    </td>
+  </tr>
+</table>
 
 ### 02-03. 個別コンポーネント
 
