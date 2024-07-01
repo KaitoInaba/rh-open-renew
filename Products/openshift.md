@@ -720,21 +720,21 @@ OpenShiftのサブスクリプションに含まれる機能群について機�
 
 OpenShiftの機能を拡充する関連製品についてのご紹介資料です。
 
+#### Red Hat OpenShift Platform Plus
+Red Hat OpenShift Platform Plus(OPP)は、OpenShiftに加えてACM、ACS、ODF、 Queyの4製品をバンドルした形でご提供するバンドルサブスクリプションです。
+
 <table>
   <tr>
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
     <td>
         <!--  ドキュメント名  -->
-        Red Hat OpenShift Platform Plus
+        Red Hat OpenShift Platform Plusのご紹介
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift Platform Plus(OPP)は、OpenShiftに加えてACM、ACS、ODF、 Queyの4製品をバンドルした形でご提供するバンドルサブスクリプションです。本資料ではこのOPPの概要とユースケースについてご紹介を行っています。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
+      OPPの概要とユースケースについてご紹介を行ったスライド資料です。
     </td>
     <td>
       <!--  リンク先  -->
@@ -750,15 +750,22 @@ OpenShiftの機能を拡充する関連製品についてのご紹介資料で�
     </td>
   </tr>
 
+</table>
+
+#### Red Hat OpenShift AI
+[Red Hat OpenShift AI](https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-ai)は、OpenShift上で稼働する柔軟でスケーラブルな人工知能 (AI) および機械学習 (ML) プラットフォームです。AI/ML一連ライフサイクルをカバーするツール群を提供し、モデル開発からその後の本番環境提供まで、一貫したプラットフォーム上で実現します。 
+
+<table>
+  <tr>
+    <th>タイトル</th><th>概要</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
   <tr>
     <td><!--  ドキュメント名  -->
       Red Hat OpenShift AI
     </td>
     <td><!--  概要  -->
-      OpenShift AIは、AI/ML一連ライフサイクルをカバーするツール群を提供し、モデル開発からその後の本番環境提供まで、一貫したプラットフォーム上で実現します。 本資料は、このOpenShift AIについて、製品の機能・メリット、および利用形態についてご紹介いたします。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
+      OpenShift AIについて、製品の機能・メリット、および利用形態についてご紹介したスライド資料です。
     </td>
     <td>
       <!--  リンク先  -->
@@ -774,15 +781,42 @@ OpenShiftの機能を拡充する関連製品についてのご紹介資料で�
     </td>
   </tr>
 
+</table>
+
+#### Red Hat Trusted Software Supply Chain
+[Red Hat Trusted Software Supply Chain（RHTSSC）](https://www.redhat.com/ja/solutions/trusted-software-supply-chain)は、ソフトウェア・サプライチェーンの脆弱性に対するレジリエンスを強化するソリューションブランドです。
+
+<table>
+  <tr>
+    <th>タイトル</th><th>概要</th><th>資料</th><th>記載確認日</th>
+  </tr>
   <tr>
     <td><!--  ドキュメント名  -->
-      Software Supply Chain Security
+      ソフトウェア・サプライチェーンにおけるセキュリティの実践ガイド
     </td>
     <td><!--  概要  -->
-      ソフトウェアサプライチェーンセキュリティにおいて、Red Hat Advanced Cluster Security + オープンソースを組み合わせ、安全にコンテナを運用頂く方法を紹介するビジネスパートナー様向けプレゼンテーション資料です。
+      コンテナ化された環境と Kubernetes 環境におけるソフトウェア・サプライチェーンのセキュリティ課題について解説し、これに対応するためのソリューションとしてRHTSSCを紹介するe-bookドキュメントです。
     </td>
-    <td><!--  対象バージョン  -->
-      4.x
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/engage/software-supply-chain-security-ebook
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2024/7/1
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Trusted Software Supply Chain ご紹介(短縮版)
+    </td>
+    <td><!--  概要  -->
+      RHTSSCに含まれる製品として、ソフトウェア開発のセキュリティを強化するためのソリューション、Red Hat Trusted Application Pipelineに関するスライド資料です。
     </td>
     <td>
       <!--  リンク先  -->
@@ -794,7 +828,7 @@ OpenShiftの機能を拡充する関連製品についてのご紹介資料で�
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/9/27
+      <!--  記載確認日  -->2024/7/1
     </td>
   </tr>
 
