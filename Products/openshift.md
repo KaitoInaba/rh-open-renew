@@ -830,12 +830,12 @@ Red Hat OpenShift Platform Plus(OPP)は、OpenShiftに加えてACM、ACS、ODF�
       Red Hat Trusted Software Supply Chain ご紹介(短縮版)
     </td>
     <td><!--  概要  -->
-      RHTSSCに含まれる製品として、ソフトウェア開発のセキュリティを強化するためのソリューション、Red Hat Trusted Application Pipelineに関するスライド資料です。
+      RHTSSCに含まれる、ソフトウェア開発のセキュリティを強化するためのソリューションRed Hat Trusted Application Pipelineに関するスライド資料です。
     </td>
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=139f5816-903d-48cf-b42a-8372d6e7adf5
+        https://content.redhat.com/us/en/assets/display.html?id=4b43679c-533c-43ed-a228-a5a0079c364c
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
@@ -848,6 +848,36 @@ Red Hat OpenShift Platform Plus(OPP)は、OpenShiftに加えてACM、ACS、ODF�
 
 </table>
 
+#### Red Hat Developer Hub
+[Red Hat Developer Hub](https://www.redhat.com/ja/technologies/cloud-computing/developer-hub)は、開発者ポータルを構築するためのエンタープライズグレードのオープンな開発者プラットフォームであり、サポート付きの独自のフレームワークを含んでいます。
+統一されたオープン・プラットフォームを通じて、オンボーディングのスピード、開発者の生産性、コラボレーションを最適化すると同時に、開発チームの認知的負荷と不満を軽減します。
+
+<table>
+  <tr>
+    <th>タイトル</th><th>概要</th><th>資料</th><th>記載確認日</th>
+  </tr>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      ハイブリッドクラウドの開発者エクスペリエンスをモダナイズ
+    </td>
+    <td><!--  概要  -->
+      近年のソフトウェア開発者の抱える負担・課題について解説を行い、これに対応するためのソリューションとしてRed Hat Developer Hubを紹介するe-bookドキュメントです。
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/engage/modernize-hybrid-cloud-developer-experience-ebook
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2024/7/1
+    </td>
+  </tr>
+
+</table>
 
 ### 02-06. OpenShift Cloud Service
 
