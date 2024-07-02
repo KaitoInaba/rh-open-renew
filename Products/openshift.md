@@ -809,7 +809,7 @@ Red Hat OpenShift Platform Plus(OPP)は、OpenShiftに加えてACM、ACS、ODF�
       Software Supply Chain Security for Partner
     </td>
     <td><!--  概要  -->
-      ソフトウェアサプライチェーンセキュリティにおいて、Red Hat Advanced Cluster Security + オープンソースを組み合わせ、安全にコンテナを運用頂く方法を紹介するビジネスパートナー様向けプレゼンテーション資料です。
+      ソフトウェアサプライチェーンセキュリティにおいて、RHTSSCに含まれる機能を組み合わせ、安全にコンテナを運用頂く方法を紹介するビジネスパートナー様向けプレゼンテーション資料です。
     </td>
     <td>
       <!--  リンク先  -->
