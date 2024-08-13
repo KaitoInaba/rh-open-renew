@@ -65,7 +65,7 @@ Red Hatとパブリッククラウドベンダーが共同で提供するManaged
 各パブリッククラウドのアカウントをお持ちであれば、こちらのコースを自習することもできます。
 
 ### アクセス
-・[Red Hat OpenShift Service on AWS (ROSA) Workshops](https://h-kojima.github.io/rosa-workshop/)
+・[Red Hat OpenShift Service on AWS (ROSA) Workshops](https://rh-open.github.io/ocp-handson/openshift-services/50-rosa-info.html)
 
 ### 利用ガイド
 
