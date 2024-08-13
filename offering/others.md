@@ -26,13 +26,8 @@ Red Hat Partner Enablement Japanは、パートナー様へのRed Hat製品のEn
 定期的にPartner Training Portalのコンテンツを使用した製品ワークショップを開催しているほか、製品に関する情報提供のセミナーを実施しています。
 パートナー様であれば参加は無料となっておりますので、是非Connpassにてグループに登録頂き、ご興味のあるイベントにご参加頂ければと存じます。
 
-開催しているワークショップの一覧は下記の"利用ガイド & 提供コンテンツ"に記載しております。また、Connpass上でのイベントの参加が難しいパートナー様や、1社での集合研修をご希望のパートナー様向けにはワークショップの個別開催も承っております。こちらについてのガイドも"利用ガイド & 提供コンテンツ"に記載しておりますので、ワークショップ開催のご要望を頂ける場合は本資料をご確認の上、弊社担当営業までご連絡ください。
-
 ### アクセス
 ・[Red Hat Partner Enablement Japan](https://redhat-open.connpass.com/)
-
-### 利用ガイド & 提供コンテンツ
-・[Partner Training Portalワークショップのご紹介](https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=b13ee0aa-bca9-424a-aadf-faba9d01f7a7)
 
 ##  Red Hat Customer Portal Labs
 Red Hat Customer Portal Labsは、AnsibleやOpenSHiftを中心としたRed Hat Productについて、パフォーマンスの向上、問題のトラブルシューティング、セキュリティ問題の特定、構成の最適化など実践的なユースケースにおけるWeb上でのハンズオンラボを提供します。
